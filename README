@@ -1,12 +1,67 @@
-# Fresher Career Insights – Chennai
+# Fresher Career Insights – Data Analysis Project
 
-Practice project analysing 1,000 fictional student profiles and their fresher-job preferences.
+## Project Overview
+This project analyses student and fresher career data to understand placement outcomes, job preferences, skills, training needs, salary expectations, and internship experience.
 
-**Important:** All student records are synthetic practice data, not real survey responses or verified vacancies.
+The project uses Python for data analysis and visualization to identify patterns and insights that can support career-readiness planning.
 
-## Open in VS Code
-1. Extract this ZIP using Windows **Extract All**.
-2. Open VS Code > File > Open Folder > choose `Fresher_Career_Insights`.
-3. Install Python for Windows from https://www.python.org/downloads/windows/ and tick **Add python.exe to PATH**.
-4. In VS Code Terminal run: `python -m pip install -r requirements.txt`
-5. Run: `python Python/01_import_and_explore.py`
+## Objectives
+- Analyse student placement outcomes.
+- Compare placement rates across degree streams.
+- Understand preferred job sectors, roles, and locations.
+- Explore salary expectations.
+- Identify common student skills.
+- Analyse training requirements and potential skill gaps.
+- Understand the relationship between internship experience and placement outcomes.
+
+## Tools & Technologies
+- Python
+- Pandas
+- Matplotlib
+- VS Code
+- CSV Dataset
+
+## Project Analysis
+This project contains 46 Python analysis steps, including:
+
+- Overall placement KPI analysis
+- Placement status analysis
+- Placement by degree stream and degree level
+- Placement by CGPA and experience
+- Placement by graduation year and age group
+- Placement by preferred sector and job role
+- Placement by work mode
+- Internship experience analysis
+- Salary expectation analysis
+- Student skill analysis
+- Top skills among placed students and job seekers
+- Training requirement analysis
+- Skill gap analysis
+- Final career insights dashboard
+
+## Key Findings
+
+- Total students analysed: 1,000
+- Students placed: 90
+- Overall placement rate: 9.00%
+- Management placement rate: 11.24%
+- Engineering placement rate: 10.65%
+- Private sector placement rate: 9.54%
+- Highest placement rate among preferred job roles: MIS Executive – 12.00%
+
+## Final Dashboard
+The final dashboard summarizes:
+- Overall placement rate
+- Placement by degree stream
+- Placement by preferred sector
+- Top job roles by placement rate
+
+## Project Structure
+- Dataset – Raw and cleaned datasets
+- Python – Python analysis scripts
+- Output – Generated charts and dashboard
+
+## Conclusion
+This project demonstrates data analysis skills using Python, including data grouping, aggregation, percentage calculations, comparison of categories, and visualization.
+
+**Dataset note:** Findings are descriptive and depend on the dataset used. They should not be interpreted as causal relationships or generalized to all students or the job market.
