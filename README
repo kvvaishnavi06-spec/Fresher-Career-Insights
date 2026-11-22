@@ -56,6 +56,9 @@ The final dashboard summarizes:
 - Placement by preferred sector
 - Top job roles by placement rate
 
+## Dashboard Preview
+[Fresher Career Insights Dashboard](46_final_career_insights_dashboard.png)
+
 ## Project Structure
 - Dataset – Raw and cleaned datasets
 - Python – Python analysis scripts
