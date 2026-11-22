@@ -1,0 +1,1001 @@
+﻿student_id,age,degree_level,stream,course,graduation_year,cgpa,preferred_sector,preferred_job_role,preferred_location,skills,internship_experience,experience_months,expected_monthly_salary_inr,government_exam_interest,private_job_interest,preferred_work_mode,job_readiness,training_required,placement_status
+STU0001,23,UG,Commerce,B.Com Accounting & Finance,2025,5.9,Government,Data Analyst,Other Tamil Nadu,Power BI; Problem-solving; SQL; Python,No,0,13000,Low,High,Remote,Job Ready,Aptitude,Seeking Job
+STU0002,21,UG,Science,B.Sc. Mathematics,2028,6.95,Private,Clerk,Tiruvallur,Problem-solving; SQL,No,0,18000,Medium,Medium,Remote,Developing,Interview Skills,Seeking Job
+STU0003,24,UG,Science,B.Sc. Mathematics,2027,9.74,Government,Data Analyst,Chennai,Python; Data Analysis; Communication; Typing; Tally,No,0,36000,Medium,Medium,Remote,Developing,SQL,Seeking Job
+STU0004,24,UG,Science,B.Sc. Physics,2027,9.75,Government,Banking Associate,Other Tamil Nadu,Typing; Customer Support,Yes,4,32000,High,High,On-site,Developing,Power BI,Seeking Job
+STU0005,24,UG,Science,B.Sc. Computer Science,2026,8.7,Not decided,HR Assistant,Kanchipuram,Power BI; Customer Support; HTML/CSS; Java,No,0,39000,Low,Medium,Hybrid,Beginner,SQL,Seeking Job
+STU0006,24,UG,Arts,B.A. English,2027,8.06,Government,Customer Support Executive,Other Tamil Nadu,SQL; Customer Support,Yes,5,12000,Low,Low,On-site,Job Ready,Communication,Higher Studies
+STU0007,24,UG,Engineering,B.E. ECE,2027,5.96,Private,Banking Associate,Kanchipuram,Java; SQL; HTML/CSS; MS Excel,No,0,44000,Low,High,On-site,Developing,Interview Skills,Seeking Job
+STU0008,19,PG,Management,BCA,2026,6.54,Not decided,Sales Executive,Chennai,Typing; Tally,No,0,17000,Low,Medium,On-site,Job Ready,Interview Skills,Seeking Job
+STU0009,20,PG,Commerce,B.Com Corporate Secretaryship,2027,8.57,Not decided,Accounts Assistant,Kanchipuram,Communication; Data Analysis; Typing,No,0,40000,Low,Medium,On-site,Beginner,SQL,Seeking Job
+STU0010,25,UG,Arts,B.A. Economics,2026,7.59,Private,HR Assistant,Chengalpattu,Power BI; MS Excel; Python; Accounting; Problem-solving; Customer Support,No,0,42000,High,Medium,Hybrid,Beginner,Python,Seeking Job
+STU0011,21,UG,Science,B.Sc. Statistics,2026,6.32,Private,Customer Support Executive,Chengalpattu,Accounting; MS Excel; Customer Support; Python; Problem-solving,No,0,39000,High,Medium,Hybrid,Beginner,Interview Skills,Preparing for Exams
+STU0012,25,UG,Science,B.Sc. Physics,2027,6.42,Both,Accounts Assistant,Chennai,Python; MS Excel; Customer Support; Data Analysis; Accounting; Problem-solving,No,0,22000,Medium,High,Hybrid,Developing,Interview Skills,Higher Studies
+STU0013,19,UG,Science,B.Sc. Chemistry,2025,6.85,Both,Junior Assistant,Other Tamil Nadu,Customer Support; Accounting; HTML/CSS; SQL; Power BI; Communication,Yes,8,44000,Low,High,On-site,Job Ready,Python,Preparing for Exams
+STU0014,23,UG,Arts,B.A. English,2027,8.01,Government,HR Assistant,Kanchipuram,Java; Python; Typing,Yes,5,25000,Low,Low,Hybrid,Beginner,Excel,Seeking Job
+STU0015,23,Diploma,Commerce,B.Com,2027,7.68,Private,Data Entry Operator,Kanchipuram,Problem-solving; Python; MS Excel; HTML/CSS,No,0,16000,High,Medium,Hybrid,Beginner,Power BI,Preparing for Exams
+STU0016,19,UG,Engineering,B.E. ECE,2026,8.1,Private,Graduate Trainee,Kanchipuram,MS Excel; Customer Support; Data Analysis; Communication; Python; SQL,Yes,4,28000,Low,Medium,Hybrid,Beginner,Python,Placed
+STU0017,22,UG,Engineering,B.Tech IT,2027,5.98,Government,Graduate Trainee,Chengalpattu,Problem-solving; SQL; Customer Support; Communication,Yes,9,14000,Medium,Low,Remote,Beginner,Power BI,Seeking Job
+STU0018,24,UG,Science,B.Sc. Chemistry,2028,7.25,Both,Sales Executive,Chengalpattu,Tally; Power BI,No,0,27000,High,High,Hybrid,Beginner,SQL,Higher Studies
+STU0019,19,UG,Science,B.Sc. Mathematics,2026,9.45,Not decided,Software Developer,Kanchipuram,Communication; SQL; Python,No,0,26000,High,High,Remote,Beginner,Power BI,Seeking Job
+STU0020,25,UG,Engineering,B.E. Computer Science,2025,9.67,Not decided,Data Entry Operator,Other Tamil Nadu,Tally; Customer Support; Data Analysis; Java,No,0,28000,High,High,Remote,Developing,Excel,Higher Studies
+STU0021,19,UG,Science,B.Sc. Chemistry,2027,9.54,Private,Graduate Trainee,Chengalpattu,Python; Java; Typing; Power BI; Communication; MS Excel,No,0,35000,Medium,High,Remote,Developing,Communication,Seeking Job
+STU0022,24,UG,Engineering,B.E. ECE,2026,8.36,Both,Accounts Assistant,Chengalpattu,Data Analysis; Communication; Customer Support; Java,No,0,31000,Medium,Low,On-site,Developing,Excel,Seeking Job
+STU0023,25,PG,Engineering,B.E. ECE,2027,6.72,Private,Banking Associate,Other Tamil Nadu,HTML/CSS; Problem-solving; Accounting; Power BI,No,0,33000,High,High,Remote,Developing,SQL,Preparing for Exams
+STU0024,22,UG,Arts,B.A. Economics,2026,8.46,Government,Clerk,Tiruvallur,Typing; Python; HTML/CSS; Java; Power BI,No,0,26000,High,Low,Remote,Developing,Python,Seeking Job
+STU0025,23,UG,Management,BCA,2027,8.59,Government,HR Assistant,Tiruvallur,Problem-solving; HTML/CSS; Customer Support,No,0,40000,High,Low,Hybrid,Developing,Excel,Higher Studies
+STU0026,20,UG,Engineering,B.E. Mechanical,2028,5.85,Government,Data Entry Operator,Chengalpattu,HTML/CSS; Customer Support; Power BI; Communication; Problem-solving; Python,No,0,36000,Low,High,Remote,Beginner,Python,Seeking Job
+STU0027,25,UG,Science,B.Sc. Statistics,2028,8.79,Private,Accounts Assistant,Tiruvallur,Power BI; Java,No,0,12000,Medium,Medium,Hybrid,Developing,Communication,Higher Studies
+STU0028,19,UG,Commerce,B.Com Corporate Secretaryship,2027,7.24,Private,Data Entry Operator,Tiruvallur,HTML/CSS; Power BI; Communication,No,0,20000,Low,Low,On-site,Developing,Communication,Seeking Job
+STU0029,21,UG,Arts,B.A. History,2027,9.28,Both,MIS Executive,Tiruvallur,HTML/CSS; SQL; MS Excel,Yes,5,17000,Medium,High,Remote,Job Ready,Python,Preparing for Exams
+STU0030,20,UG,Science,B.Sc. Chemistry,2026,6.04,Both,Banking Associate,Chennai,Problem-solving; MS Excel,No,0,25000,Medium,Low,Hybrid,Developing,SQL,Placed
+STU0031,21,UG,Management,BCA,2027,8.57,Both,Clerk,Other Tamil Nadu,Communication; Python; Typing,Yes,12,27000,High,Low,Hybrid,Job Ready,Communication,Preparing for Exams
+STU0032,21,UG,Engineering,B.E. Mechanical,2025,7.31,Private,Customer Support Executive,Chennai,Tally; Data Analysis,No,0,39000,Medium,Low,Hybrid,Job Ready,SQL,Seeking Job
+STU0033,24,UG,Engineering,B.E. Mechanical,2028,9.07,Not decided,Clerk,Kanchipuram,Typing; Data Analysis; HTML/CSS; Customer Support,No,0,40000,High,Medium,Remote,Job Ready,Aptitude,Seeking Job
+STU0034,21,UG,Arts,B.A. History,2027,7.72,Both,Data Analyst,Chennai,HTML/CSS; Power BI; Tally,No,0,27000,Low,Medium,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0035,20,UG,Commerce,B.Com Corporate Secretaryship,2027,7.88,Both,Software Developer,Tiruvallur,Problem-solving; MS Excel; Python; Communication; Power BI,No,0,33000,Medium,Low,Hybrid,Developing,Excel,Seeking Job
+STU0036,24,UG,Arts,B.A. Economics,2027,6.69,Government,Sales Executive,Other Tamil Nadu,Accounting; Data Analysis,No,0,30000,High,High,Hybrid,Beginner,Excel,Seeking Job
+STU0037,20,UG,Arts,B.A. Tamil,2025,5.55,Private,MIS Executive,Tiruvallur,MS Excel; Problem-solving; Data Analysis; Communication,No,0,42000,Medium,Medium,On-site,Beginner,Excel,Preparing for Exams
+STU0038,23,PG,Commerce,B.Com,2028,6.01,Both,Accounts Assistant,Other Tamil Nadu,HTML/CSS; Python; Typing; MS Excel; SQL,Yes,10,26000,Low,Medium,Hybrid,Developing,Excel,Preparing for Exams
+STU0039,20,UG,Management,BBA,2026,7.26,Private,Graduate Trainee,Other Tamil Nadu,MS Excel; Typing; Python; Power BI; Accounting; Communication,No,0,42000,Medium,High,On-site,Developing,Aptitude,Seeking Job
+STU0040,20,UG,Engineering,B.E. ECE,2027,9.41,Government,Data Entry Operator,Chennai,Communication; Customer Support; Typing,No,0,15000,High,Medium,Remote,Job Ready,Interview Skills,Seeking Job
+STU0041,22,UG,Science,B.Sc. Statistics,2028,8.66,Government,Sales Executive,Kanchipuram,Accounting; Java; Communication; Data Analysis,No,0,13000,High,High,Remote,Job Ready,Communication,Preparing for Exams
+STU0042,22,PG,Management,BBA,2028,7.37,Both,Customer Support Executive,Chennai,Typing; MS Excel; SQL; HTML/CSS,No,0,42000,Medium,Medium,Hybrid,Developing,Aptitude,Seeking Job
+STU0043,21,UG,Arts,B.A. English,2028,7.24,Private,HR Assistant,Chennai,Communication; Customer Support; Java; Data Analysis; MS Excel,No,0,41000,Medium,High,On-site,Job Ready,Excel,Placed
+STU0044,21,UG,Commerce,B.Com Corporate Secretaryship,2027,5.62,Private,Banking Associate,Other Tamil Nadu,Power BI; Communication,No,0,27000,Low,High,Hybrid,Job Ready,Python,Seeking Job
+STU0045,20,UG,Arts,B.A. History,2027,6.68,Not decided,Customer Support Executive,Tiruvallur,HTML/CSS; Python,No,0,27000,Medium,Low,On-site,Developing,SQL,Preparing for Exams
+STU0046,25,UG,Commerce,B.Com,2026,6.78,Both,Sales Executive,Other Tamil Nadu,Communication; Java,No,0,43000,High,Medium,Remote,Developing,Excel,Seeking Job
+STU0047,25,UG,Engineering,B.E. Computer Science,2026,7.53,Private,Accounts Assistant,Tiruvallur,Power BI; Accounting; Problem-solving; Typing,No,0,21000,Medium,High,On-site,Job Ready,Communication,Seeking Job
+STU0048,20,UG,Arts,B.A. Economics,2025,8.86,Both,MIS Executive,Kanchipuram,Data Analysis; HTML/CSS,Yes,10,37000,Low,High,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0049,21,Diploma,Management,BBA,2027,5.92,Both,Banking Associate,Chennai,Data Analysis; MS Excel; Typing; Python; Power BI,No,0,40000,High,Low,Hybrid,Beginner,Python,Seeking Job
+STU0050,19,UG,Arts,B.A. Tamil,2027,6.54,Private,Sales Executive,Chengalpattu,SQL; Power BI; Data Analysis; Java; Problem-solving,Yes,4,41000,Low,Medium,Hybrid,Developing,Aptitude,Seeking Job
+STU0051,22,UG,Engineering,B.E. ECE,2028,9.17,Both,Clerk,Chengalpattu,SQL; Python; HTML/CSS; Tally; Communication; Java,No,0,36000,Low,Medium,Remote,Developing,Aptitude,Seeking Job
+STU0052,24,UG,Management,BCA,2027,6.49,Both,Software Developer,Chengalpattu,MS Excel; Typing; Customer Support; Problem-solving,No,0,24000,Low,Medium,Remote,Job Ready,Interview Skills,Placed
+STU0053,21,UG,Engineering,B.E. Computer Science,2028,6.9,Both,Accounts Assistant,Chengalpattu,Communication; HTML/CSS,Yes,4,20000,Low,Medium,Remote,Job Ready,Excel,Preparing for Exams
+STU0054,20,UG,Science,B.Sc. Mathematics,2028,8.61,Both,Accounts Assistant,Other Tamil Nadu,Problem-solving; Communication; Tally; Python; HTML/CSS,No,0,35000,High,Medium,On-site,Developing,Communication,Seeking Job
+STU0055,20,UG,Science,B.Sc. Chemistry,2028,7.91,Both,Sales Executive,Chengalpattu,Typing; Java; Customer Support; Tally,Yes,11,16000,Low,Medium,Remote,Developing,Aptitude,Seeking Job
+STU0056,20,UG,Arts,B.A. History,2027,8.7,Not decided,HR Assistant,Tiruvallur,HTML/CSS; Python; Accounting; Power BI,No,0,21000,Medium,Low,On-site,Developing,Communication,Seeking Job
+STU0057,19,Diploma,Management,BCA,2027,9.7,Government,Software Developer,Chennai,Power BI; HTML/CSS; Accounting; Problem-solving,No,0,37000,Medium,High,On-site,Developing,Python,Placed
+STU0058,20,UG,Commerce,B.Com,2025,8.79,Private,Data Analyst,Other Tamil Nadu,MS Excel; Tally,Yes,4,26000,Medium,High,Remote,Beginner,Excel,Preparing for Exams
+STU0059,21,UG,Arts,B.A. Economics,2027,5.57,Government,MIS Executive,Chennai,Problem-solving; SQL; Python; MS Excel,Yes,3,38000,Low,High,Remote,Beginner,Power BI,Seeking Job
+STU0060,24,Diploma,Science,B.Sc. Statistics,2028,9.14,Private,Accounts Assistant,Chennai,Data Analysis; Power BI; Typing; MS Excel; Problem-solving,Yes,8,40000,High,High,Hybrid,Job Ready,SQL,Seeking Job
+STU0061,23,UG,Science,B.Sc. Statistics,2028,8.3,Both,HR Assistant,Chengalpattu,Accounting; Tally; Java; Typing; Data Analysis; Communication,No,0,39000,Medium,High,Hybrid,Developing,Interview Skills,Seeking Job
+STU0062,22,UG,Science,B.Sc. Statistics,2025,5.92,Government,Graduate Trainee,Kanchipuram,Tally; Customer Support; Communication; Problem-solving; SQL,No,0,20000,Low,High,Remote,Job Ready,Communication,Seeking Job
+STU0063,23,UG,Arts,B.A. Economics,2027,6.46,Private,Clerk,Kanchipuram,Accounting; MS Excel; Communication; Typing; Customer Support,No,0,35000,High,Medium,Remote,Beginner,Interview Skills,Seeking Job
+STU0064,21,UG,Commerce,B.Com Accounting & Finance,2028,7.01,Both,Data Entry Operator,Chengalpattu,Typing; Customer Support; Accounting; Data Analysis; MS Excel; Communication,Yes,10,37000,High,High,Remote,Job Ready,Python,Seeking Job
+STU0065,23,UG,Commerce,B.Com,2026,8.74,Private,Junior Assistant,Chennai,Tally; SQL; Problem-solving; Communication; Customer Support,No,0,29000,Medium,Low,Hybrid,Developing,Communication,Seeking Job
+STU0066,24,UG,Science,B.Sc. Physics,2027,6.83,Both,Data Analyst,Tiruvallur,Tally; Java,Yes,10,15000,High,High,Hybrid,Beginner,Interview Skills,Seeking Job
+STU0067,20,UG,Science,B.Sc. Mathematics,2027,9.08,Private,Software Developer,Chennai,HTML/CSS; Accounting,No,0,37000,Low,High,Hybrid,Beginner,Power BI,Preparing for Exams
+STU0068,21,UG,Engineering,B.Tech IT,2028,9.46,Private,Clerk,Tiruvallur,Java; Accounting; Customer Support; Problem-solving; Communication; Python,No,0,18000,High,Medium,Remote,Developing,Communication,Seeking Job
+STU0069,19,UG,Engineering,B.E. ECE,2028,7.0,Both,Graduate Trainee,Chengalpattu,Tally; SQL; Python,No,0,27000,High,High,Hybrid,Beginner,SQL,Placed
+STU0070,23,UG,Engineering,B.Tech IT,2027,9.29,Both,Banking Associate,Other Tamil Nadu,Problem-solving; Customer Support; HTML/CSS,No,0,32000,Low,Medium,On-site,Developing,Python,Seeking Job
+STU0071,19,UG,Commerce,B.Com Accounting & Finance,2025,9.22,Both,Clerk,Other Tamil Nadu,MS Excel; Tally; Data Analysis; Python; Communication; HTML/CSS,No,0,44000,Medium,Medium,Remote,Job Ready,Interview Skills,Higher Studies
+STU0072,22,UG,Arts,B.A. History,2028,5.86,Both,Banking Associate,Chengalpattu,Customer Support; Power BI; Tally; Typing; HTML/CSS; SQL,No,0,14000,High,Low,Hybrid,Developing,Communication,Seeking Job
+STU0073,24,UG,Arts,B.A. English,2027,7.9,Private,Accounts Assistant,Kanchipuram,Java; Problem-solving; Tally; Typing,Yes,5,21000,Medium,High,Remote,Job Ready,SQL,Preparing for Exams
+STU0074,25,UG,Science,B.Sc. Mathematics,2027,9.06,Both,Graduate Trainee,Other Tamil Nadu,SQL; Typing; Python; Communication; Data Analysis,No,0,17000,Low,Low,Hybrid,Job Ready,Excel,Seeking Job
+STU0075,20,UG,Science,B.Sc. Statistics,2027,7.82,Not decided,Graduate Trainee,Other Tamil Nadu,Problem-solving; HTML/CSS; Power BI; Customer Support,No,0,14000,Low,Medium,Remote,Beginner,Communication,Seeking Job
+STU0076,20,Diploma,Arts,B.A. History,2027,8.87,Both,Data Analyst,Other Tamil Nadu,Problem-solving; SQL; HTML/CSS; MS Excel; Java; Tally,No,0,27000,Medium,Medium,On-site,Developing,Aptitude,Preparing for Exams
+STU0077,20,UG,Management,BBA,2028,5.72,Private,Customer Support Executive,Kanchipuram,Problem-solving; Java; Data Analysis; Customer Support,No,0,18000,Low,Low,On-site,Developing,Python,Higher Studies
+STU0078,21,PG,Science,B.Sc. Physics,2025,7.66,Both,Data Analyst,Tiruvallur,Java; Python; Power BI,No,0,17000,Medium,High,On-site,Developing,Python,Preparing for Exams
+STU0079,20,UG,Commerce,B.Com Accounting & Finance,2027,5.52,Both,Clerk,Chennai,MS Excel; Communication; HTML/CSS,No,0,28000,High,High,Remote,Job Ready,Communication,Seeking Job
+STU0080,23,UG,Arts,B.A. English,2028,7.65,Private,HR Assistant,Chennai,Python; MS Excel; Power BI; Java,No,0,44000,Low,High,Remote,Beginner,Excel,Seeking Job
+STU0081,19,PG,Commerce,B.Com Corporate Secretaryship,2027,9.75,Government,HR Assistant,Chennai,SQL; Customer Support; Accounting; Python; Data Analysis,No,0,36000,Medium,High,Remote,Developing,Excel,Seeking Job
+STU0082,24,UG,Arts,B.A. Economics,2025,7.85,Both,Banking Associate,Chengalpattu,Power BI; Accounting; Customer Support; Python,No,0,41000,Low,Medium,Remote,Beginner,Interview Skills,Seeking Job
+STU0083,20,PG,Engineering,B.E. Mechanical,2028,7.72,Not decided,HR Assistant,Tiruvallur,Communication; Power BI,Yes,5,14000,Low,High,Hybrid,Developing,Interview Skills,Higher Studies
+STU0084,22,UG,Engineering,B.Tech IT,2027,6.3,Private,Graduate Trainee,Tiruvallur,Problem-solving; Tally,No,0,35000,Low,Medium,On-site,Job Ready,Power BI,Seeking Job
+STU0085,23,UG,Commerce,B.Com,2027,7.01,Both,Junior Assistant,Kanchipuram,Communication; Tally; Python; Customer Support; Accounting; Problem-solving,Yes,10,39000,Medium,Low,On-site,Beginner,Aptitude,Placed
+STU0086,22,UG,Science,B.Sc. Statistics,2026,8.27,Both,Software Developer,Tiruvallur,MS Excel; SQL; Typing,No,0,14000,Low,High,Remote,Developing,Excel,Seeking Job
+STU0087,20,UG,Engineering,B.Tech IT,2028,6.01,Private,MIS Executive,Tiruvallur,Tally; Java; Problem-solving; Communication; Power BI; Python,Yes,4,30000,Low,Medium,On-site,Beginner,SQL,Preparing for Exams
+STU0088,21,PG,Science,B.Sc. Mathematics,2027,9.49,Both,Banking Associate,Chengalpattu,Python; Customer Support; Tally; Accounting; Problem-solving,No,0,35000,Low,High,On-site,Beginner,Interview Skills,Seeking Job
+STU0089,22,Diploma,Engineering,B.Tech IT,2027,8.81,Government,Sales Executive,Chennai,Typing; Tally; HTML/CSS; Data Analysis; SQL; Python,Yes,3,32000,Low,High,Hybrid,Developing,Aptitude,Seeking Job
+STU0090,23,UG,Arts,B.A. Economics,2026,9.52,Both,Data Analyst,Kanchipuram,Customer Support; Typing; SQL; Problem-solving; Java; MS Excel,No,0,45000,Medium,High,Hybrid,Beginner,Aptitude,Preparing for Exams
+STU0091,24,PG,Science,B.Sc. Computer Science,2028,7.92,Both,Junior Assistant,Chennai,Data Analysis; Python; Problem-solving; SQL; Typing; Customer Support,No,0,14000,Low,Low,Hybrid,Job Ready,SQL,Higher Studies
+STU0092,25,UG,Science,B.Sc. Computer Science,2027,8.46,Both,Data Entry Operator,Tiruvallur,Customer Support; Data Analysis; Communication; Problem-solving; HTML/CSS,Yes,7,42000,Medium,High,Hybrid,Job Ready,SQL,Seeking Job
+STU0093,21,UG,Engineering,B.E. Computer Science,2026,6.57,Both,Clerk,Chennai,Java; SQL; Tally; Data Analysis,No,0,30000,Medium,Low,Hybrid,Beginner,Interview Skills,Preparing for Exams
+STU0094,21,UG,Engineering,B.E. Computer Science,2028,7.67,Not decided,Data Analyst,Chengalpattu,Power BI; SQL; HTML/CSS; Data Analysis,No,0,34000,High,High,Hybrid,Developing,Communication,Preparing for Exams
+STU0095,21,UG,Commerce,B.Com,2027,6.34,Private,HR Assistant,Kanchipuram,MS Excel; Python; Java; SQL; Communication; Tally,No,0,16000,Medium,Low,Hybrid,Job Ready,Excel,Preparing for Exams
+STU0096,21,UG,Commerce,B.Com Accounting & Finance,2027,6.36,Private,HR Assistant,Tiruvallur,Python; Java; Tally,No,0,44000,High,High,On-site,Beginner,Aptitude,Seeking Job
+STU0097,23,UG,Commerce,B.Com Accounting & Finance,2027,7.68,Private,HR Assistant,Other Tamil Nadu,Data Analysis; SQL; Tally; Typing; Customer Support; Accounting,No,0,43000,Low,Low,Hybrid,Developing,Interview Skills,Seeking Job
+STU0098,24,UG,Science,B.Sc. Chemistry,2027,8.6,Government,Sales Executive,Tiruvallur,Typing; Communication; Customer Support; MS Excel; HTML/CSS,Yes,3,45000,Low,Low,Remote,Developing,SQL,Preparing for Exams
+STU0099,22,UG,Science,B.Sc. Mathematics,2027,8.83,Private,Customer Support Executive,Chennai,Power BI; MS Excel,No,0,20000,Low,High,Remote,Developing,Aptitude,Seeking Job
+STU0100,20,PG,Science,B.Sc. Computer Science,2027,6.47,Not decided,MIS Executive,Kanchipuram,Data Analysis; Tally; Problem-solving; Accounting; Communication,No,0,25000,Low,Low,Hybrid,Developing,Power BI,Seeking Job
+STU0101,22,UG,Management,BBA,2026,6.74,Both,Graduate Trainee,Chennai,Communication; Python; Typing; Data Analysis,No,0,34000,Medium,Low,Hybrid,Job Ready,Power BI,Seeking Job
+STU0102,23,UG,Engineering,B.E. ECE,2025,7.28,Government,Graduate Trainee,Tiruvallur,Accounting; Communication; SQL; Python; Power BI; Data Analysis,Yes,2,20000,High,Low,On-site,Developing,Aptitude,Preparing for Exams
+STU0103,19,PG,Engineering,B.E. Computer Science,2027,6.5,Private,Graduate Trainee,Chennai,Problem-solving; Communication; Tally,Yes,3,38000,High,High,Hybrid,Developing,SQL,Preparing for Exams
+STU0104,19,PG,Management,BCA,2026,9.75,Not decided,HR Assistant,Other Tamil Nadu,MS Excel; Communication,No,0,43000,High,Low,Hybrid,Developing,SQL,Preparing for Exams
+STU0105,23,UG,Science,B.Sc. Mathematics,2026,9.18,Both,Accounts Assistant,Tiruvallur,Accounting; SQL; MS Excel; Tally,No,0,44000,Medium,High,Hybrid,Job Ready,Python,Seeking Job
+STU0106,25,UG,Arts,B.A. History,2026,8.61,Private,Junior Assistant,Kanchipuram,MS Excel; Communication; Java,Yes,11,35000,Low,High,On-site,Job Ready,Python,Seeking Job
+STU0107,20,UG,Arts,B.A. Economics,2027,7.46,Both,Sales Executive,Kanchipuram,Accounting; Python; Customer Support; Communication,No,0,38000,Low,Low,Hybrid,Job Ready,Interview Skills,Placed
+STU0108,23,UG,Science,B.Sc. Chemistry,2028,6.37,Government,HR Assistant,Chengalpattu,Problem-solving; Python; Data Analysis; HTML/CSS; Customer Support; Tally,Yes,3,32000,Low,Medium,On-site,Job Ready,SQL,Higher Studies
+STU0109,23,UG,Commerce,B.Com Accounting & Finance,2027,6.83,Both,Junior Assistant,Tiruvallur,Problem-solving; MS Excel; HTML/CSS; SQL; Data Analysis,No,0,28000,High,Low,On-site,Job Ready,Python,Seeking Job
+STU0110,22,UG,Science,B.Sc. Mathematics,2027,9.71,Government,Banking Associate,Tiruvallur,Python; HTML/CSS,Yes,6,36000,Medium,Medium,Hybrid,Beginner,Aptitude,Preparing for Exams
+STU0111,24,Diploma,Engineering,B.E. Computer Science,2027,9.71,Government,Customer Support Executive,Other Tamil Nadu,Python; SQL; Data Analysis; Java,No,0,39000,Low,Medium,On-site,Beginner,Power BI,Seeking Job
+STU0112,25,PG,Science,B.Sc. Statistics,2026,5.79,Not decided,Sales Executive,Chennai,MS Excel; Customer Support,No,0,40000,Low,Low,Remote,Beginner,SQL,Higher Studies
+STU0113,21,UG,Science,B.Sc. Chemistry,2026,8.07,Government,Banking Associate,Kanchipuram,Problem-solving; MS Excel; SQL,No,0,27000,Medium,High,Remote,Job Ready,SQL,Seeking Job
+STU0114,21,PG,Science,B.Sc. Physics,2027,6.87,Private,Accounts Assistant,Tiruvallur,Accounting; SQL; Customer Support; Java; Data Analysis; HTML/CSS,Yes,3,31000,Medium,High,Remote,Developing,SQL,Preparing for Exams
+STU0115,22,UG,Science,B.Sc. Mathematics,2027,5.84,Both,Customer Support Executive,Kanchipuram,MS Excel; Data Analysis; Java; Customer Support; Accounting,No,0,17000,Low,Low,On-site,Beginner,Excel,Seeking Job
+STU0116,23,UG,Commerce,B.Com,2028,6.93,Government,Junior Assistant,Chengalpattu,Power BI; Typing,No,0,24000,Low,High,Remote,Developing,SQL,Placed
+STU0117,23,UG,Engineering,B.E. Mechanical,2026,7.71,Private,Customer Support Executive,Tiruvallur,Data Analysis; Tally; Communication,No,0,18000,Low,Medium,Hybrid,Beginner,Excel,Seeking Job
+STU0118,23,UG,Arts,B.A. History,2026,6.92,Both,Accounts Assistant,Other Tamil Nadu,MS Excel; Communication; Data Analysis,No,0,27000,Medium,Low,Remote,Job Ready,Excel,Seeking Job
+STU0119,22,UG,Engineering,B.E. Computer Science,2027,9.11,Not decided,Clerk,Chennai,HTML/CSS; SQL; Tally; Accounting; Typing,No,0,12000,Medium,High,Remote,Beginner,Python,Higher Studies
+STU0120,24,UG,Arts,B.A. English,2027,7.27,Private,Junior Assistant,Other Tamil Nadu,MS Excel; Typing; Customer Support; Accounting,No,0,29000,Low,Medium,On-site,Job Ready,Interview Skills,Placed
+STU0121,20,UG,Science,B.Sc. Computer Science,2028,6.65,Not decided,Accounts Assistant,Chennai,Python; Problem-solving; Data Analysis,Yes,6,37000,Medium,Low,On-site,Job Ready,SQL,Seeking Job
+STU0122,23,UG,Engineering,B.E. Computer Science,2027,5.86,Government,Accounts Assistant,Kanchipuram,Python; Java,No,0,18000,Low,High,On-site,Beginner,Interview Skills,Placed
+STU0123,23,UG,Commerce,B.Com,2028,6.85,Government,Data Analyst,Other Tamil Nadu,Customer Support; Communication,No,0,21000,Low,Medium,On-site,Developing,SQL,Seeking Job
+STU0124,22,UG,Commerce,B.Com,2027,8.81,Both,Sales Executive,Tiruvallur,Tally; Java; SQL; Python; Data Analysis; Problem-solving,Yes,6,13000,Low,Medium,Hybrid,Developing,SQL,Seeking Job
+STU0125,19,UG,Management,BCA,2027,8.23,Private,Graduate Trainee,Tiruvallur,Customer Support; Java; Python; Typing; Communication; Power BI,No,0,32000,Medium,High,On-site,Beginner,Excel,Seeking Job
+STU0126,23,UG,Engineering,B.E. Computer Science,2025,7.02,Government,Clerk,Other Tamil Nadu,SQL; Java,No,0,32000,Medium,High,Hybrid,Developing,Power BI,Higher Studies
+STU0127,20,UG,Engineering,B.E. Mechanical,2026,6.13,Private,Data Entry Operator,Tiruvallur,Typing; Data Analysis; SQL,No,0,29000,Medium,Medium,Hybrid,Beginner,Excel,Seeking Job
+STU0128,22,UG,Science,B.Sc. Chemistry,2027,9.21,Both,Customer Support Executive,Kanchipuram,Typing; Power BI; HTML/CSS; Python; SQL; Communication,Yes,7,20000,Medium,Medium,Remote,Job Ready,SQL,Seeking Job
+STU0129,25,UG,Arts,B.A. Tamil,2026,8.88,Private,Software Developer,Chennai,Communication; Accounting; Customer Support; HTML/CSS,No,0,24000,Low,Low,On-site,Job Ready,Interview Skills,Seeking Job
+STU0130,25,UG,Management,BCA,2026,6.8,Private,MIS Executive,Chengalpattu,HTML/CSS; Communication; Python,No,0,39000,Medium,High,Hybrid,Job Ready,Power BI,Placed
+STU0131,20,UG,Commerce,B.Com Accounting & Finance,2026,8.13,Not decided,Sales Executive,Tiruvallur,Data Analysis; MS Excel; Tally; Problem-solving; Python,Yes,6,39000,High,High,On-site,Developing,SQL,Seeking Job
+STU0132,19,UG,Commerce,B.Com Accounting & Finance,2027,9.64,Private,Clerk,Chengalpattu,Power BI; HTML/CSS; Tally; Java; Accounting; SQL,No,0,34000,Medium,Medium,Hybrid,Beginner,Communication,Seeking Job
+STU0133,21,UG,Commerce,B.Com Corporate Secretaryship,2028,9.5,Private,Graduate Trainee,Chengalpattu,Tally; Python; Communication; MS Excel; Accounting,Yes,9,23000,Low,High,Hybrid,Job Ready,Power BI,Preparing for Exams
+STU0134,19,UG,Science,B.Sc. Mathematics,2027,7.35,Private,Junior Assistant,Chengalpattu,SQL; Customer Support; Accounting,No,0,25000,Medium,Low,On-site,Job Ready,Python,Higher Studies
+STU0135,22,UG,Commerce,B.Com Corporate Secretaryship,2026,7.17,Private,Accounts Assistant,Other Tamil Nadu,HTML/CSS; Python; Communication,No,0,19000,Medium,Medium,Hybrid,Job Ready,SQL,Preparing for Exams
+STU0136,19,UG,Engineering,B.E. ECE,2027,7.3,Private,Data Entry Operator,Other Tamil Nadu,Typing; Python; Customer Support; SQL; Tally; Accounting,Yes,7,39000,High,Medium,Remote,Job Ready,Aptitude,Preparing for Exams
+STU0137,25,UG,Management,BBA,2028,9.59,Government,Customer Support Executive,Chengalpattu,HTML/CSS; Communication; SQL,Yes,4,36000,Low,Low,Remote,Developing,Power BI,Placed
+STU0138,21,UG,Science,B.Sc. Computer Science,2026,7.47,Both,Graduate Trainee,Tiruvallur,SQL; Python; Typing; MS Excel; Power BI,Yes,9,44000,High,Low,On-site,Developing,Interview Skills,Seeking Job
+STU0139,20,Diploma,Management,BBA,2027,8.31,Private,Data Analyst,Kanchipuram,Problem-solving; Accounting,No,0,14000,Medium,Medium,Hybrid,Beginner,Power BI,Preparing for Exams
+STU0140,25,UG,Arts,B.A. Tamil,2026,6.1,Both,Data Analyst,Chengalpattu,Problem-solving; Accounting; Typing,No,0,15000,Low,Medium,Remote,Developing,Communication,Seeking Job
+STU0141,25,UG,Science,B.Sc. Statistics,2028,9.23,Both,Data Entry Operator,Chengalpattu,Typing; Communication; Data Analysis; Python,Yes,4,21000,Low,Medium,On-site,Job Ready,Power BI,Seeking Job
+STU0142,21,UG,Commerce,B.Com Accounting & Finance,2027,7.6,Government,Sales Executive,Chennai,Java; HTML/CSS; Python; Customer Support; Problem-solving,No,0,17000,Low,Medium,Remote,Job Ready,Aptitude,Seeking Job
+STU0143,25,UG,Arts,B.A. Economics,2027,7.59,Private,Software Developer,Chennai,Java; Power BI; HTML/CSS,Yes,1,18000,Low,Medium,On-site,Beginner,Interview Skills,Seeking Job
+STU0144,21,UG,Science,B.Sc. Computer Science,2026,7.1,Not decided,Banking Associate,Chengalpattu,Power BI; Accounting; SQL; Communication; Customer Support,No,0,15000,Medium,Low,Hybrid,Job Ready,Aptitude,Higher Studies
+STU0145,20,UG,Science,B.Sc. Chemistry,2027,5.54,Government,Graduate Trainee,Kanchipuram,MS Excel; Power BI,No,0,19000,Medium,Low,On-site,Developing,Python,Seeking Job
+STU0146,20,UG,Arts,B.A. Economics,2027,8.41,Both,Clerk,Other Tamil Nadu,Tally; Problem-solving,No,0,12000,Low,Low,On-site,Developing,Excel,Higher Studies
+STU0147,20,UG,Commerce,B.Com Corporate Secretaryship,2027,7.01,Government,Accounts Assistant,Kanchipuram,Typing; Customer Support; HTML/CSS; Power BI; Python,No,0,20000,High,Medium,Remote,Beginner,SQL,Seeking Job
+STU0148,23,UG,Commerce,B.Com Corporate Secretaryship,2027,8.28,Private,Data Analyst,Tiruvallur,Customer Support; Communication,Yes,7,19000,High,Medium,Remote,Job Ready,Python,Seeking Job
+STU0149,24,UG,Management,BCA,2028,8.81,Not decided,Junior Assistant,Other Tamil Nadu,SQL; Java; Typing; Accounting,No,0,16000,High,Medium,On-site,Beginner,Python,Preparing for Exams
+STU0150,21,UG,Science,B.Sc. Mathematics,2028,6.17,Private,Software Developer,Tiruvallur,Problem-solving; Java; Accounting; Customer Support; Python; SQL,Yes,10,16000,Medium,Low,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0151,21,UG,Science,B.Sc. Mathematics,2025,8.54,Not decided,Graduate Trainee,Chennai,HTML/CSS; Typing,No,0,22000,Medium,Medium,Remote,Job Ready,Interview Skills,Preparing for Exams
+STU0152,21,UG,Science,B.Sc. Computer Science,2027,7.98,Private,Clerk,Tiruvallur,Accounting; Python; MS Excel; Tally,No,0,41000,Low,Medium,On-site,Developing,Interview Skills,Seeking Job
+STU0153,20,UG,Science,B.Sc. Statistics,2025,9.21,Government,Data Analyst,Chennai,Typing; Customer Support,No,0,42000,Medium,Medium,On-site,Beginner,Interview Skills,Seeking Job
+STU0154,19,UG,Engineering,B.E. Computer Science,2027,9.38,Both,Data Entry Operator,Chengalpattu,Power BI; Tally; Problem-solving; Java; Accounting,Yes,9,14000,Medium,High,Hybrid,Developing,Interview Skills,Preparing for Exams
+STU0155,25,UG,Science,B.Sc. Chemistry,2026,7.08,Private,Customer Support Executive,Chengalpattu,Tally; Power BI,Yes,12,27000,High,High,Hybrid,Beginner,SQL,Seeking Job
+STU0156,22,UG,Commerce,B.Com Corporate Secretaryship,2026,6.38,Both,Data Analyst,Tiruvallur,Tally; MS Excel,No,0,43000,High,High,Remote,Developing,Python,Seeking Job
+STU0157,24,UG,Science,B.Sc. Statistics,2027,5.77,Both,Banking Associate,Chengalpattu,Accounting; Tally; HTML/CSS; Python; Typing,No,0,27000,Medium,Medium,Hybrid,Developing,Aptitude,Preparing for Exams
+STU0158,23,UG,Science,B.Sc. Statistics,2026,7.5,Private,Accounts Assistant,Chennai,Python; Power BI; SQL,No,0,34000,High,Medium,Hybrid,Developing,Excel,Preparing for Exams
+STU0159,25,UG,Arts,B.A. English,2027,9.66,Both,Accounts Assistant,Other Tamil Nadu,Accounting; Problem-solving; Typing; MS Excel,Yes,1,31000,Medium,High,On-site,Developing,Interview Skills,Seeking Job
+STU0160,20,UG,Engineering,B.Tech IT,2027,8.21,Government,Banking Associate,Chennai,Python; SQL; Problem-solving; MS Excel; Typing,No,0,28000,High,High,On-site,Beginner,Aptitude,Seeking Job
+STU0161,23,UG,Arts,B.A. Tamil,2027,7.15,Both,Accounts Assistant,Chengalpattu,Python; MS Excel; HTML/CSS; Accounting,Yes,6,25000,High,Medium,Hybrid,Developing,SQL,Seeking Job
+STU0162,21,UG,Commerce,B.Com Accounting & Finance,2026,9.3,Government,HR Assistant,Chengalpattu,HTML/CSS; Java; Data Analysis; Problem-solving,Yes,11,13000,Medium,Low,Hybrid,Developing,Communication,Higher Studies
+STU0163,20,UG,Science,B.Sc. Computer Science,2025,9.76,Private,HR Assistant,Kanchipuram,Java; Communication; SQL; MS Excel,Yes,10,26000,High,High,On-site,Job Ready,SQL,Seeking Job
+STU0164,25,UG,Engineering,B.E. ECE,2026,8.05,Both,Graduate Trainee,Kanchipuram,Problem-solving; Power BI,No,0,13000,Low,Low,Hybrid,Job Ready,Communication,Seeking Job
+STU0165,20,UG,Management,BBA,2027,5.5,Both,Sales Executive,Chengalpattu,Data Analysis; Communication; SQL; HTML/CSS; MS Excel,Yes,3,33000,Low,High,Hybrid,Beginner,Python,Seeking Job
+STU0166,21,UG,Engineering,B.Tech IT,2027,6.95,Government,Software Developer,Chengalpattu,Data Analysis; Tally,No,0,22000,Low,Medium,Remote,Developing,Aptitude,Seeking Job
+STU0167,24,UG,Engineering,B.E. ECE,2027,9.58,Private,Sales Executive,Tiruvallur,Problem-solving; Tally; Power BI; Typing; SQL; Java,Yes,10,14000,High,Low,Hybrid,Job Ready,SQL,Placed
+STU0168,20,UG,Arts,B.A. English,2028,8.38,Private,Graduate Trainee,Kanchipuram,Accounting; Python; Power BI; Tally,No,0,40000,High,Medium,On-site,Beginner,Aptitude,Seeking Job
+STU0169,22,Diploma,Science,B.Sc. Physics,2027,7.13,Government,HR Assistant,Tiruvallur,MS Excel; Java,No,0,18000,Medium,Low,Remote,Job Ready,SQL,Seeking Job
+STU0170,20,PG,Arts,B.A. Economics,2027,7.85,Both,Clerk,Kanchipuram,MS Excel; Tally; Communication; Python,Yes,10,42000,Low,High,Hybrid,Job Ready,SQL,Placed
+STU0171,24,UG,Science,B.Sc. Computer Science,2026,5.91,Government,Accounts Assistant,Other Tamil Nadu,Power BI; Problem-solving; Java; Data Analysis,No,0,43000,High,High,Hybrid,Beginner,Power BI,Seeking Job
+STU0172,19,UG,Engineering,B.E. Computer Science,2026,7.21,Both,Customer Support Executive,Kanchipuram,Power BI; Python; MS Excel; Problem-solving; SQL,No,0,17000,Low,Low,Hybrid,Beginner,Excel,Preparing for Exams
+STU0173,23,UG,Science,B.Sc. Statistics,2025,6.98,Private,HR Assistant,Tiruvallur,HTML/CSS; Problem-solving; Communication; Power BI,No,0,26000,Low,High,Hybrid,Job Ready,Power BI,Preparing for Exams
+STU0174,23,UG,Commerce,B.Com Corporate Secretaryship,2028,6.13,Not decided,Customer Support Executive,Chengalpattu,Power BI; HTML/CSS; Communication; Python; Java; MS Excel,No,0,22000,High,High,On-site,Beginner,Power BI,Seeking Job
+STU0175,25,UG,Commerce,B.Com Accounting & Finance,2027,7.87,Government,MIS Executive,Other Tamil Nadu,Typing; Communication; Tally,No,0,41000,High,Low,Remote,Job Ready,Communication,Higher Studies
+STU0176,21,PG,Arts,B.A. History,2027,7.59,Government,Sales Executive,Tiruvallur,Typing; Problem-solving; Python; Customer Support; Accounting; Communication,No,0,14000,High,Medium,Hybrid,Beginner,Communication,Placed
+STU0177,21,UG,Commerce,B.Com Accounting & Finance,2026,9.12,Government,Graduate Trainee,Chennai,Accounting; Power BI; MS Excel; HTML/CSS,No,0,26000,High,Medium,Remote,Developing,Interview Skills,Preparing for Exams
+STU0178,25,UG,Science,B.Sc. Physics,2027,9.23,Private,Junior Assistant,Other Tamil Nadu,Power BI; HTML/CSS,Yes,3,16000,Medium,Low,Remote,Developing,SQL,Higher Studies
+STU0179,22,UG,Commerce,B.Com Accounting & Finance,2027,6.68,Private,Customer Support Executive,Other Tamil Nadu,Power BI; Problem-solving; MS Excel,Yes,7,19000,Low,High,On-site,Developing,Power BI,Placed
+STU0180,22,UG,Arts,B.A. Economics,2028,8.28,Both,Banking Associate,Chengalpattu,Data Analysis; Tally; Accounting; SQL; Communication; Python,Yes,5,38000,Low,High,Remote,Beginner,Power BI,Preparing for Exams
+STU0181,21,UG,Commerce,B.Com Corporate Secretaryship,2027,7.32,Private,Accounts Assistant,Kanchipuram,Power BI; Communication,No,0,41000,Medium,High,Hybrid,Developing,Aptitude,Seeking Job
+STU0182,25,UG,Commerce,B.Com Corporate Secretaryship,2027,6.72,Private,Banking Associate,Chennai,Data Analysis; Customer Support,No,0,42000,High,Medium,Hybrid,Job Ready,Excel,Preparing for Exams
+STU0183,25,UG,Science,B.Sc. Chemistry,2027,6.87,Both,Data Entry Operator,Chennai,Power BI; SQL; Data Analysis; Problem-solving,No,0,43000,Medium,Medium,Hybrid,Developing,Power BI,Higher Studies
+STU0184,24,UG,Commerce,B.Com Corporate Secretaryship,2027,6.79,Not decided,Data Entry Operator,Other Tamil Nadu,Tally; Accounting; Power BI,No,0,23000,Medium,High,Hybrid,Beginner,Aptitude,Seeking Job
+STU0185,21,UG,Engineering,B.E. Mechanical,2027,9.31,Both,Software Developer,Kanchipuram,Customer Support; Tally; Problem-solving,Yes,10,30000,Medium,High,Hybrid,Beginner,Interview Skills,Placed
+STU0186,19,PG,Commerce,B.Com,2026,6.36,Both,Accounts Assistant,Other Tamil Nadu,Power BI; Data Analysis; Python; Java; Accounting,Yes,8,21000,Medium,Low,On-site,Beginner,Power BI,Seeking Job
+STU0187,25,UG,Management,BBA,2027,8.78,Private,Clerk,Chengalpattu,MS Excel; HTML/CSS,Yes,10,39000,Low,Medium,Hybrid,Developing,Power BI,Seeking Job
+STU0188,19,UG,Arts,B.A. Economics,2026,9.27,Government,MIS Executive,Chengalpattu,MS Excel; Tally; Data Analysis; Power BI,Yes,2,36000,Low,Low,Hybrid,Beginner,Python,Preparing for Exams
+STU0189,22,UG,Science,B.Sc. Mathematics,2026,9.4,Private,Accounts Assistant,Chennai,Typing; Data Analysis; Tally; Java; SQL; Customer Support,No,0,26000,High,Low,On-site,Beginner,Aptitude,Seeking Job
+STU0190,23,UG,Commerce,B.Com Corporate Secretaryship,2028,8.35,Government,Banking Associate,Chennai,Java; Customer Support,Yes,1,19000,Medium,Medium,Hybrid,Beginner,Communication,Seeking Job
+STU0191,24,UG,Engineering,B.E. ECE,2027,9.36,Government,HR Assistant,Other Tamil Nadu,Communication; Java,No,0,19000,Medium,High,On-site,Developing,SQL,Placed
+STU0192,19,UG,Engineering,B.E. ECE,2027,7.57,Both,Data Analyst,Chennai,Tally; Accounting; Java,Yes,1,17000,High,Low,Remote,Developing,SQL,Preparing for Exams
+STU0193,21,UG,Engineering,B.E. Computer Science,2025,6.25,Government,Junior Assistant,Kanchipuram,Communication; Customer Support,Yes,6,32000,Medium,Low,On-site,Beginner,Interview Skills,Higher Studies
+STU0194,21,PG,Arts,B.A. English,2027,6.97,Both,Clerk,Tiruvallur,Tally; Problem-solving; HTML/CSS,No,0,37000,Medium,Medium,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0195,25,UG,Science,B.Sc. Physics,2028,7.58,Both,Sales Executive,Tiruvallur,Python; SQL; MS Excel,No,0,23000,Low,Medium,Hybrid,Job Ready,Python,Preparing for Exams
+STU0196,22,UG,Engineering,B.E. Mechanical,2027,5.55,Both,Banking Associate,Other Tamil Nadu,HTML/CSS; Problem-solving; Python,No,0,26000,Low,Medium,Remote,Job Ready,Aptitude,Higher Studies
+STU0197,22,UG,Arts,B.A. English,2025,9.52,Both,HR Assistant,Tiruvallur,HTML/CSS; Tally; Customer Support,No,0,43000,High,High,Hybrid,Developing,SQL,Seeking Job
+STU0198,23,UG,Science,B.Sc. Physics,2027,6.01,Private,Customer Support Executive,Chennai,Customer Support; Java; Accounting; Power BI; Python; HTML/CSS,No,0,18000,Medium,Medium,On-site,Job Ready,Communication,Seeking Job
+STU0199,21,UG,Arts,B.A. Economics,2028,6.93,Private,Sales Executive,Other Tamil Nadu,Customer Support; Communication; Data Analysis; Problem-solving; Power BI; HTML/CSS,No,0,42000,Low,Low,Hybrid,Job Ready,Power BI,Seeking Job
+STU0200,24,UG,Engineering,B.E. ECE,2027,9.03,Government,Graduate Trainee,Tiruvallur,Tally; Customer Support; Communication; Data Analysis,No,0,18000,Medium,Low,On-site,Beginner,Python,Preparing for Exams
+STU0201,19,PG,Science,B.Sc. Chemistry,2026,9.33,Private,Customer Support Executive,Other Tamil Nadu,Accounting; Tally; Python,No,0,44000,High,Medium,On-site,Job Ready,Aptitude,Seeking Job
+STU0202,24,UG,Management,BCA,2027,7.15,Both,Sales Executive,Chengalpattu,Data Analysis; SQL; Typing; Accounting; Customer Support,Yes,5,37000,Medium,Medium,Hybrid,Beginner,SQL,Seeking Job
+STU0203,20,UG,Engineering,B.E. Mechanical,2027,9.46,Both,Data Entry Operator,Chengalpattu,Accounting; Data Analysis; Tally; Problem-solving,No,0,44000,Low,Low,Remote,Developing,Aptitude,Seeking Job
+STU0204,23,UG,Science,B.Sc. Physics,2026,8.38,Private,Data Analyst,Kanchipuram,Customer Support; Accounting; Java; Data Analysis; Communication; Problem-solving,No,0,22000,Medium,Low,Hybrid,Beginner,Interview Skills,Seeking Job
+STU0205,23,UG,Engineering,B.E. Mechanical,2027,5.7,Government,Accounts Assistant,Tiruvallur,MS Excel; Tally; HTML/CSS; Python; Data Analysis; Power BI,No,0,38000,Low,Medium,Remote,Beginner,Python,Higher Studies
+STU0206,20,UG,Science,B.Sc. Mathematics,2026,6.26,Both,Banking Associate,Chennai,Power BI; Customer Support; Accounting; Tally; Data Analysis,No,0,23000,High,Low,Remote,Beginner,Power BI,Seeking Job
+STU0207,24,PG,Science,B.Sc. Statistics,2026,6.89,Government,Junior Assistant,Other Tamil Nadu,Typing; Communication; MS Excel,No,0,31000,Medium,Low,Remote,Developing,Python,Higher Studies
+STU0208,23,UG,Science,B.Sc. Statistics,2027,9.3,Government,Banking Associate,Kanchipuram,Data Analysis; Python; Problem-solving,Yes,6,35000,Medium,High,Remote,Job Ready,Power BI,Preparing for Exams
+STU0209,20,PG,Engineering,B.E. ECE,2028,8.43,Not decided,Software Developer,Tiruvallur,Python; Customer Support,No,0,19000,Medium,Medium,Remote,Job Ready,Excel,Seeking Job
+STU0210,20,UG,Commerce,B.Com,2028,6.22,Both,HR Assistant,Other Tamil Nadu,Problem-solving; Data Analysis; HTML/CSS; Customer Support; MS Excel; Communication,No,0,12000,Low,High,On-site,Job Ready,Aptitude,Higher Studies
+STU0211,24,UG,Engineering,B.E. Computer Science,2027,6.16,Private,Customer Support Executive,Kanchipuram,Power BI; Data Analysis,No,0,14000,High,High,On-site,Beginner,Interview Skills,Seeking Job
+STU0212,19,UG,Arts,B.A. English,2027,8.26,Both,Sales Executive,Chennai,Java; Problem-solving; HTML/CSS; Accounting,No,0,14000,Low,High,Hybrid,Job Ready,Python,Seeking Job
+STU0213,19,UG,Commerce,B.Com Corporate Secretaryship,2026,8.71,Private,HR Assistant,Kanchipuram,Problem-solving; HTML/CSS; Java; Customer Support,No,0,21000,Medium,Low,Remote,Job Ready,Excel,Preparing for Exams
+STU0214,22,UG,Arts,B.A. English,2026,8.72,Both,Graduate Trainee,Kanchipuram,Python; MS Excel; Accounting,No,0,25000,Medium,Low,Remote,Beginner,SQL,Seeking Job
+STU0215,25,UG,Commerce,B.Com Corporate Secretaryship,2027,7.86,Government,MIS Executive,Chennai,SQL; Customer Support,No,0,28000,High,High,Remote,Job Ready,Power BI,Preparing for Exams
+STU0216,20,UG,Science,B.Sc. Physics,2027,8.34,Both,Graduate Trainee,Other Tamil Nadu,Python; Communication; Typing,Yes,3,35000,Medium,Medium,On-site,Beginner,Excel,Seeking Job
+STU0217,21,UG,Science,B.Sc. Physics,2027,6.26,Both,Sales Executive,Chennai,Communication; Tally; SQL; Accounting; HTML/CSS,No,0,29000,High,Low,On-site,Developing,Aptitude,Preparing for Exams
+STU0218,23,UG,Arts,B.A. Economics,2028,7.87,Government,HR Assistant,Other Tamil Nadu,Data Analysis; Customer Support,Yes,8,21000,Medium,Medium,On-site,Job Ready,Aptitude,Preparing for Exams
+STU0219,24,UG,Arts,B.A. Economics,2027,6.1,Private,Data Entry Operator,Chengalpattu,Java; Tally,No,0,21000,Low,Low,Hybrid,Developing,Python,Seeking Job
+STU0220,25,UG,Commerce,B.Com Accounting & Finance,2028,9.29,Government,Junior Assistant,Kanchipuram,Power BI; MS Excel; Customer Support; Problem-solving,No,0,18000,Low,Low,Remote,Developing,Interview Skills,Higher Studies
+STU0221,22,Diploma,Commerce,B.Com,2027,7.02,Private,Software Developer,Tiruvallur,Customer Support; Java; Tally; Typing; Python,No,0,42000,Low,High,Remote,Beginner,Power BI,Seeking Job
+STU0222,24,UG,Arts,B.A. Economics,2027,6.92,Both,Clerk,Tiruvallur,SQL; Problem-solving; Accounting,No,0,42000,Medium,High,Remote,Beginner,Aptitude,Preparing for Exams
+STU0223,21,PG,Arts,B.A. Tamil,2027,7.92,Government,Junior Assistant,Kanchipuram,Typing; SQL; Accounting; Data Analysis; MS Excel; Customer Support,Yes,2,25000,Medium,Low,Hybrid,Developing,SQL,Seeking Job
+STU0224,21,PG,Science,B.Sc. Chemistry,2027,6.49,Government,Accounts Assistant,Chengalpattu,Problem-solving; SQL; Typing; Data Analysis; Communication; Accounting,No,0,18000,High,High,Remote,Job Ready,Aptitude,Seeking Job
+STU0225,19,UG,Arts,B.A. Economics,2028,7.82,Government,Junior Assistant,Tiruvallur,Typing; Problem-solving; MS Excel; Data Analysis; Accounting,No,0,45000,Medium,Medium,On-site,Job Ready,Communication,Seeking Job
+STU0226,22,UG,Management,BBA,2026,9.27,Private,Accounts Assistant,Kanchipuram,Tally; Typing; Accounting; Python; Java,Yes,4,12000,Low,Low,On-site,Job Ready,Communication,Seeking Job
+STU0227,23,UG,Arts,B.A. Tamil,2027,8.13,Both,Banking Associate,Tiruvallur,Java; Tally; Python; SQL,No,0,25000,Medium,Low,Remote,Developing,SQL,Seeking Job
+STU0228,24,UG,Commerce,B.Com,2027,8.51,Government,Data Entry Operator,Chennai,Typing; Tally; Java; SQL,No,0,25000,Low,Medium,Hybrid,Job Ready,Communication,Placed
+STU0229,22,PG,Engineering,B.Tech IT,2025,6.63,Government,Software Developer,Chennai,Problem-solving; Python,No,0,14000,Low,Medium,Hybrid,Job Ready,Aptitude,Seeking Job
+STU0230,25,UG,Engineering,B.E. Mechanical,2026,8.87,Private,HR Assistant,Other Tamil Nadu,Customer Support; HTML/CSS; Accounting,Yes,12,26000,Low,High,Remote,Beginner,Excel,Seeking Job
+STU0231,20,UG,Arts,B.A. English,2028,7.86,Government,Graduate Trainee,Other Tamil Nadu,Problem-solving; Java; Tally; Accounting,No,0,34000,Medium,Medium,On-site,Job Ready,SQL,Seeking Job
+STU0232,23,UG,Science,B.Sc. Statistics,2028,9.61,Government,HR Assistant,Other Tamil Nadu,Java; Data Analysis; Python,No,0,28000,Low,Medium,Hybrid,Job Ready,Power BI,Higher Studies
+STU0233,19,UG,Engineering,B.E. ECE,2027,6.49,Not decided,Software Developer,Tiruvallur,Customer Support; HTML/CSS; Typing; MS Excel; Accounting,Yes,6,45000,Low,High,Remote,Developing,SQL,Seeking Job
+STU0234,20,PG,Science,B.Sc. Computer Science,2026,8.71,Both,Data Analyst,Tiruvallur,Python; Data Analysis; SQL; HTML/CSS,Yes,12,24000,High,Low,On-site,Developing,SQL,Seeking Job
+STU0235,24,UG,Engineering,B.E. Computer Science,2027,7.83,Both,Junior Assistant,Tiruvallur,SQL; Python; Accounting; Customer Support,No,0,35000,Low,Medium,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0236,22,UG,Science,B.Sc. Chemistry,2025,6.99,Both,Banking Associate,Chengalpattu,Communication; Java; Power BI; Typing; SQL; MS Excel,No,0,41000,High,Low,Remote,Developing,Excel,Placed
+STU0237,20,UG,Arts,B.A. History,2027,7.64,Government,Data Analyst,Tiruvallur,Python; Tally; Accounting; Typing; Communication; SQL,No,0,35000,Medium,Medium,Hybrid,Developing,SQL,Seeking Job
+STU0238,23,UG,Management,BCA,2026,8.94,Both,Graduate Trainee,Chengalpattu,Accounting; Communication,No,0,42000,High,High,Hybrid,Developing,SQL,Preparing for Exams
+STU0239,23,UG,Engineering,B.E. Computer Science,2027,5.76,Private,MIS Executive,Tiruvallur,Problem-solving; HTML/CSS; Communication; Customer Support,No,0,18000,Medium,Low,Hybrid,Developing,Excel,Seeking Job
+STU0240,23,UG,Commerce,B.Com Corporate Secretaryship,2027,7.82,Both,MIS Executive,Kanchipuram,MS Excel; Java; Python; Tally,No,0,32000,Low,Low,Hybrid,Job Ready,Power BI,Preparing for Exams
+STU0241,23,UG,Science,B.Sc. Statistics,2025,6.98,Private,Software Developer,Kanchipuram,SQL; Customer Support; Tally,No,0,30000,Low,Medium,Remote,Job Ready,Power BI,Seeking Job
+STU0242,20,UG,Science,B.Sc. Mathematics,2027,8.35,Both,Graduate Trainee,Chennai,Accounting; Typing; Data Analysis; HTML/CSS,No,0,25000,High,Medium,On-site,Beginner,Python,Preparing for Exams
+STU0243,22,UG,Commerce,B.Com,2027,7.41,Government,Data Entry Operator,Chengalpattu,Data Analysis; Python; Accounting; Communication; SQL,Yes,9,22000,High,High,Remote,Developing,Interview Skills,Preparing for Exams
+STU0244,22,UG,Engineering,B.Tech IT,2027,8.25,Private,MIS Executive,Kanchipuram,Communication; Data Analysis; HTML/CSS; SQL; Accounting; Typing,No,0,42000,Low,High,On-site,Developing,Excel,Seeking Job
+STU0245,22,UG,Science,B.Sc. Physics,2028,7.55,Private,Junior Assistant,Tiruvallur,Data Analysis; SQL,No,0,30000,Low,High,On-site,Job Ready,Excel,Seeking Job
+STU0246,22,UG,Engineering,B.E. Computer Science,2027,6.53,Private,Sales Executive,Kanchipuram,SQL; Accounting; Customer Support,No,0,30000,Low,Low,Remote,Developing,Power BI,Seeking Job
+STU0247,21,UG,Arts,B.A. Tamil,2026,5.58,Government,Junior Assistant,Other Tamil Nadu,Customer Support; HTML/CSS,No,0,13000,High,High,Hybrid,Developing,SQL,Higher Studies
+STU0248,21,UG,Engineering,B.Tech IT,2028,7.49,Government,Junior Assistant,Kanchipuram,MS Excel; HTML/CSS; Power BI,No,0,17000,High,High,Hybrid,Developing,Python,Seeking Job
+STU0249,22,UG,Science,B.Sc. Statistics,2026,8.66,Both,Clerk,Other Tamil Nadu,Java; MS Excel; Python; Power BI,No,0,25000,Medium,Medium,Remote,Developing,Excel,Seeking Job
+STU0250,19,PG,Engineering,B.E. ECE,2028,6.51,Both,Accounts Assistant,Kanchipuram,Data Analysis; Python; Communication; HTML/CSS; Customer Support; Power BI,No,0,12000,High,Medium,Remote,Beginner,Power BI,Higher Studies
+STU0251,22,UG,Arts,B.A. History,2028,9.79,Government,Banking Associate,Chennai,Accounting; Typing; SQL; Tally; Python,Yes,1,34000,Low,High,Remote,Job Ready,Interview Skills,Seeking Job
+STU0252,21,UG,Commerce,B.Com Accounting & Finance,2028,7.59,Private,Customer Support Executive,Other Tamil Nadu,Problem-solving; Customer Support; Tally; HTML/CSS; Power BI; MS Excel,No,0,30000,Low,Low,Hybrid,Beginner,Communication,Seeking Job
+STU0253,22,UG,Science,B.Sc. Computer Science,2027,7.45,Both,Banking Associate,Other Tamil Nadu,Typing; Data Analysis; SQL; Python,No,0,36000,Low,High,On-site,Job Ready,Interview Skills,Seeking Job
+STU0254,20,UG,Commerce,B.Com Accounting & Finance,2027,6.16,Private,MIS Executive,Kanchipuram,Customer Support; Data Analysis,No,0,38000,Low,Medium,On-site,Beginner,Communication,Placed
+STU0255,19,UG,Arts,B.A. Tamil,2027,7.76,Not decided,Graduate Trainee,Other Tamil Nadu,MS Excel; Power BI; Python,No,0,28000,High,Medium,On-site,Job Ready,Aptitude,Seeking Job
+STU0256,22,UG,Management,BBA,2028,6.64,Government,Junior Assistant,Chennai,Python; HTML/CSS; Customer Support; MS Excel; Tally,No,0,31000,High,High,Remote,Beginner,Python,Higher Studies
+STU0257,25,UG,Commerce,B.Com Accounting & Finance,2027,8.52,Government,Accounts Assistant,Chennai,Customer Support; Power BI; Typing; SQL; Data Analysis; Java,No,0,22000,High,Low,Hybrid,Job Ready,Excel,Placed
+STU0258,24,UG,Commerce,B.Com Corporate Secretaryship,2027,6.54,Private,HR Assistant,Chengalpattu,Tally; Data Analysis; Problem-solving; Customer Support,No,0,36000,Low,Low,Hybrid,Developing,Power BI,Seeking Job
+STU0259,21,UG,Science,B.Sc. Mathematics,2026,6.85,Both,Graduate Trainee,Kanchipuram,Typing; MS Excel; Data Analysis; SQL,No,0,44000,Low,Low,Remote,Beginner,Python,Seeking Job
+STU0260,19,UG,Science,B.Sc. Chemistry,2028,8.66,Government,Graduate Trainee,Kanchipuram,Typing; Power BI; Accounting; Communication,No,0,42000,High,Medium,Remote,Job Ready,Communication,Preparing for Exams
+STU0261,25,UG,Arts,B.A. History,2027,9.01,Both,Accounts Assistant,Chennai,Accounting; Typing,No,0,26000,Low,Low,Remote,Beginner,Aptitude,Higher Studies
+STU0262,21,UG,Science,B.Sc. Mathematics,2026,8.4,Private,Accounts Assistant,Tiruvallur,Tally; Data Analysis,No,0,44000,High,High,Hybrid,Developing,Interview Skills,Seeking Job
+STU0263,22,UG,Arts,B.A. Economics,2027,7.57,Government,Data Analyst,Tiruvallur,Accounting; MS Excel; Data Analysis; Java; Communication; Python,No,0,37000,Low,Low,On-site,Job Ready,Communication,Preparing for Exams
+STU0264,24,UG,Commerce,B.Com Accounting & Finance,2027,6.88,Government,Sales Executive,Chennai,Problem-solving; Java; Tally; Typing,Yes,5,22000,Medium,Low,Hybrid,Job Ready,SQL,Seeking Job
+STU0265,20,PG,Management,BBA,2028,9.03,Government,Junior Assistant,Kanchipuram,SQL; Accounting; Python; Customer Support,No,0,19000,Medium,Medium,Hybrid,Beginner,Excel,Seeking Job
+STU0266,24,UG,Commerce,B.Com Accounting & Finance,2026,6.72,Government,Graduate Trainee,Other Tamil Nadu,Problem-solving; Communication; Data Analysis; HTML/CSS; SQL; MS Excel,No,0,29000,High,Medium,Remote,Beginner,Python,Seeking Job
+STU0267,22,UG,Science,B.Sc. Statistics,2028,7.58,Both,Sales Executive,Other Tamil Nadu,Python; MS Excel; Communication; Java,Yes,2,23000,High,Low,Hybrid,Job Ready,Aptitude,Seeking Job
+STU0268,21,UG,Science,B.Sc. Computer Science,2026,9.71,Private,HR Assistant,Kanchipuram,HTML/CSS; Java; SQL; MS Excel,No,0,15000,Low,Medium,Hybrid,Beginner,Communication,Preparing for Exams
+STU0269,23,PG,Science,B.Sc. Mathematics,2027,7.96,Private,Accounts Assistant,Kanchipuram,Customer Support; SQL; Python; Java; Data Analysis,No,0,33000,Medium,Low,On-site,Beginner,Aptitude,Seeking Job
+STU0270,22,Diploma,Commerce,B.Com,2027,7.93,Both,Data Entry Operator,Kanchipuram,Communication; Accounting; Data Analysis,No,0,16000,Low,Low,Remote,Beginner,SQL,Seeking Job
+STU0271,25,PG,Engineering,B.E. Mechanical,2026,6.31,Both,Data Entry Operator,Chengalpattu,Java; Problem-solving; Communication; HTML/CSS,No,0,13000,Low,Low,Hybrid,Job Ready,Communication,Placed
+STU0272,22,UG,Commerce,B.Com Corporate Secretaryship,2027,8.29,Government,Data Entry Operator,Tiruvallur,Tally; Python,No,0,43000,Medium,High,On-site,Beginner,SQL,Seeking Job
+STU0273,19,UG,Engineering,B.Tech IT,2028,7.61,Government,Software Developer,Tiruvallur,Java; Power BI; Customer Support; Accounting,No,0,27000,Medium,Medium,On-site,Job Ready,Aptitude,Preparing for Exams
+STU0274,25,PG,Engineering,B.E. ECE,2027,7.2,Private,Graduate Trainee,Chennai,Typing; Data Analysis; Accounting; MS Excel; Customer Support; Python,No,0,36000,Low,Low,On-site,Beginner,Excel,Seeking Job
+STU0275,19,UG,Engineering,B.E. ECE,2027,8.28,Both,Clerk,Other Tamil Nadu,HTML/CSS; SQL; Java; Communication,No,0,19000,High,Low,Remote,Job Ready,SQL,Seeking Job
+STU0276,24,UG,Science,B.Sc. Mathematics,2027,6.03,Government,Clerk,Tiruvallur,Typing; Accounting; Power BI; HTML/CSS; Python,Yes,11,35000,High,Low,Remote,Developing,Aptitude,Higher Studies
+STU0277,24,PG,Commerce,B.Com,2028,6.27,Not decided,Graduate Trainee,Chennai,Data Analysis; Java; MS Excel; SQL; Tally,No,0,38000,Medium,Medium,Remote,Developing,Excel,Placed
+STU0278,22,UG,Arts,B.A. English,2027,7.62,Government,Data Analyst,Other Tamil Nadu,MS Excel; Typing; Communication,Yes,11,42000,Medium,Medium,Hybrid,Beginner,Communication,Placed
+STU0279,21,UG,Science,B.Sc. Statistics,2027,9.1,Private,MIS Executive,Kanchipuram,Customer Support; Data Analysis; Power BI; MS Excel; SQL; Accounting,Yes,2,15000,High,Medium,On-site,Beginner,Aptitude,Seeking Job
+STU0280,21,UG,Commerce,B.Com Accounting & Finance,2028,8.76,Both,HR Assistant,Chennai,Problem-solving; Data Analysis; SQL; HTML/CSS; Tally; MS Excel,Yes,5,42000,High,High,Remote,Developing,Excel,Seeking Job
+STU0281,23,PG,Commerce,B.Com Corporate Secretaryship,2026,8.12,Both,Software Developer,Kanchipuram,MS Excel; Python; Typing; Data Analysis; Accounting; HTML/CSS,No,0,45000,Low,Low,Hybrid,Beginner,Communication,Seeking Job
+STU0282,19,UG,Commerce,B.Com Accounting & Finance,2027,6.01,Both,Data Analyst,Other Tamil Nadu,Problem-solving; SQL; Typing; Power BI; Communication,No,0,38000,Medium,High,Hybrid,Developing,Communication,Preparing for Exams
+STU0283,21,UG,Science,B.Sc. Statistics,2027,6.97,Both,Graduate Trainee,Other Tamil Nadu,Communication; Python; Problem-solving; Customer Support,No,0,13000,High,High,Hybrid,Developing,Aptitude,Seeking Job
+STU0284,25,UG,Commerce,B.Com Accounting & Finance,2027,9.0,Government,Graduate Trainee,Chennai,HTML/CSS; SQL; Customer Support,No,0,45000,Medium,Low,Remote,Job Ready,Excel,Seeking Job
+STU0285,19,UG,Arts,B.A. Tamil,2027,9.12,Private,Sales Executive,Other Tamil Nadu,Problem-solving; Tally; Python; SQL,Yes,7,23000,Low,High,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0286,20,UG,Arts,B.A. English,2027,9.43,Private,Customer Support Executive,Other Tamil Nadu,Power BI; Tally; HTML/CSS; Communication; Problem-solving,No,0,13000,Medium,Low,On-site,Beginner,Excel,Preparing for Exams
+STU0287,19,UG,Engineering,B.E. Computer Science,2025,9.51,Private,Banking Associate,Other Tamil Nadu,SQL; Python; Data Analysis; Problem-solving,Yes,2,33000,Medium,High,On-site,Job Ready,Interview Skills,Placed
+STU0288,21,UG,Science,B.Sc. Physics,2027,6.67,Private,Data Entry Operator,Kanchipuram,Customer Support; Power BI; Tally; Accounting,Yes,2,12000,Low,Low,Remote,Beginner,SQL,Seeking Job
+STU0289,21,UG,Commerce,B.Com,2026,7.52,Government,Banking Associate,Chennai,Typing; Power BI; SQL; Python,Yes,2,36000,High,High,Hybrid,Developing,SQL,Higher Studies
+STU0290,24,UG,Engineering,B.E. Computer Science,2028,8.75,Both,Customer Support Executive,Other Tamil Nadu,Typing; Tally; Communication; Accounting; Power BI,No,0,20000,High,Low,Hybrid,Beginner,Power BI,Seeking Job
+STU0291,22,UG,Commerce,B.Com Corporate Secretaryship,2027,9.2,Both,Software Developer,Tiruvallur,Power BI; Problem-solving; SQL; Typing; Communication,No,0,43000,High,High,Hybrid,Beginner,Excel,Seeking Job
+STU0292,25,UG,Engineering,B.E. Computer Science,2027,8.29,Private,MIS Executive,Other Tamil Nadu,Typing; Problem-solving; SQL; Data Analysis,Yes,8,37000,Low,Medium,On-site,Job Ready,SQL,Seeking Job
+STU0293,22,UG,Management,BCA,2027,6.52,Private,Banking Associate,Chennai,Power BI; Accounting; Typing; Java,No,0,43000,High,Low,Remote,Developing,Excel,Seeking Job
+STU0294,24,UG,Engineering,B.E. Computer Science,2026,6.1,Government,Sales Executive,Chennai,Python; Typing; Problem-solving; Accounting; Java,No,0,21000,Low,High,Hybrid,Job Ready,Excel,Seeking Job
+STU0295,22,UG,Commerce,B.Com Accounting & Finance,2028,8.01,Government,Sales Executive,Other Tamil Nadu,Communication; Typing; Customer Support; Problem-solving,No,0,37000,High,Medium,On-site,Developing,Communication,Preparing for Exams
+STU0296,23,UG,Arts,B.A. History,2027,7.25,Private,Accounts Assistant,Other Tamil Nadu,Python; Communication; MS Excel; Power BI,No,0,25000,Low,High,Hybrid,Beginner,SQL,Seeking Job
+STU0297,24,UG,Engineering,B.Tech IT,2027,9.69,Private,Data Entry Operator,Chennai,SQL; Communication; Customer Support; Problem-solving; Typing,Yes,3,38000,Medium,Low,Remote,Developing,Communication,Seeking Job
+STU0298,23,UG,Commerce,B.Com Corporate Secretaryship,2026,7.66,Private,Accounts Assistant,Other Tamil Nadu,Java; Tally; Power BI; SQL; Problem-solving,No,0,35000,High,High,Remote,Developing,Aptitude,Seeking Job
+STU0299,25,Diploma,Commerce,B.Com Accounting & Finance,2027,5.84,Not decided,Sales Executive,Chennai,SQL; Accounting,No,0,27000,Medium,Low,Remote,Job Ready,Aptitude,Seeking Job
+STU0300,22,UG,Commerce,B.Com Accounting & Finance,2027,6.93,Both,Software Developer,Kanchipuram,Typing; MS Excel; Tally; Data Analysis,No,0,30000,High,High,Remote,Job Ready,Aptitude,Seeking Job
+STU0301,23,UG,Engineering,B.Tech IT,2025,7.67,Government,MIS Executive,Kanchipuram,Typing; SQL; Problem-solving; MS Excel; Communication,No,0,20000,Low,Medium,Hybrid,Developing,Python,Higher Studies
+STU0302,21,UG,Commerce,B.Com,2027,8.94,Both,Junior Assistant,Kanchipuram,Customer Support; HTML/CSS; Tally,No,0,17000,High,Low,On-site,Developing,Interview Skills,Preparing for Exams
+STU0303,21,UG,Engineering,B.E. Computer Science,2025,7.5,Government,Customer Support Executive,Kanchipuram,Accounting; Customer Support; SQL; Power BI; Tally,Yes,8,26000,Medium,Low,Remote,Developing,Power BI,Seeking Job
+STU0304,24,PG,Commerce,B.Com,2028,8.24,Private,Accounts Assistant,Other Tamil Nadu,Problem-solving; HTML/CSS; Java; Tally,No,0,29000,Medium,Medium,Hybrid,Beginner,Excel,Placed
+STU0305,23,UG,Science,B.Sc. Mathematics,2026,5.55,Both,Junior Assistant,Chennai,Accounting; Customer Support; Typing,No,0,12000,Medium,High,Remote,Beginner,Aptitude,Seeking Job
+STU0306,23,UG,Science,B.Sc. Mathematics,2028,8.24,Private,Graduate Trainee,Chennai,MS Excel; Problem-solving; Typing,Yes,2,20000,Medium,Low,Remote,Job Ready,Interview Skills,Preparing for Exams
+STU0307,21,UG,Engineering,B.E. Mechanical,2026,8.86,Both,MIS Executive,Chennai,Communication; HTML/CSS; Customer Support; Python,No,0,36000,Medium,Medium,On-site,Developing,Interview Skills,Seeking Job
+STU0308,19,UG,Science,B.Sc. Physics,2026,8.27,Private,Customer Support Executive,Kanchipuram,Typing; Java; SQL,No,0,18000,High,High,On-site,Job Ready,Aptitude,Seeking Job
+STU0309,24,UG,Science,B.Sc. Mathematics,2027,9.39,Both,Sales Executive,Chennai,Customer Support; Problem-solving; MS Excel,No,0,44000,Low,Medium,Hybrid,Developing,Power BI,Preparing for Exams
+STU0310,21,UG,Engineering,B.E. Computer Science,2027,9.17,Both,Software Developer,Chennai,Power BI; MS Excel; Java; HTML/CSS; Python; Tally,No,0,41000,Medium,Low,On-site,Beginner,Communication,Seeking Job
+STU0311,22,UG,Science,B.Sc. Mathematics,2025,5.61,Government,Sales Executive,Chengalpattu,Python; Customer Support; Tally; HTML/CSS; Problem-solving,No,0,43000,Medium,High,Remote,Job Ready,Excel,Seeking Job
+STU0312,25,UG,Management,BCA,2025,8.97,Both,Banking Associate,Other Tamil Nadu,MS Excel; Tally,Yes,8,21000,Low,Low,On-site,Beginner,Python,Higher Studies
+STU0313,21,UG,Commerce,B.Com,2027,6.23,Government,Sales Executive,Chennai,MS Excel; Power BI; Customer Support; SQL; Problem-solving; Typing,No,0,18000,High,Medium,Remote,Job Ready,SQL,Seeking Job
+STU0314,25,Diploma,Science,B.Sc. Mathematics,2027,8.05,Private,Software Developer,Chennai,Tally; Python; Customer Support; Typing; Data Analysis,Yes,2,29000,High,Medium,On-site,Job Ready,Excel,Seeking Job
+STU0315,24,UG,Science,B.Sc. Mathematics,2025,7.59,Not decided,Junior Assistant,Chennai,SQL; Python,No,0,23000,High,Low,Remote,Job Ready,Excel,Seeking Job
+STU0316,22,UG,Engineering,B.E. ECE,2027,5.66,Both,Data Entry Operator,Tiruvallur,Power BI; SQL; Customer Support,Yes,10,17000,Low,Medium,Hybrid,Developing,Python,Seeking Job
+STU0317,23,UG,Science,B.Sc. Physics,2027,8.34,Not decided,MIS Executive,Chennai,Typing; Tally,No,0,24000,High,High,Remote,Developing,Power BI,Seeking Job
+STU0318,25,PG,Commerce,B.Com Accounting & Finance,2025,8.68,Government,HR Assistant,Chengalpattu,Communication; Power BI; Java; Problem-solving,No,0,22000,High,Medium,Remote,Beginner,Python,Preparing for Exams
+STU0319,19,UG,Engineering,B.E. Computer Science,2026,7.27,Private,Data Analyst,Tiruvallur,Java; Power BI; Customer Support; Tally,Yes,4,16000,Medium,Low,Hybrid,Beginner,Power BI,Seeking Job
+STU0320,20,UG,Management,BBA,2027,5.76,Private,Data Entry Operator,Chennai,Tally; SQL; HTML/CSS; Power BI; Problem-solving,No,0,41000,Medium,Medium,On-site,Developing,SQL,Preparing for Exams
+STU0321,22,PG,Commerce,B.Com,2027,9.1,Both,MIS Executive,Chennai,SQL; Typing; Data Analysis; Power BI; Python; Java,No,0,39000,Low,High,On-site,Developing,Power BI,Seeking Job
+STU0322,19,Diploma,Engineering,B.E. Computer Science,2027,7.2,Private,Graduate Trainee,Chennai,Typing; MS Excel; Java,No,0,40000,Medium,High,On-site,Job Ready,Interview Skills,Seeking Job
+STU0323,19,UG,Engineering,B.E. Mechanical,2026,7.47,Not decided,Sales Executive,Other Tamil Nadu,Tally; Communication; Power BI,No,0,13000,Medium,Medium,On-site,Job Ready,Power BI,Seeking Job
+STU0324,24,UG,Engineering,B.E. Computer Science,2026,8.74,Both,Graduate Trainee,Other Tamil Nadu,Customer Support; Python,No,0,25000,Low,High,Remote,Developing,Aptitude,Preparing for Exams
+STU0325,19,UG,Commerce,B.Com,2027,8.53,Both,HR Assistant,Chengalpattu,MS Excel; Python; Java; Tally,No,0,20000,Medium,High,Remote,Beginner,Aptitude,Seeking Job
+STU0326,21,UG,Management,BCA,2026,5.77,Private,Software Developer,Tiruvallur,Problem-solving; Accounting; Power BI,No,0,43000,Low,Low,On-site,Developing,Aptitude,Seeking Job
+STU0327,22,UG,Engineering,B.Tech IT,2028,6.74,Both,Clerk,Chennai,Typing; Tally; Customer Support; Python; Power BI,No,0,22000,Medium,High,Remote,Beginner,Power BI,Seeking Job
+STU0328,23,PG,Science,B.Sc. Physics,2027,7.41,Not decided,Banking Associate,Chennai,Communication; Java,No,0,30000,High,High,On-site,Beginner,Interview Skills,Preparing for Exams
+STU0329,24,UG,Commerce,B.Com Corporate Secretaryship,2027,6.81,Private,Data Entry Operator,Kanchipuram,Customer Support; Problem-solving; Tally; HTML/CSS,No,0,22000,Medium,High,Hybrid,Developing,Excel,Higher Studies
+STU0330,20,UG,Arts,B.A. Economics,2026,6.0,Private,Software Developer,Other Tamil Nadu,SQL; Typing; Problem-solving; Data Analysis; Communication,Yes,3,40000,Medium,Medium,On-site,Beginner,Communication,Higher Studies
+STU0331,23,UG,Commerce,B.Com,2027,7.65,Not decided,Data Entry Operator,Tiruvallur,Tally; HTML/CSS; Data Analysis,No,0,32000,High,High,Remote,Job Ready,Communication,Seeking Job
+STU0332,24,PG,Engineering,B.Tech IT,2027,5.98,Private,Customer Support Executive,Chennai,Problem-solving; Typing; Customer Support; SQL,No,0,20000,Low,Low,On-site,Developing,Python,Seeking Job
+STU0333,20,UG,Engineering,B.E. ECE,2027,8.8,Private,Data Analyst,Chennai,Tally; MS Excel,No,0,17000,Low,Medium,Remote,Job Ready,Python,Preparing for Exams
+STU0334,22,UG,Science,B.Sc. Computer Science,2025,6.98,Private,MIS Executive,Tiruvallur,Typing; Data Analysis; MS Excel; Tally; Java; SQL,No,0,17000,High,Low,Hybrid,Job Ready,Power BI,Preparing for Exams
+STU0335,21,UG,Science,B.Sc. Chemistry,2028,5.78,Both,Sales Executive,Tiruvallur,Accounting; Java; SQL; Typing; Python,Yes,2,12000,Medium,Low,Hybrid,Developing,SQL,Seeking Job
+STU0336,22,UG,Engineering,B.E. Mechanical,2028,6.81,Both,HR Assistant,Tiruvallur,Power BI; SQL; Java,Yes,4,13000,High,High,Hybrid,Developing,Aptitude,Preparing for Exams
+STU0337,25,UG,Commerce,B.Com,2027,7.06,Both,Customer Support Executive,Other Tamil Nadu,Java; SQL; HTML/CSS; Power BI,Yes,7,28000,Low,Low,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0338,24,UG,Commerce,B.Com,2025,7.05,Private,Banking Associate,Kanchipuram,SQL; Typing; MS Excel; Problem-solving,Yes,1,30000,Medium,Low,Remote,Beginner,Communication,Seeking Job
+STU0339,24,UG,Commerce,B.Com,2027,7.01,Both,Data Entry Operator,Chennai,Problem-solving; SQL; Data Analysis; Tally; Typing; Communication,Yes,3,45000,Medium,Medium,Hybrid,Developing,Excel,Preparing for Exams
+STU0340,19,UG,Arts,B.A. Economics,2028,7.56,Government,MIS Executive,Kanchipuram,Power BI; Problem-solving; Data Analysis; Typing; Customer Support; Python,No,0,20000,Medium,Low,Remote,Developing,SQL,Higher Studies
+STU0341,21,UG,Arts,B.A. Economics,2028,7.33,Both,Clerk,Chennai,SQL; Accounting; Problem-solving,No,0,13000,Medium,Medium,On-site,Beginner,Python,Seeking Job
+STU0342,25,UG,Commerce,B.Com,2028,6.38,Private,Data Analyst,Chengalpattu,Python; Communication; MS Excel; Problem-solving; Accounting,No,0,34000,High,High,On-site,Job Ready,Excel,Preparing for Exams
+STU0343,23,UG,Science,B.Sc. Chemistry,2026,6.32,Government,MIS Executive,Chengalpattu,Problem-solving; Accounting; Typing; Power BI; Data Analysis; Python,Yes,9,12000,Low,High,On-site,Job Ready,Interview Skills,Higher Studies
+STU0344,23,UG,Science,B.Sc. Statistics,2027,6.85,Private,Customer Support Executive,Chennai,Customer Support; Python; SQL; Tally; Java,No,0,45000,High,Medium,Hybrid,Job Ready,Excel,Seeking Job
+STU0345,24,UG,Arts,B.A. Tamil,2026,7.25,Private,Accounts Assistant,Chengalpattu,Java; Communication,No,0,16000,Medium,Low,Hybrid,Beginner,Python,Preparing for Exams
+STU0346,22,UG,Commerce,B.Com,2027,9.34,Government,Data Entry Operator,Chennai,Data Analysis; Customer Support; Accounting; Python; Typing,Yes,6,24000,Medium,High,Remote,Developing,Python,Seeking Job
+STU0347,22,Diploma,Science,B.Sc. Chemistry,2026,8.8,Private,Clerk,Chennai,Typing; Communication; Customer Support; Java; Tally; HTML/CSS,No,0,28000,Medium,Medium,On-site,Job Ready,SQL,Seeking Job
+STU0348,23,UG,Engineering,B.E. Computer Science,2027,7.74,Both,Customer Support Executive,Tiruvallur,Customer Support; MS Excel; SQL; Java; Tally,Yes,4,30000,Low,Medium,Hybrid,Job Ready,Excel,Seeking Job
+STU0349,19,UG,Engineering,B.E. Mechanical,2028,7.4,Private,Junior Assistant,Chennai,Problem-solving; MS Excel,No,0,23000,Low,Low,Hybrid,Job Ready,SQL,Seeking Job
+STU0350,23,UG,Arts,B.A. Economics,2027,7.18,Both,Customer Support Executive,Other Tamil Nadu,Problem-solving; Python; Typing; HTML/CSS; Data Analysis,No,0,36000,Low,Low,Hybrid,Developing,Excel,Seeking Job
+STU0351,24,UG,Commerce,B.Com,2027,9.77,Government,Accounts Assistant,Kanchipuram,Tally; Accounting; Typing; MS Excel,No,0,15000,Low,High,On-site,Beginner,Aptitude,Seeking Job
+STU0352,19,UG,Arts,B.A. Tamil,2027,9.38,Both,MIS Executive,Chennai,Python; Tally; SQL; MS Excel,No,0,42000,Low,High,Hybrid,Developing,Communication,Seeking Job
+STU0353,22,UG,Commerce,B.Com Corporate Secretaryship,2027,8.14,Both,Software Developer,Tiruvallur,Accounting; Customer Support,Yes,4,43000,Low,High,Remote,Beginner,Excel,Seeking Job
+STU0354,23,UG,Science,B.Sc. Computer Science,2026,7.94,Private,HR Assistant,Tiruvallur,Typing; Accounting; Python,No,0,39000,High,Medium,On-site,Job Ready,Interview Skills,Seeking Job
+STU0355,23,UG,Engineering,B.E. Computer Science,2027,7.72,Private,Data Entry Operator,Other Tamil Nadu,Tally; Power BI; Java; Customer Support; Communication; HTML/CSS,No,0,43000,High,Low,Remote,Developing,Excel,Preparing for Exams
+STU0356,22,UG,Commerce,B.Com,2027,8.79,Private,Accounts Assistant,Tiruvallur,Typing; Accounting; Customer Support; MS Excel; Data Analysis,Yes,6,16000,Low,High,Hybrid,Developing,Interview Skills,Seeking Job
+STU0357,19,UG,Arts,B.A. History,2027,7.91,Both,Accounts Assistant,Tiruvallur,Java; Power BI; Python,Yes,11,14000,High,High,Hybrid,Beginner,Python,Seeking Job
+STU0358,19,UG,Engineering,B.E. Computer Science,2026,6.78,Both,Clerk,Tiruvallur,Customer Support; MS Excel; HTML/CSS,No,0,35000,Low,Low,On-site,Developing,Interview Skills,Higher Studies
+STU0359,19,UG,Arts,B.A. English,2027,6.85,Government,Sales Executive,Tiruvallur,Python; Data Analysis; Customer Support; Typing; Accounting; Communication,No,0,27000,Medium,High,On-site,Beginner,SQL,Seeking Job
+STU0360,22,UG,Science,B.Sc. Computer Science,2028,9.53,Private,Software Developer,Tiruvallur,MS Excel; HTML/CSS; Data Analysis; Tally; Python; Typing,No,0,35000,Medium,High,Remote,Job Ready,Python,Preparing for Exams
+STU0361,24,UG,Commerce,B.Com Corporate Secretaryship,2026,9.23,Not decided,Customer Support Executive,Tiruvallur,Communication; Data Analysis; Java,Yes,1,37000,Medium,Medium,On-site,Beginner,Excel,Seeking Job
+STU0362,19,UG,Engineering,B.Tech IT,2027,7.28,Both,Software Developer,Tiruvallur,Problem-solving; Customer Support; Java; MS Excel,Yes,2,22000,Low,Medium,Remote,Beginner,Excel,Seeking Job
+STU0363,20,UG,Engineering,B.E. ECE,2025,6.36,Private,MIS Executive,Kanchipuram,HTML/CSS; Accounting; MS Excel; Customer Support,No,0,17000,High,High,On-site,Job Ready,Aptitude,Preparing for Exams
+STU0364,24,UG,Engineering,B.E. Mechanical,2027,6.35,Both,Accounts Assistant,Kanchipuram,Customer Support; Java; Tally; HTML/CSS; Typing; SQL,Yes,3,37000,Medium,Low,On-site,Beginner,Python,Preparing for Exams
+STU0365,25,UG,Commerce,B.Com Accounting & Finance,2027,8.08,Both,Data Entry Operator,Chennai,HTML/CSS; Power BI,Yes,6,22000,Low,High,On-site,Job Ready,Communication,Seeking Job
+STU0366,22,UG,Management,BCA,2028,8.08,Private,MIS Executive,Chengalpattu,Python; Power BI; Accounting; Customer Support; Communication,Yes,7,23000,Medium,High,On-site,Developing,Excel,Seeking Job
+STU0367,21,Diploma,Science,B.Sc. Physics,2027,8.57,Government,Graduate Trainee,Tiruvallur,Customer Support; Problem-solving; HTML/CSS; Python; MS Excel; Accounting,Yes,12,28000,High,High,Remote,Beginner,Python,Seeking Job
+STU0368,22,UG,Science,B.Sc. Mathematics,2028,7.91,Both,Sales Executive,Chengalpattu,Customer Support; Typing; MS Excel; Problem-solving; Communication; Java,Yes,5,22000,Low,Medium,Hybrid,Developing,SQL,Seeking Job
+STU0369,25,UG,Engineering,B.E. Mechanical,2028,6.72,Private,MIS Executive,Other Tamil Nadu,Python; Tally; MS Excel; SQL,No,0,28000,Low,Medium,Hybrid,Beginner,Excel,Higher Studies
+STU0370,20,UG,Commerce,B.Com Accounting & Finance,2026,7.51,Not decided,Clerk,Tiruvallur,Customer Support; Problem-solving; HTML/CSS; MS Excel; Power BI; SQL,Yes,1,40000,Medium,Low,Remote,Developing,Power BI,Seeking Job
+STU0371,21,UG,Engineering,B.E. ECE,2027,9.04,Both,Sales Executive,Other Tamil Nadu,Tally; Python,Yes,4,12000,Low,Low,On-site,Developing,Python,Seeking Job
+STU0372,23,PG,Commerce,B.Com,2028,6.16,Government,Clerk,Tiruvallur,MS Excel; Communication; Customer Support; Python,No,0,42000,Medium,Low,Hybrid,Job Ready,Aptitude,Seeking Job
+STU0373,25,UG,Management,BCA,2027,8.7,Both,HR Assistant,Other Tamil Nadu,Tally; Accounting; Typing; SQL; Power BI,No,0,36000,High,Medium,Hybrid,Beginner,SQL,Preparing for Exams
+STU0374,25,PG,Engineering,B.E. ECE,2026,7.61,Government,Accounts Assistant,Kanchipuram,SQL; Java; Accounting,Yes,11,20000,Medium,Low,On-site,Developing,Communication,Seeking Job
+STU0375,25,UG,Science,B.Sc. Mathematics,2027,7.33,Private,Junior Assistant,Other Tamil Nadu,Typing; Problem-solving; Java; Python,No,0,33000,Medium,Low,On-site,Job Ready,Aptitude,Higher Studies
+STU0376,20,UG,Management,BCA,2028,7.75,Private,MIS Executive,Other Tamil Nadu,Python; Communication; HTML/CSS; Java; Problem-solving; Customer Support,Yes,1,16000,High,Low,On-site,Job Ready,Power BI,Seeking Job
+STU0377,19,UG,Commerce,B.Com Corporate Secretaryship,2027,8.88,Both,Accounts Assistant,Chennai,Tally; Communication; Typing; Python,No,0,17000,Medium,Low,Hybrid,Developing,Communication,Higher Studies
+STU0378,23,UG,Engineering,B.E. Computer Science,2027,5.58,Private,Accounts Assistant,Chennai,Tally; SQL; Power BI; Accounting,Yes,1,22000,Low,Medium,Hybrid,Job Ready,Power BI,Preparing for Exams
+STU0379,19,UG,Management,BBA,2026,9.01,Private,Graduate Trainee,Chengalpattu,Communication; Typing; Accounting; Tally; Java,No,0,13000,High,Medium,Remote,Beginner,Aptitude,Seeking Job
+STU0380,19,UG,Engineering,B.E. ECE,2027,7.41,Both,Customer Support Executive,Tiruvallur,Power BI; Python; Communication; HTML/CSS; SQL; Typing,No,0,13000,Medium,Low,On-site,Beginner,Excel,Seeking Job
+STU0381,22,Diploma,Engineering,B.Tech IT,2027,8.06,Government,HR Assistant,Kanchipuram,Python; Customer Support,No,0,14000,Medium,Medium,Hybrid,Job Ready,Communication,Higher Studies
+STU0382,21,UG,Management,BCA,2028,7.29,Both,Customer Support Executive,Chennai,Power BI; Accounting; MS Excel; Data Analysis; Customer Support,No,0,43000,Low,Low,Hybrid,Developing,Aptitude,Seeking Job
+STU0383,24,UG,Arts,B.A. Tamil,2026,6.76,Both,Graduate Trainee,Tiruvallur,Tally; HTML/CSS; Power BI; Data Analysis; Customer Support,No,0,38000,Low,Low,Remote,Developing,Interview Skills,Seeking Job
+STU0384,20,UG,Management,BBA,2027,5.93,Government,Accounts Assistant,Tiruvallur,Communication; Accounting; Python,No,0,31000,High,High,Remote,Beginner,Python,Seeking Job
+STU0385,19,UG,Science,B.Sc. Statistics,2027,7.59,Both,Software Developer,Kanchipuram,Data Analysis; MS Excel; Python,No,0,14000,Low,Medium,On-site,Job Ready,Interview Skills,Seeking Job
+STU0386,19,UG,Commerce,B.Com,2027,9.24,Both,Software Developer,Chengalpattu,Problem-solving; HTML/CSS; Python; Customer Support; Typing,No,0,30000,Low,Medium,Remote,Developing,Aptitude,Preparing for Exams
+STU0387,25,UG,Arts,B.A. Economics,2028,7.54,Private,MIS Executive,Other Tamil Nadu,Python; Power BI; HTML/CSS,No,0,22000,High,Medium,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0388,25,UG,Commerce,B.Com Corporate Secretaryship,2027,5.63,Government,Data Entry Operator,Chennai,Java; Power BI; SQL; Problem-solving; Typing; Data Analysis,No,0,45000,High,High,Hybrid,Developing,Power BI,Preparing for Exams
+STU0389,23,UG,Arts,B.A. History,2027,9.31,Government,Graduate Trainee,Other Tamil Nadu,Customer Support; Problem-solving,Yes,5,32000,Medium,High,Hybrid,Job Ready,Communication,Preparing for Exams
+STU0390,24,UG,Engineering,B.Tech IT,2027,9.29,Private,Clerk,Chennai,Data Analysis; Typing; Accounting,No,0,33000,Medium,Low,Remote,Job Ready,SQL,Seeking Job
+STU0391,25,UG,Commerce,B.Com Accounting & Finance,2026,8.83,Government,Graduate Trainee,Tiruvallur,Data Analysis; Communication; Problem-solving; Tally; SQL; MS Excel,Yes,9,19000,Low,High,Hybrid,Developing,Aptitude,Seeking Job
+STU0392,19,UG,Arts,B.A. Economics,2028,9.75,Both,Sales Executive,Other Tamil Nadu,HTML/CSS; Communication,No,0,26000,Medium,Medium,Hybrid,Job Ready,Interview Skills,Preparing for Exams
+STU0393,20,UG,Commerce,B.Com Accounting & Finance,2027,6.13,Government,Accounts Assistant,Tiruvallur,Data Analysis; Accounting; Power BI; Python; Tally,No,0,17000,High,High,Hybrid,Beginner,Power BI,Seeking Job
+STU0394,24,UG,Arts,B.A. Tamil,2027,9.58,Both,Graduate Trainee,Tiruvallur,Typing; Data Analysis; Accounting; Java; Communication,No,0,22000,High,Low,On-site,Developing,Aptitude,Seeking Job
+STU0395,23,UG,Management,BBA,2027,7.26,Private,Clerk,Kanchipuram,Python; Accounting; Power BI; HTML/CSS; Typing; MS Excel,No,0,30000,High,Low,On-site,Beginner,Excel,Seeking Job
+STU0396,23,UG,Science,B.Sc. Computer Science,2028,6.43,Private,Graduate Trainee,Tiruvallur,Problem-solving; SQL,Yes,1,19000,Low,Medium,On-site,Beginner,Power BI,Seeking Job
+STU0397,20,UG,Science,B.Sc. Physics,2027,8.37,Private,Data Entry Operator,Kanchipuram,Problem-solving; Java; HTML/CSS; Typing,Yes,2,38000,Medium,High,Hybrid,Developing,Communication,Seeking Job
+STU0398,25,UG,Commerce,B.Com Accounting & Finance,2027,6.03,Private,HR Assistant,Chennai,Customer Support; Python; SQL; MS Excel,No,0,24000,Low,Low,Remote,Beginner,Communication,Seeking Job
+STU0399,20,Diploma,Engineering,B.E. Mechanical,2027,6.55,Private,Graduate Trainee,Other Tamil Nadu,Python; Customer Support,No,0,40000,High,Low,Remote,Developing,Power BI,Placed
+STU0400,21,UG,Commerce,B.Com,2025,5.93,Not decided,Data Entry Operator,Kanchipuram,Java; SQL; Problem-solving; MS Excel,No,0,21000,High,Medium,On-site,Beginner,Excel,Preparing for Exams
+STU0401,21,UG,Commerce,B.Com Accounting & Finance,2026,9.55,Government,Clerk,Chennai,SQL; MS Excel; Accounting; Communication,No,0,24000,High,Low,Remote,Beginner,Power BI,Seeking Job
+STU0402,22,UG,Commerce,B.Com Corporate Secretaryship,2026,9.31,Not decided,MIS Executive,Other Tamil Nadu,MS Excel; Tally; HTML/CSS; Data Analysis,No,0,18000,High,Low,Remote,Beginner,Excel,Seeking Job
+STU0403,22,Diploma,Science,B.Sc. Chemistry,2027,5.5,Both,Customer Support Executive,Other Tamil Nadu,Power BI; SQL; Tally; Data Analysis; Accounting; Problem-solving,No,0,30000,Low,High,On-site,Beginner,Power BI,Seeking Job
+STU0404,20,UG,Science,B.Sc. Chemistry,2025,5.89,Both,Graduate Trainee,Chennai,Customer Support; Power BI; Typing; Data Analysis,Yes,3,29000,Medium,High,Remote,Job Ready,Interview Skills,Seeking Job
+STU0405,21,UG,Commerce,B.Com Accounting & Finance,2028,6.91,Private,Graduate Trainee,Chengalpattu,Problem-solving; Accounting; HTML/CSS; Communication,Yes,11,12000,Low,Medium,On-site,Beginner,Aptitude,Seeking Job
+STU0406,25,UG,Commerce,B.Com Accounting & Finance,2027,7.02,Both,Accounts Assistant,Other Tamil Nadu,Problem-solving; Java; Data Analysis; Python; Typing,No,0,34000,Medium,High,Remote,Beginner,Python,Seeking Job
+STU0407,24,UG,Management,BBA,2028,8.19,Private,Graduate Trainee,Chengalpattu,Accounting; MS Excel; Communication,No,0,26000,Medium,Medium,On-site,Developing,Power BI,Preparing for Exams
+STU0408,23,UG,Engineering,B.E. ECE,2027,8.34,Government,Sales Executive,Other Tamil Nadu,Customer Support; Java; Python,No,0,23000,High,Low,On-site,Job Ready,Python,Seeking Job
+STU0409,22,UG,Management,BCA,2027,9.56,Both,Junior Assistant,Kanchipuram,Accounting; Communication; Power BI; MS Excel; Data Analysis; Problem-solving,No,0,39000,Medium,Medium,On-site,Job Ready,Communication,Seeking Job
+STU0410,21,UG,Science,B.Sc. Mathematics,2027,9.28,Both,Junior Assistant,Chengalpattu,MS Excel; Communication; Java,No,0,39000,High,High,On-site,Beginner,Excel,Seeking Job
+STU0411,22,UG,Commerce,B.Com Accounting & Finance,2028,9.03,Government,HR Assistant,Chengalpattu,Java; MS Excel; Typing; Tally; Communication,Yes,2,40000,High,Low,Hybrid,Job Ready,Python,Seeking Job
+STU0412,22,UG,Arts,B.A. Tamil,2025,8.41,Government,HR Assistant,Chennai,Accounting; Python; SQL; MS Excel,No,0,30000,Medium,Medium,On-site,Job Ready,Interview Skills,Seeking Job
+STU0413,24,UG,Engineering,B.Tech IT,2027,8.03,Both,Clerk,Chennai,MS Excel; HTML/CSS; Java; Accounting; Customer Support; Python,No,0,12000,Low,Low,On-site,Job Ready,Interview Skills,Preparing for Exams
+STU0414,25,UG,Management,BBA,2026,7.37,Government,Banking Associate,Kanchipuram,Communication; Tally; Java; HTML/CSS; Typing; SQL,Yes,5,21000,High,Medium,Hybrid,Job Ready,Excel,Seeking Job
+STU0415,23,UG,Management,BCA,2027,9.7,Private,Banking Associate,Chengalpattu,MS Excel; Power BI; Data Analysis,No,0,16000,Medium,High,Remote,Developing,Aptitude,Placed
+STU0416,22,PG,Commerce,B.Com,2027,9.46,Both,Banking Associate,Chengalpattu,Typing; Tally; Problem-solving; Communication; Java; Accounting,Yes,12,26000,Medium,Low,On-site,Beginner,Power BI,Higher Studies
+STU0417,21,UG,Management,BBA,2026,7.39,Private,Banking Associate,Other Tamil Nadu,Power BI; Java; SQL; MS Excel; Tally,Yes,6,14000,High,High,On-site,Developing,SQL,Seeking Job
+STU0418,19,UG,Science,B.Sc. Mathematics,2027,8.89,Government,Clerk,Kanchipuram,Power BI; SQL; Problem-solving; MS Excel; Accounting; Communication,No,0,25000,Medium,Medium,On-site,Developing,Interview Skills,Seeking Job
+STU0419,20,UG,Arts,B.A. History,2026,7.35,Private,Banking Associate,Chengalpattu,Java; Accounting; Python; Customer Support; SQL; Data Analysis,No,0,14000,Low,Low,On-site,Job Ready,Excel,Higher Studies
+STU0420,19,UG,Science,B.Sc. Chemistry,2025,7.69,Government,Banking Associate,Other Tamil Nadu,SQL; Data Analysis; Typing; HTML/CSS,Yes,6,43000,Low,Medium,On-site,Developing,Aptitude,Seeking Job
+STU0421,20,UG,Commerce,B.Com,2027,6.82,Both,Accounts Assistant,Other Tamil Nadu,HTML/CSS; Communication; Typing; Java; MS Excel,Yes,3,35000,Medium,Low,On-site,Beginner,Interview Skills,Seeking Job
+STU0422,22,UG,Science,B.Sc. Physics,2026,7.14,Private,Data Entry Operator,Tiruvallur,MS Excel; HTML/CSS; Data Analysis; Typing; Tally; Java,No,0,26000,Medium,Low,On-site,Developing,Python,Seeking Job
+STU0423,19,UG,Commerce,B.Com Accounting & Finance,2025,6.36,Private,Data Analyst,Kanchipuram,Problem-solving; Communication,No,0,28000,Medium,Low,Remote,Developing,SQL,Higher Studies
+STU0424,25,UG,Management,BBA,2027,7.7,Not decided,Data Entry Operator,Tiruvallur,Communication; MS Excel; Problem-solving; Customer Support; Tally; Java,No,0,26000,High,Low,Remote,Beginner,Power BI,Seeking Job
+STU0425,22,UG,Commerce,B.Com Corporate Secretaryship,2027,7.39,Private,HR Assistant,Chennai,Accounting; HTML/CSS; Tally; Python; Customer Support,No,0,35000,High,Low,On-site,Developing,Aptitude,Seeking Job
+STU0426,24,UG,Engineering,B.E. Mechanical,2027,7.94,Both,Junior Assistant,Chengalpattu,Power BI; Java; Accounting; Customer Support,No,0,21000,Medium,Low,Remote,Job Ready,Communication,Seeking Job
+STU0427,23,Diploma,Science,B.Sc. Computer Science,2025,5.95,Private,HR Assistant,Chengalpattu,Python; Data Analysis; Java; Power BI; HTML/CSS,Yes,1,43000,High,High,On-site,Beginner,Power BI,Seeking Job
+STU0428,19,UG,Science,B.Sc. Physics,2027,9.76,Both,Data Entry Operator,Other Tamil Nadu,HTML/CSS; MS Excel,No,0,38000,Medium,Low,On-site,Developing,Interview Skills,Seeking Job
+STU0429,24,UG,Engineering,B.E. ECE,2025,6.11,Private,Clerk,Tiruvallur,SQL; Typing; Accounting; Communication; Power BI,No,0,27000,Low,Medium,Remote,Developing,Power BI,Seeking Job
+STU0430,20,PG,Arts,B.A. Tamil,2027,9.42,Government,Data Entry Operator,Other Tamil Nadu,Tally; Accounting; Communication; Java; SQL,No,0,18000,Medium,Low,On-site,Beginner,Interview Skills,Seeking Job
+STU0431,20,PG,Engineering,B.Tech IT,2028,7.88,Private,Software Developer,Chennai,Accounting; Problem-solving,No,0,18000,Low,Medium,Hybrid,Developing,SQL,Seeking Job
+STU0432,22,UG,Commerce,B.Com Corporate Secretaryship,2027,6.34,Private,Junior Assistant,Chennai,Customer Support; Accounting,No,0,28000,High,Low,On-site,Developing,Aptitude,Higher Studies
+STU0433,20,UG,Commerce,B.Com Corporate Secretaryship,2025,6.76,Government,HR Assistant,Tiruvallur,Customer Support; Power BI; HTML/CSS; SQL; Problem-solving; Communication,No,0,22000,High,Low,On-site,Job Ready,Excel,Seeking Job
+STU0434,24,UG,Science,B.Sc. Chemistry,2027,8.58,Government,Clerk,Tiruvallur,Customer Support; Data Analysis,Yes,12,31000,Medium,High,Remote,Beginner,Python,Higher Studies
+STU0435,19,UG,Engineering,B.E. ECE,2027,5.77,Not decided,Clerk,Chengalpattu,Power BI; Problem-solving; Python; MS Excel,No,0,22000,High,Medium,Remote,Beginner,Interview Skills,Seeking Job
+STU0436,20,UG,Commerce,B.Com Accounting & Finance,2026,7.23,Government,Software Developer,Chennai,Data Analysis; Java; Accounting,Yes,7,25000,Medium,High,On-site,Job Ready,Interview Skills,Seeking Job
+STU0437,19,UG,Commerce,B.Com Corporate Secretaryship,2026,9.62,Government,Sales Executive,Kanchipuram,Java; Communication; Typing,No,0,36000,Low,Low,On-site,Developing,SQL,Placed
+STU0438,24,UG,Engineering,B.E. Computer Science,2026,8.15,Private,Clerk,Kanchipuram,Python; Tally; MS Excel; Typing; HTML/CSS,No,0,27000,Low,Medium,On-site,Job Ready,Python,Seeking Job
+STU0439,24,UG,Science,B.Sc. Physics,2027,6.91,Private,MIS Executive,Kanchipuram,Java; Power BI; Customer Support,Yes,11,14000,Low,Medium,Remote,Developing,Interview Skills,Seeking Job
+STU0440,24,Diploma,Engineering,B.E. ECE,2027,7.14,Private,Software Developer,Chengalpattu,Power BI; Data Analysis; MS Excel,No,0,40000,Low,High,On-site,Developing,Python,Preparing for Exams
+STU0441,25,UG,Arts,B.A. Economics,2026,5.84,Not decided,Graduate Trainee,Tiruvallur,SQL; Python; Problem-solving,No,0,31000,High,Low,On-site,Beginner,Power BI,Seeking Job
+STU0442,21,UG,Science,B.Sc. Mathematics,2027,7.32,Private,Sales Executive,Tiruvallur,Customer Support; Power BI; Communication; HTML/CSS; Python,No,0,21000,Medium,High,Hybrid,Developing,Interview Skills,Seeking Job
+STU0443,21,UG,Management,BCA,2025,6.09,Private,Customer Support Executive,Chengalpattu,SQL; Data Analysis; Problem-solving; Communication; Java; HTML/CSS,Yes,3,24000,High,High,Remote,Job Ready,Aptitude,Seeking Job
+STU0444,23,UG,Science,B.Sc. Statistics,2028,6.04,Private,Sales Executive,Chengalpattu,Accounting; Tally; Java; HTML/CSS; Communication,No,0,24000,Medium,Medium,Remote,Developing,Communication,Higher Studies
+STU0445,24,UG,Commerce,B.Com Accounting & Finance,2025,9.0,Private,Banking Associate,Chennai,Customer Support; Java,No,0,21000,Medium,Low,Hybrid,Job Ready,SQL,Seeking Job
+STU0446,22,UG,Commerce,B.Com Corporate Secretaryship,2028,5.85,Not decided,Data Analyst,Tiruvallur,MS Excel; Python; Accounting,No,0,22000,Medium,Medium,Remote,Developing,Communication,Preparing for Exams
+STU0447,25,UG,Commerce,B.Com,2026,6.4,Private,Graduate Trainee,Tiruvallur,Accounting; Java; Python; Customer Support,No,0,31000,High,High,Hybrid,Beginner,Python,Seeking Job
+STU0448,24,UG,Commerce,B.Com Accounting & Finance,2026,9.58,Private,Customer Support Executive,Other Tamil Nadu,Accounting; Java; SQL; Customer Support,No,0,25000,High,High,On-site,Job Ready,SQL,Preparing for Exams
+STU0449,19,UG,Science,B.Sc. Computer Science,2025,5.63,Not decided,Data Analyst,Tiruvallur,HTML/CSS; Customer Support; Typing; Python; SQL,Yes,8,18000,High,High,Hybrid,Beginner,Aptitude,Placed
+STU0450,22,UG,Management,BCA,2027,8.43,Government,Software Developer,Kanchipuram,Problem-solving; MS Excel; Java; Typing; Data Analysis; Communication,No,0,27000,Medium,Low,Hybrid,Developing,Communication,Seeking Job
+STU0451,22,UG,Science,B.Sc. Mathematics,2025,6.03,Private,HR Assistant,Kanchipuram,MS Excel; HTML/CSS,No,0,27000,Medium,Medium,Remote,Job Ready,Aptitude,Preparing for Exams
+STU0452,21,PG,Commerce,B.Com Corporate Secretaryship,2027,7.41,Both,Sales Executive,Tiruvallur,Customer Support; Tally,Yes,7,17000,Medium,Medium,Hybrid,Job Ready,Interview Skills,Placed
+STU0453,25,UG,Arts,B.A. Tamil,2026,7.42,Private,Clerk,Tiruvallur,Power BI; Accounting; SQL; Data Analysis; Typing; MS Excel,Yes,11,27000,High,High,On-site,Job Ready,Aptitude,Seeking Job
+STU0454,21,UG,Science,B.Sc. Statistics,2027,9.47,Both,Banking Associate,Tiruvallur,Tally; Java; Communication,Yes,2,33000,High,Low,Remote,Beginner,Aptitude,Seeking Job
+STU0455,19,UG,Management,BBA,2025,8.68,Both,Data Analyst,Chennai,Customer Support; Problem-solving; Data Analysis; Java; Power BI,Yes,10,35000,High,Medium,Hybrid,Job Ready,Aptitude,Seeking Job
+STU0456,23,UG,Arts,B.A. Tamil,2025,9.17,Private,Software Developer,Chengalpattu,Java; Tally; Accounting; SQL; Data Analysis,No,0,30000,High,Medium,Remote,Developing,SQL,Placed
+STU0457,24,UG,Arts,B.A. Tamil,2027,6.43,Both,MIS Executive,Tiruvallur,Typing; Tally,Yes,1,33000,High,Low,On-site,Job Ready,Interview Skills,Seeking Job
+STU0458,25,UG,Engineering,B.E. ECE,2028,7.86,Not decided,Software Developer,Tiruvallur,HTML/CSS; Accounting; Java,Yes,11,42000,Medium,Medium,Hybrid,Beginner,Communication,Higher Studies
+STU0459,20,UG,Science,B.Sc. Physics,2027,6.75,Not decided,Data Entry Operator,Chengalpattu,Java; Python; SQL; Tally; MS Excel; Communication,No,0,25000,Low,High,Remote,Job Ready,Python,Seeking Job
+STU0460,19,UG,Engineering,B.Tech IT,2026,5.73,Government,HR Assistant,Kanchipuram,Java; Problem-solving; Customer Support,No,0,39000,High,Low,Remote,Developing,SQL,Seeking Job
+STU0461,24,UG,Science,B.Sc. Statistics,2026,5.86,Private,Customer Support Executive,Other Tamil Nadu,SQL; Customer Support; Java; Python; HTML/CSS; Accounting,Yes,4,13000,Low,Low,Remote,Developing,Excel,Placed
+STU0462,19,UG,Arts,B.A. Economics,2027,8.51,Private,Accounts Assistant,Other Tamil Nadu,HTML/CSS; Customer Support; Java; Communication; SQL,Yes,9,45000,Medium,High,Remote,Job Ready,Communication,Higher Studies
+STU0463,24,UG,Engineering,B.Tech IT,2028,6.03,Government,Data Entry Operator,Other Tamil Nadu,Customer Support; Python; SQL,No,0,25000,Low,High,On-site,Job Ready,Excel,Preparing for Exams
+STU0464,19,PG,Arts,B.A. History,2027,7.41,Not decided,Sales Executive,Tiruvallur,Communication; Tally; Data Analysis; SQL; Java; MS Excel,Yes,12,32000,Low,Medium,Remote,Job Ready,Communication,Seeking Job
+STU0465,25,UG,Arts,B.A. Economics,2027,6.43,Both,Software Developer,Kanchipuram,MS Excel; Power BI; SQL,Yes,3,39000,High,Low,Hybrid,Developing,Power BI,Placed
+STU0466,24,UG,Arts,B.A. Economics,2027,7.92,Private,Banking Associate,Other Tamil Nadu,Customer Support; Java; SQL; Data Analysis,Yes,10,22000,Medium,High,Hybrid,Developing,Power BI,Seeking Job
+STU0467,22,UG,Commerce,B.Com Corporate Secretaryship,2025,9.41,Government,MIS Executive,Chengalpattu,Data Analysis; Python,No,0,26000,Medium,High,On-site,Developing,SQL,Seeking Job
+STU0468,25,UG,Arts,B.A. History,2027,9.22,Not decided,HR Assistant,Kanchipuram,Data Analysis; Accounting; Communication,No,0,18000,High,High,Hybrid,Developing,SQL,Seeking Job
+STU0469,23,UG,Engineering,B.E. ECE,2026,7.94,Not decided,MIS Executive,Chennai,Data Analysis; Typing; Java; HTML/CSS; SQL; Communication,Yes,12,35000,Low,High,Remote,Job Ready,Power BI,Higher Studies
+STU0470,25,UG,Science,B.Sc. Statistics,2028,7.25,Not decided,Software Developer,Chennai,Data Analysis; Communication; Accounting; Java; Problem-solving,No,0,17000,High,Low,On-site,Beginner,SQL,Seeking Job
+STU0471,23,UG,Arts,B.A. English,2027,8.15,Private,Graduate Trainee,Chennai,Problem-solving; MS Excel; Java; Data Analysis; SQL,No,0,39000,Low,Low,Remote,Developing,SQL,Preparing for Exams
+STU0472,25,UG,Commerce,B.Com,2026,7.08,Not decided,Data Entry Operator,Other Tamil Nadu,Customer Support; Typing; MS Excel; Accounting; HTML/CSS; SQL,No,0,34000,High,Medium,Hybrid,Developing,SQL,Seeking Job
+STU0473,21,UG,Arts,B.A. English,2027,7.95,Both,Data Analyst,Kanchipuram,Data Analysis; Python; Communication,Yes,11,44000,High,Medium,Remote,Developing,Python,Seeking Job
+STU0474,19,UG,Commerce,B.Com Accounting & Finance,2026,7.78,Private,Data Entry Operator,Tiruvallur,Python; MS Excel; Tally; SQL,No,0,19000,Medium,High,On-site,Job Ready,Excel,Seeking Job
+STU0475,22,UG,Science,B.Sc. Computer Science,2027,5.52,Private,Graduate Trainee,Chengalpattu,SQL; Data Analysis; Communication; Python; HTML/CSS,No,0,19000,High,Medium,On-site,Beginner,Power BI,Seeking Job
+STU0476,22,UG,Science,B.Sc. Mathematics,2027,8.79,Government,Accounts Assistant,Other Tamil Nadu,HTML/CSS; Customer Support; Communication,Yes,12,36000,High,High,On-site,Beginner,SQL,Seeking Job
+STU0477,23,UG,Commerce,B.Com Accounting & Finance,2027,6.71,Both,Clerk,Tiruvallur,MS Excel; Customer Support; Tally,No,0,27000,Low,High,Remote,Job Ready,SQL,Seeking Job
+STU0478,25,UG,Engineering,B.E. ECE,2026,9.18,Both,Banking Associate,Chengalpattu,Customer Support; Java; Power BI,No,0,26000,High,High,Hybrid,Beginner,Excel,Preparing for Exams
+STU0479,20,UG,Management,BCA,2027,7.69,Private,Banking Associate,Chennai,Power BI; Python; MS Excel; Java; Typing; Communication,No,0,31000,High,Medium,Hybrid,Developing,Excel,Higher Studies
+STU0480,21,UG,Science,B.Sc. Physics,2026,8.11,Both,Accounts Assistant,Chengalpattu,MS Excel; Problem-solving; Accounting,No,0,28000,Medium,Medium,Hybrid,Developing,Python,Seeking Job
+STU0481,23,UG,Arts,B.A. History,2026,6.69,Private,Sales Executive,Tiruvallur,Tally; Problem-solving; Accounting,No,0,17000,High,High,Remote,Job Ready,Communication,Seeking Job
+STU0482,19,PG,Commerce,B.Com Corporate Secretaryship,2027,8.62,Both,Data Analyst,Other Tamil Nadu,Power BI; Accounting; HTML/CSS,No,0,21000,High,High,On-site,Developing,Communication,Higher Studies
+STU0483,23,PG,Engineering,B.E. Computer Science,2026,6.68,Both,Data Entry Operator,Kanchipuram,Tally; Problem-solving; HTML/CSS; Python; Java; Typing,No,0,14000,Low,High,Remote,Beginner,Aptitude,Preparing for Exams
+STU0484,21,UG,Commerce,B.Com,2026,6.44,Private,Graduate Trainee,Chennai,Python; SQL; HTML/CSS; Data Analysis; Java; Typing,No,0,44000,Medium,Low,Remote,Job Ready,Communication,Seeking Job
+STU0485,20,UG,Engineering,B.E. ECE,2028,6.69,Private,Data Entry Operator,Kanchipuram,Data Analysis; Python; SQL; Power BI,Yes,1,27000,High,Low,On-site,Beginner,Aptitude,Seeking Job
+STU0486,20,UG,Commerce,B.Com Corporate Secretaryship,2026,9.74,Private,Banking Associate,Chennai,Accounting; Data Analysis,Yes,6,26000,Low,Medium,On-site,Developing,Python,Seeking Job
+STU0487,20,UG,Management,BBA,2027,8.97,Both,Accounts Assistant,Chengalpattu,Python; Accounting; Java; Communication; Data Analysis; Power BI,No,0,40000,High,Low,Remote,Developing,Excel,Seeking Job
+STU0488,20,UG,Commerce,B.Com,2026,9.31,Private,Accounts Assistant,Other Tamil Nadu,SQL; Problem-solving; Power BI; Typing; HTML/CSS,No,0,24000,High,High,On-site,Developing,SQL,Seeking Job
+STU0489,19,UG,Commerce,B.Com Corporate Secretaryship,2028,6.07,Private,Clerk,Kanchipuram,SQL; Accounting; MS Excel; Typing; Python; Java,No,0,21000,Low,Low,On-site,Beginner,Interview Skills,Seeking Job
+STU0490,23,PG,Engineering,B.E. ECE,2026,7.56,Private,Data Analyst,Chennai,Power BI; SQL,No,0,29000,Low,Low,On-site,Beginner,Interview Skills,Seeking Job
+STU0491,20,UG,Commerce,B.Com Accounting & Finance,2026,9.28,Government,Accounts Assistant,Chennai,SQL; MS Excel; Power BI; Accounting; Customer Support,No,0,43000,High,High,On-site,Beginner,Excel,Seeking Job
+STU0492,22,UG,Commerce,B.Com Corporate Secretaryship,2026,7.33,Government,Banking Associate,Kanchipuram,MS Excel; Typing,Yes,10,30000,Medium,High,Hybrid,Developing,Aptitude,Seeking Job
+STU0493,20,UG,Science,B.Sc. Mathematics,2027,7.18,Both,Graduate Trainee,Tiruvallur,Problem-solving; MS Excel,No,0,16000,High,Low,Hybrid,Job Ready,Excel,Seeking Job
+STU0494,22,UG,Science,B.Sc. Computer Science,2026,9.56,Government,Data Analyst,Tiruvallur,Tally; Problem-solving; HTML/CSS; Java; Customer Support,No,0,38000,Low,Medium,Remote,Job Ready,Power BI,Seeking Job
+STU0495,19,UG,Engineering,B.E. Computer Science,2027,7.54,Private,Data Entry Operator,Chennai,Accounting; Java; Data Analysis; Typing; Power BI; Python,Yes,1,34000,Medium,High,Hybrid,Developing,SQL,Preparing for Exams
+STU0496,24,UG,Commerce,B.Com Accounting & Finance,2027,8.49,Not decided,Accounts Assistant,Kanchipuram,Power BI; Problem-solving; Accounting; MS Excel; SQL,Yes,1,18000,Low,Low,On-site,Developing,Interview Skills,Placed
+STU0497,25,UG,Arts,B.A. Economics,2027,7.52,Government,Data Entry Operator,Other Tamil Nadu,Python; Power BI; Problem-solving,Yes,12,31000,Medium,Medium,Remote,Developing,Power BI,Higher Studies
+STU0498,20,UG,Commerce,B.Com,2027,7.32,Private,Customer Support Executive,Other Tamil Nadu,MS Excel; Customer Support; Problem-solving,No,0,28000,Low,Low,Hybrid,Job Ready,SQL,Seeking Job
+STU0499,25,UG,Arts,B.A. English,2028,7.51,Not decided,Software Developer,Tiruvallur,Java; SQL; Power BI; Problem-solving; MS Excel; Customer Support,No,0,36000,High,High,Hybrid,Job Ready,Power BI,Seeking Job
+STU0500,19,UG,Arts,B.A. English,2027,6.83,Government,HR Assistant,Chengalpattu,Problem-solving; Tally; MS Excel; Power BI; Communication; SQL,No,0,14000,High,Medium,On-site,Job Ready,Communication,Seeking Job
+STU0501,19,Diploma,Management,BCA,2028,7.65,Private,Software Developer,Tiruvallur,Tally; Python,No,0,34000,High,Low,Remote,Beginner,Excel,Seeking Job
+STU0502,25,UG,Engineering,B.E. Mechanical,2026,8.43,Government,Clerk,Chennai,MS Excel; Typing; Java,No,0,26000,High,Low,Remote,Beginner,Interview Skills,Higher Studies
+STU0503,23,UG,Management,BCA,2025,8.56,Private,Banking Associate,Tiruvallur,Customer Support; Data Analysis; Tally; HTML/CSS; SQL; Problem-solving,Yes,4,25000,Low,Low,On-site,Beginner,Communication,Placed
+STU0504,25,UG,Commerce,B.Com,2027,7.46,Both,Data Entry Operator,Kanchipuram,Problem-solving; Communication; Data Analysis,No,0,22000,High,Medium,Remote,Developing,Excel,Seeking Job
+STU0505,23,UG,Arts,B.A. History,2028,7.22,Both,Sales Executive,Chengalpattu,HTML/CSS; Communication; Problem-solving; SQL,No,0,40000,Medium,Low,Remote,Developing,Excel,Seeking Job
+STU0506,25,UG,Science,B.Sc. Chemistry,2025,9.17,Private,MIS Executive,Tiruvallur,Typing; Customer Support,Yes,3,37000,High,High,Hybrid,Developing,Aptitude,Seeking Job
+STU0507,20,UG,Commerce,B.Com,2026,9.78,Both,Customer Support Executive,Chengalpattu,Python; Problem-solving; SQL; Accounting; Java,No,0,42000,High,Medium,Hybrid,Beginner,Communication,Seeking Job
+STU0508,25,UG,Commerce,B.Com Accounting & Finance,2028,6.42,Both,Data Analyst,Chennai,Typing; MS Excel; Problem-solving; Java,Yes,11,39000,Medium,Medium,Remote,Beginner,Python,Seeking Job
+STU0509,19,PG,Science,B.Sc. Physics,2027,8.74,Government,Data Entry Operator,Chengalpattu,Java; Data Analysis; Power BI; Communication; SQL,No,0,34000,Medium,Medium,Hybrid,Job Ready,Aptitude,Higher Studies
+STU0510,23,UG,Management,BCA,2027,9.04,Private,Graduate Trainee,Kanchipuram,Java; MS Excel; Data Analysis; Typing; Power BI; Python,No,0,12000,High,Medium,On-site,Developing,Interview Skills,Seeking Job
+STU0511,25,UG,Engineering,B.Tech IT,2027,7.99,Both,Junior Assistant,Chengalpattu,Data Analysis; Accounting; MS Excel; HTML/CSS,No,0,24000,Medium,Low,Remote,Beginner,Communication,Seeking Job
+STU0512,25,UG,Science,B.Sc. Physics,2027,7.46,Not decided,Accounts Assistant,Kanchipuram,MS Excel; Tally; Accounting; Problem-solving; Communication; Data Analysis,No,0,34000,Low,Medium,Remote,Developing,Python,Preparing for Exams
+STU0513,24,UG,Science,B.Sc. Computer Science,2027,9.53,Private,Clerk,Chennai,Typing; SQL; Data Analysis; Java; Problem-solving; Communication,No,0,18000,High,Low,On-site,Job Ready,Power BI,Seeking Job
+STU0514,20,UG,Engineering,B.Tech IT,2027,5.99,Both,Customer Support Executive,Chennai,Python; Customer Support; HTML/CSS; Data Analysis; MS Excel; Communication,No,0,34000,Medium,Medium,Remote,Job Ready,Interview Skills,Higher Studies
+STU0515,21,UG,Arts,B.A. Tamil,2027,5.52,Private,Accounts Assistant,Chennai,Data Analysis; Communication; Accounting,No,0,12000,High,High,Hybrid,Job Ready,Interview Skills,Higher Studies
+STU0516,25,PG,Science,B.Sc. Physics,2026,8.24,Government,Graduate Trainee,Chengalpattu,Java; Power BI; Data Analysis; Problem-solving; Accounting; Typing,No,0,37000,Medium,Low,On-site,Developing,SQL,Seeking Job
+STU0517,20,UG,Engineering,B.E. Computer Science,2027,8.2,Private,Sales Executive,Chengalpattu,Problem-solving; Java; Customer Support; Communication; Data Analysis; SQL,No,0,13000,Low,Low,Remote,Beginner,Communication,Seeking Job
+STU0518,20,UG,Engineering,B.E. ECE,2027,8.97,Government,Accounts Assistant,Kanchipuram,Customer Support; Problem-solving; Tally; SQL; Power BI,No,0,15000,Medium,High,On-site,Job Ready,Python,Placed
+STU0519,20,UG,Commerce,B.Com Accounting & Finance,2028,9.42,Government,Data Analyst,Tiruvallur,Typing; Python; Accounting; SQL; Communication,Yes,2,43000,High,Medium,On-site,Developing,Aptitude,Seeking Job
+STU0520,20,UG,Commerce,B.Com Corporate Secretaryship,2027,5.64,Private,Software Developer,Kanchipuram,Customer Support; HTML/CSS; SQL; Problem-solving,Yes,8,12000,High,Low,Remote,Developing,Python,Seeking Job
+STU0521,20,UG,Arts,B.A. Economics,2026,7.57,Government,Clerk,Kanchipuram,Problem-solving; SQL; Power BI; Tally; Python; Customer Support,Yes,12,30000,Medium,Low,Hybrid,Developing,Communication,Preparing for Exams
+STU0522,19,UG,Management,BCA,2026,6.39,Government,Graduate Trainee,Tiruvallur,Customer Support; Accounting; Communication,No,0,39000,Medium,Medium,Remote,Job Ready,Excel,Preparing for Exams
+STU0523,19,PG,Commerce,B.Com Accounting & Finance,2027,6.76,Private,Banking Associate,Other Tamil Nadu,Power BI; Typing; Tally; Customer Support; Python,No,0,34000,Medium,High,On-site,Beginner,Interview Skills,Seeking Job
+STU0524,20,UG,Engineering,B.E. Computer Science,2025,8.46,Private,Graduate Trainee,Kanchipuram,Power BI; Customer Support,No,0,25000,Medium,Low,Hybrid,Beginner,Communication,Seeking Job
+STU0525,25,UG,Science,B.Sc. Statistics,2027,8.28,Government,Banking Associate,Tiruvallur,Python; Data Analysis; Communication,No,0,32000,Medium,High,On-site,Beginner,Interview Skills,Seeking Job
+STU0526,21,UG,Arts,B.A. Economics,2027,6.73,Government,Banking Associate,Other Tamil Nadu,Python; HTML/CSS,Yes,1,41000,Medium,High,Hybrid,Beginner,Communication,Preparing for Exams
+STU0527,22,UG,Arts,B.A. History,2026,6.99,Both,Clerk,Other Tamil Nadu,HTML/CSS; Python,No,0,32000,Medium,Low,On-site,Developing,Excel,Placed
+STU0528,20,UG,Science,B.Sc. Statistics,2026,9.77,Both,Graduate Trainee,Tiruvallur,Tally; Typing,Yes,4,22000,High,High,Remote,Developing,Interview Skills,Preparing for Exams
+STU0529,21,UG,Management,BCA,2027,8.9,Not decided,Accounts Assistant,Kanchipuram,Communication; MS Excel,Yes,12,22000,High,Low,Hybrid,Beginner,SQL,Seeking Job
+STU0530,23,UG,Arts,B.A. Tamil,2028,6.88,Private,Graduate Trainee,Tiruvallur,Customer Support; HTML/CSS; Problem-solving; Python; Data Analysis,No,0,26000,High,Medium,Hybrid,Job Ready,Python,Seeking Job
+STU0531,19,UG,Engineering,B.E. ECE,2027,7.16,Government,Customer Support Executive,Chennai,Accounting; Python; Problem-solving,No,0,33000,High,Low,Remote,Job Ready,Interview Skills,Seeking Job
+STU0532,21,UG,Management,BCA,2028,7.71,Both,Accounts Assistant,Chengalpattu,Data Analysis; Python; SQL,Yes,2,29000,Medium,High,Remote,Developing,Interview Skills,Seeking Job
+STU0533,22,UG,Arts,B.A. English,2027,7.78,Private,Software Developer,Kanchipuram,Accounting; Python,Yes,2,17000,Medium,Medium,On-site,Beginner,Power BI,Seeking Job
+STU0534,22,UG,Commerce,B.Com,2027,8.05,Government,HR Assistant,Other Tamil Nadu,Tally; Python; MS Excel; Java,No,0,43000,Low,Medium,On-site,Job Ready,Python,Placed
+STU0535,19,UG,Management,BCA,2026,8.17,Government,Graduate Trainee,Tiruvallur,MS Excel; Typing,Yes,7,37000,High,High,Remote,Job Ready,Excel,Seeking Job
+STU0536,23,PG,Arts,B.A. Tamil,2027,9.17,Government,Graduate Trainee,Chengalpattu,Accounting; Typing; Communication; MS Excel,Yes,3,32000,Low,High,On-site,Beginner,Excel,Preparing for Exams
+STU0537,20,UG,Arts,B.A. English,2027,9.67,Government,Sales Executive,Chennai,Java; Tally; MS Excel; SQL; Communication,No,0,43000,High,Medium,On-site,Beginner,Interview Skills,Seeking Job
+STU0538,25,UG,Commerce,B.Com Accounting & Finance,2028,6.94,Private,Customer Support Executive,Kanchipuram,Data Analysis; Problem-solving; SQL,No,0,28000,Low,Medium,Hybrid,Developing,Power BI,Seeking Job
+STU0539,24,UG,Science,B.Sc. Mathematics,2028,9.18,Both,Banking Associate,Chengalpattu,Problem-solving; Customer Support; Typing; HTML/CSS; Python; Communication,No,0,34000,Medium,High,On-site,Job Ready,Aptitude,Placed
+STU0540,21,PG,Science,B.Sc. Chemistry,2028,7.43,Government,HR Assistant,Chengalpattu,Power BI; Java,No,0,28000,Low,Medium,Hybrid,Developing,Communication,Seeking Job
+STU0541,25,UG,Management,BCA,2027,7.94,Private,Software Developer,Kanchipuram,Typing; Data Analysis,No,0,19000,High,Medium,Remote,Beginner,Power BI,Placed
+STU0542,19,UG,Commerce,B.Com,2026,8.05,Private,Junior Assistant,Tiruvallur,Customer Support; SQL; Communication; HTML/CSS; Problem-solving; Python,No,0,31000,High,Medium,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0543,19,UG,Science,B.Sc. Mathematics,2028,6.35,Private,Sales Executive,Chennai,Problem-solving; Data Analysis; Customer Support; Accounting,Yes,5,26000,High,Medium,Hybrid,Beginner,Interview Skills,Placed
+STU0544,20,UG,Science,B.Sc. Computer Science,2028,6.1,Private,Data Analyst,Kanchipuram,Communication; Problem-solving,No,0,20000,Medium,Low,On-site,Developing,Excel,Seeking Job
+STU0545,23,PG,Commerce,B.Com Corporate Secretaryship,2027,7.02,Both,Customer Support Executive,Tiruvallur,SQL; Java; Accounting; Python; Problem-solving; HTML/CSS,No,0,38000,Medium,High,Remote,Beginner,Interview Skills,Seeking Job
+STU0546,23,UG,Engineering,B.E. Mechanical,2025,9.13,Private,Data Entry Operator,Tiruvallur,Problem-solving; Power BI; Typing; Data Analysis,No,0,12000,Medium,Low,Hybrid,Beginner,Python,Seeking Job
+STU0547,21,PG,Engineering,B.E. Computer Science,2027,8.4,Both,Graduate Trainee,Chennai,Typing; Python; Communication; Problem-solving,No,0,25000,Low,High,Remote,Job Ready,Power BI,Seeking Job
+STU0548,19,UG,Engineering,B.E. ECE,2025,5.5,Both,Sales Executive,Chennai,Communication; Customer Support; Problem-solving,No,0,45000,High,High,On-site,Beginner,Power BI,Seeking Job
+STU0549,20,UG,Commerce,B.Com Corporate Secretaryship,2026,8.13,Private,Customer Support Executive,Other Tamil Nadu,Communication; Java,No,0,19000,Medium,High,Remote,Beginner,SQL,Seeking Job
+STU0550,24,UG,Engineering,B.Tech IT,2027,6.68,Government,Accounts Assistant,Chennai,Accounting; Problem-solving; Data Analysis; Power BI; HTML/CSS; Customer Support,Yes,8,38000,Medium,High,On-site,Developing,Power BI,Seeking Job
+STU0551,23,UG,Science,B.Sc. Computer Science,2028,7.51,Private,Graduate Trainee,Tiruvallur,Customer Support; Problem-solving,No,0,29000,High,High,Hybrid,Job Ready,Interview Skills,Preparing for Exams
+STU0552,23,UG,Science,B.Sc. Mathematics,2026,8.78,Both,MIS Executive,Tiruvallur,Java; Data Analysis; Python; SQL; Typing; Tally,No,0,16000,Low,Medium,Hybrid,Developing,Communication,Placed
+STU0553,19,UG,Commerce,B.Com,2026,8.36,Not decided,Customer Support Executive,Tiruvallur,Communication; SQL; Tally; Typing; Customer Support; Java,Yes,6,26000,Low,High,On-site,Beginner,Aptitude,Preparing for Exams
+STU0554,19,UG,Engineering,B.E. Computer Science,2027,7.11,Private,Banking Associate,Chennai,MS Excel; Typing,Yes,3,32000,High,Low,Hybrid,Developing,SQL,Preparing for Exams
+STU0555,24,UG,Commerce,B.Com Corporate Secretaryship,2028,6.33,Government,Sales Executive,Chennai,HTML/CSS; Problem-solving; Customer Support; Communication,Yes,11,18000,High,High,On-site,Beginner,Excel,Higher Studies
+STU0556,25,UG,Commerce,B.Com Accounting & Finance,2027,7.03,Both,HR Assistant,Chengalpattu,SQL; Customer Support; Accounting; Data Analysis,No,0,16000,Medium,Medium,Remote,Developing,Interview Skills,Seeking Job
+STU0557,23,UG,Arts,B.A. Economics,2028,6.75,Both,MIS Executive,Tiruvallur,Python; Problem-solving; HTML/CSS; Power BI,Yes,12,34000,High,High,Hybrid,Beginner,Communication,Seeking Job
+STU0558,21,UG,Engineering,B.E. Computer Science,2027,6.62,Not decided,Software Developer,Chennai,Communication; Java; Typing; MS Excel; Data Analysis; Python,No,0,20000,High,Low,Remote,Developing,Interview Skills,Placed
+STU0559,24,UG,Engineering,B.E. Computer Science,2027,5.8,Government,Accounts Assistant,Other Tamil Nadu,Problem-solving; Typing,No,0,17000,Low,Medium,On-site,Developing,Aptitude,Seeking Job
+STU0560,19,UG,Arts,B.A. Economics,2027,9.2,Private,Banking Associate,Chennai,Java; HTML/CSS; Communication; Power BI,Yes,9,42000,High,Medium,Hybrid,Job Ready,SQL,Seeking Job
+STU0561,19,UG,Science,B.Sc. Statistics,2027,6.48,Government,Graduate Trainee,Other Tamil Nadu,Python; Typing; Tally; Customer Support; Power BI,No,0,14000,High,Low,On-site,Beginner,Python,Seeking Job
+STU0562,20,UG,Science,B.Sc. Physics,2027,8.32,Private,Clerk,Kanchipuram,Tally; Typing; Customer Support; Power BI,No,0,25000,Medium,Low,Remote,Developing,Interview Skills,Seeking Job
+STU0563,23,UG,Engineering,B.E. Mechanical,2028,8.53,Not decided,Sales Executive,Tiruvallur,Communication; Customer Support; Power BI; Data Analysis; Problem-solving; Tally,No,0,29000,High,High,On-site,Job Ready,SQL,Seeking Job
+STU0564,22,PG,Commerce,B.Com,2027,5.65,Government,MIS Executive,Other Tamil Nadu,MS Excel; Power BI; HTML/CSS,No,0,36000,Medium,High,On-site,Developing,Interview Skills,Placed
+STU0565,22,UG,Commerce,B.Com Corporate Secretaryship,2026,7.83,Both,Software Developer,Chennai,HTML/CSS; MS Excel; Power BI; Customer Support; Java,Yes,10,33000,Medium,Low,On-site,Beginner,Excel,Higher Studies
+STU0566,24,PG,Commerce,B.Com Accounting & Finance,2028,9.53,Both,Customer Support Executive,Tiruvallur,Problem-solving; Python,No,0,45000,Medium,High,Hybrid,Developing,Aptitude,Preparing for Exams
+STU0567,25,UG,Science,B.Sc. Computer Science,2027,5.67,Both,MIS Executive,Kanchipuram,Problem-solving; Customer Support; Communication; Python,No,0,29000,Low,Medium,Remote,Job Ready,Python,Seeking Job
+STU0568,22,UG,Commerce,B.Com Accounting & Finance,2027,9.13,Private,Data Analyst,Tiruvallur,SQL; HTML/CSS; Accounting; MS Excel,No,0,15000,Low,High,Hybrid,Job Ready,Communication,Seeking Job
+STU0569,20,PG,Arts,B.A. English,2026,8.31,Government,Data Entry Operator,Other Tamil Nadu,Communication; HTML/CSS; SQL; Power BI,No,0,40000,Low,Medium,On-site,Job Ready,Aptitude,Seeking Job
+STU0570,23,UG,Management,BBA,2025,7.41,Not decided,HR Assistant,Chennai,MS Excel; Customer Support; Tally; Data Analysis,No,0,27000,High,Medium,Remote,Developing,Interview Skills,Preparing for Exams
+STU0571,21,Diploma,Science,B.Sc. Computer Science,2027,9.69,Both,Sales Executive,Chennai,SQL; MS Excel; Tally; Typing,No,0,22000,Medium,High,Hybrid,Beginner,Communication,Seeking Job
+STU0572,23,UG,Commerce,B.Com Corporate Secretaryship,2026,8.78,Both,Banking Associate,Chennai,Accounting; Problem-solving; Data Analysis; Typing; Tally; Power BI,No,0,16000,High,Low,Remote,Job Ready,Aptitude,Seeking Job
+STU0573,20,UG,Science,B.Sc. Computer Science,2028,6.91,Both,Software Developer,Chengalpattu,Problem-solving; MS Excel; Typing; HTML/CSS; Data Analysis; Customer Support,Yes,8,32000,Low,High,Remote,Beginner,Power BI,Higher Studies
+STU0574,23,UG,Engineering,B.Tech IT,2026,9.06,Private,Data Entry Operator,Other Tamil Nadu,Data Analysis; Problem-solving; Python; Tally,No,0,27000,Medium,Low,Remote,Job Ready,SQL,Placed
+STU0575,20,UG,Engineering,B.E. ECE,2028,9.27,Private,Junior Assistant,Chengalpattu,Python; Java,No,0,19000,Medium,Medium,Remote,Job Ready,Power BI,Higher Studies
+STU0576,23,PG,Arts,B.A. Tamil,2027,7.23,Government,HR Assistant,Chengalpattu,MS Excel; Accounting; SQL; Python; Customer Support,No,0,30000,High,Medium,Hybrid,Job Ready,Communication,Placed
+STU0577,22,UG,Management,BCA,2027,8.65,Government,Graduate Trainee,Other Tamil Nadu,HTML/CSS; Java; Customer Support; Problem-solving,No,0,44000,High,High,On-site,Job Ready,Communication,Seeking Job
+STU0578,22,UG,Commerce,B.Com Corporate Secretaryship,2027,7.76,Private,HR Assistant,Tiruvallur,SQL; Data Analysis; Typing; Communication; Python,Yes,5,32000,Medium,Medium,On-site,Beginner,Python,Preparing for Exams
+STU0579,23,UG,Engineering,B.E. Mechanical,2026,6.01,Not decided,MIS Executive,Tiruvallur,Java; Data Analysis; Communication,No,0,40000,High,High,Hybrid,Developing,Communication,Higher Studies
+STU0580,25,UG,Management,BBA,2028,7.82,Both,Data Analyst,Chennai,Python; Power BI; Data Analysis,No,0,43000,High,Medium,On-site,Developing,Communication,Seeking Job
+STU0581,19,PG,Science,B.Sc. Computer Science,2027,6.0,Government,Software Developer,Chennai,Communication; Python; Accounting; HTML/CSS; Java,No,0,26000,Low,High,Hybrid,Beginner,Communication,Seeking Job
+STU0582,19,UG,Science,B.Sc. Chemistry,2026,9.12,Both,Banking Associate,Chennai,Accounting; Problem-solving,Yes,11,12000,High,High,Remote,Developing,Interview Skills,Preparing for Exams
+STU0583,20,UG,Commerce,B.Com,2028,9.19,Government,Graduate Trainee,Chengalpattu,HTML/CSS; SQL; Problem-solving,Yes,1,39000,High,Medium,Remote,Job Ready,SQL,Higher Studies
+STU0584,20,PG,Arts,B.A. Economics,2028,8.37,Both,Customer Support Executive,Tiruvallur,Java; Customer Support; Typing; Power BI; Tally; HTML/CSS,No,0,34000,Low,Medium,Hybrid,Beginner,SQL,Seeking Job
+STU0585,19,UG,Engineering,B.E. Mechanical,2027,6.99,Both,Accounts Assistant,Chengalpattu,Java; HTML/CSS; Tally; Power BI,No,0,42000,Medium,Low,Hybrid,Job Ready,SQL,Seeking Job
+STU0586,25,UG,Science,B.Sc. Physics,2026,5.73,Government,Customer Support Executive,Chengalpattu,MS Excel; Data Analysis; Tally; Communication; Customer Support,No,0,33000,Low,High,Hybrid,Developing,Power BI,Seeking Job
+STU0587,23,UG,Engineering,B.E. Computer Science,2028,5.89,Private,Graduate Trainee,Kanchipuram,Typing; Problem-solving,No,0,34000,Low,High,Remote,Beginner,Communication,Seeking Job
+STU0588,20,UG,Commerce,B.Com,2028,5.66,Not decided,Junior Assistant,Other Tamil Nadu,Java; Accounting; Power BI; Communication; SQL; Tally,No,0,18000,Low,Medium,Hybrid,Beginner,SQL,Seeking Job
+STU0589,22,UG,Arts,B.A. Economics,2028,9.27,Both,Clerk,Chennai,MS Excel; Communication; Python,No,0,16000,Low,Low,Remote,Job Ready,Power BI,Seeking Job
+STU0590,20,UG,Engineering,B.E. Mechanical,2027,7.33,Private,Graduate Trainee,Chennai,Python; Accounting; Typing,No,0,31000,Medium,Medium,On-site,Beginner,Excel,Preparing for Exams
+STU0591,24,UG,Commerce,B.Com,2027,9.77,Private,Graduate Trainee,Tiruvallur,Python; Power BI; Java; Data Analysis; Communication,No,0,35000,Low,Low,On-site,Developing,SQL,Seeking Job
+STU0592,25,UG,Arts,B.A. English,2025,6.23,Both,Customer Support Executive,Other Tamil Nadu,Tally; HTML/CSS; Typing; Python; Communication,No,0,27000,High,High,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0593,24,UG,Engineering,B.E. ECE,2025,8.46,Private,Sales Executive,Tiruvallur,MS Excel; HTML/CSS; Communication,No,0,12000,Medium,Low,On-site,Job Ready,Interview Skills,Seeking Job
+STU0594,25,UG,Commerce,B.Com Corporate Secretaryship,2025,5.95,Not decided,Graduate Trainee,Chennai,Tally; HTML/CSS; Accounting,No,0,36000,High,High,On-site,Job Ready,Aptitude,Seeking Job
+STU0595,24,UG,Science,B.Sc. Physics,2026,9.26,Both,Accounts Assistant,Tiruvallur,MS Excel; Java,No,0,12000,Medium,High,Hybrid,Developing,Aptitude,Preparing for Exams
+STU0596,20,UG,Commerce,B.Com Corporate Secretaryship,2027,8.1,Private,Customer Support Executive,Tiruvallur,Tally; Typing; Customer Support; SQL; Accounting; Communication,No,0,25000,Medium,Low,Remote,Beginner,SQL,Seeking Job
+STU0597,20,UG,Engineering,B.E. Computer Science,2027,6.92,Government,Junior Assistant,Other Tamil Nadu,SQL; Problem-solving; HTML/CSS; Python; MS Excel,Yes,8,22000,High,Medium,Remote,Job Ready,SQL,Seeking Job
+STU0598,22,PG,Arts,B.A. Economics,2025,6.16,Government,Graduate Trainee,Chengalpattu,Java; Typing; Communication; Tally,No,0,29000,High,Medium,Remote,Beginner,SQL,Higher Studies
+STU0599,24,PG,Commerce,B.Com Corporate Secretaryship,2028,6.4,Both,Junior Assistant,Chengalpattu,Typing; Problem-solving; Accounting; Communication,No,0,25000,High,Low,On-site,Beginner,SQL,Seeking Job
+STU0600,22,UG,Arts,B.A. History,2026,8.77,Government,Data Analyst,Other Tamil Nadu,SQL; Data Analysis,No,0,37000,Medium,Medium,Remote,Developing,Excel,Seeking Job
+STU0601,22,UG,Commerce,B.Com Accounting & Finance,2027,7.9,Private,Accounts Assistant,Kanchipuram,Power BI; SQL; Customer Support; Communication; Accounting; Java,No,0,23000,High,Medium,Hybrid,Job Ready,Excel,Higher Studies
+STU0602,19,UG,Science,B.Sc. Computer Science,2027,5.52,Private,MIS Executive,Kanchipuram,Java; Tally; SQL,No,0,18000,Medium,Medium,Remote,Beginner,Communication,Seeking Job
+STU0603,25,UG,Commerce,B.Com Corporate Secretaryship,2028,9.79,Both,Banking Associate,Tiruvallur,MS Excel; Accounting; Communication; Customer Support; Problem-solving,No,0,43000,High,Medium,Remote,Job Ready,Interview Skills,Seeking Job
+STU0604,19,UG,Arts,B.A. English,2026,9.19,Private,MIS Executive,Chengalpattu,Accounting; SQL; Problem-solving; Customer Support; Python; Java,No,0,13000,Medium,Low,Hybrid,Job Ready,SQL,Preparing for Exams
+STU0605,25,UG,Commerce,B.Com Corporate Secretaryship,2026,6.24,Not decided,Junior Assistant,Kanchipuram,MS Excel; Customer Support; Java; Accounting; Problem-solving; Python,Yes,10,24000,Low,Low,Hybrid,Beginner,Aptitude,Higher Studies
+STU0606,25,UG,Engineering,B.Tech IT,2025,9.45,Government,Data Entry Operator,Chennai,Data Analysis; Tally; Python; Accounting,No,0,23000,Medium,Low,Remote,Beginner,Interview Skills,Seeking Job
+STU0607,24,UG,Arts,B.A. English,2027,6.73,Both,MIS Executive,Chengalpattu,Python; Accounting; Power BI; Communication; Customer Support,No,0,32000,Medium,High,On-site,Developing,SQL,Seeking Job
+STU0608,25,UG,Science,B.Sc. Physics,2028,8.45,Both,Data Entry Operator,Chennai,Python; HTML/CSS; Tally; Typing,No,0,36000,High,Low,Remote,Beginner,Aptitude,Seeking Job
+STU0609,25,UG,Commerce,B.Com Corporate Secretaryship,2027,6.61,Both,Customer Support Executive,Kanchipuram,Power BI; Tally; Data Analysis; Customer Support,No,0,14000,High,Low,Remote,Job Ready,SQL,Seeking Job
+STU0610,25,PG,Commerce,B.Com,2027,6.94,Private,Banking Associate,Chennai,Java; Customer Support; Typing; MS Excel; Tally; Python,No,0,23000,Medium,Medium,On-site,Developing,Communication,Seeking Job
+STU0611,21,UG,Arts,B.A. History,2027,7.22,Both,Junior Assistant,Chengalpattu,Typing; Problem-solving; Java; Customer Support; HTML/CSS,No,0,44000,High,Medium,Hybrid,Developing,Communication,Seeking Job
+STU0612,23,UG,Arts,B.A. Economics,2027,8.89,Private,Junior Assistant,Chennai,Typing; Accounting; Data Analysis; Power BI,No,0,31000,High,Medium,Hybrid,Developing,SQL,Seeking Job
+STU0613,25,UG,Commerce,B.Com,2027,6.16,Government,HR Assistant,Kanchipuram,Communication; Problem-solving; Python,Yes,1,42000,High,Medium,On-site,Developing,Communication,Placed
+STU0614,25,PG,Commerce,B.Com Accounting & Finance,2027,9.36,Both,Banking Associate,Tiruvallur,HTML/CSS; Accounting; Power BI; Python; Java,Yes,10,37000,Low,High,Hybrid,Developing,Aptitude,Higher Studies
+STU0615,25,UG,Commerce,B.Com,2027,6.09,Government,Data Analyst,Chennai,SQL; Power BI; Tally; Customer Support; Typing; MS Excel,No,0,25000,Medium,Medium,On-site,Developing,Power BI,Placed
+STU0616,22,UG,Science,B.Sc. Statistics,2027,5.86,Private,Banking Associate,Chennai,Customer Support; HTML/CSS; MS Excel; Communication; Java,Yes,11,37000,High,High,Hybrid,Beginner,Communication,Seeking Job
+STU0617,19,UG,Commerce,B.Com Accounting & Finance,2027,8.86,Government,Graduate Trainee,Kanchipuram,Java; MS Excel; Communication; Problem-solving; Customer Support,No,0,35000,High,High,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0618,23,UG,Commerce,B.Com Accounting & Finance,2027,7.5,Government,Junior Assistant,Chennai,Accounting; Typing; Communication; Power BI,No,0,43000,Medium,Medium,On-site,Job Ready,Aptitude,Seeking Job
+STU0619,21,UG,Science,B.Sc. Physics,2027,8.23,Both,Sales Executive,Chennai,Data Analysis; Communication,Yes,6,14000,Low,Low,Hybrid,Beginner,SQL,Seeking Job
+STU0620,25,PG,Arts,B.A. Tamil,2025,6.9,Both,Junior Assistant,Chengalpattu,Java; Communication; Tally; HTML/CSS; Power BI,No,0,18000,Medium,Low,Remote,Beginner,Excel,Preparing for Exams
+STU0621,24,UG,Engineering,B.E. Computer Science,2028,7.36,Private,Clerk,Chengalpattu,SQL; Accounting,Yes,10,28000,Medium,Low,Remote,Job Ready,Interview Skills,Higher Studies
+STU0622,19,UG,Commerce,B.Com,2027,6.67,Government,Accounts Assistant,Chengalpattu,HTML/CSS; Power BI; Java; Communication; SQL; Typing,No,0,13000,Medium,Low,On-site,Developing,Excel,Seeking Job
+STU0623,21,UG,Engineering,B.E. Mechanical,2027,8.12,Both,Customer Support Executive,Other Tamil Nadu,Power BI; Problem-solving,Yes,7,33000,Low,Medium,Hybrid,Job Ready,Python,Seeking Job
+STU0624,24,UG,Science,B.Sc. Physics,2026,5.64,Both,Sales Executive,Chennai,HTML/CSS; Accounting; Problem-solving,Yes,11,43000,Low,Medium,On-site,Beginner,Aptitude,Preparing for Exams
+STU0625,23,UG,Science,B.Sc. Computer Science,2027,7.29,Private,Junior Assistant,Kanchipuram,HTML/CSS; Customer Support; Problem-solving; MS Excel,Yes,9,43000,High,Medium,Remote,Beginner,Power BI,Placed
+STU0626,25,UG,Engineering,B.Tech IT,2027,7.01,Government,Data Analyst,Tiruvallur,Power BI; Python; Typing,Yes,10,29000,Medium,Medium,Remote,Beginner,Aptitude,Preparing for Exams
+STU0627,22,UG,Management,BCA,2026,9.48,Both,Data Entry Operator,Chengalpattu,Data Analysis; Problem-solving; Accounting; Java,Yes,7,30000,High,Low,Hybrid,Developing,Aptitude,Seeking Job
+STU0628,23,UG,Management,BBA,2027,8.65,Private,Junior Assistant,Kanchipuram,Java; Problem-solving; Power BI; MS Excel; Customer Support,Yes,10,27000,High,Low,Remote,Developing,Aptitude,Seeking Job
+STU0629,25,UG,Science,B.Sc. Physics,2028,9.46,Both,Software Developer,Chengalpattu,Data Analysis; Problem-solving; Power BI; SQL; HTML/CSS,No,0,30000,High,High,On-site,Job Ready,Power BI,Seeking Job
+STU0630,19,UG,Commerce,B.Com Accounting & Finance,2028,9.41,Private,Data Analyst,Tiruvallur,Problem-solving; SQL; HTML/CSS,No,0,16000,High,Low,On-site,Job Ready,Aptitude,Seeking Job
+STU0631,23,UG,Commerce,B.Com Corporate Secretaryship,2027,7.39,Private,Graduate Trainee,Chennai,Python; Java; Communication; Data Analysis; Problem-solving,No,0,30000,Medium,Low,On-site,Developing,Power BI,Higher Studies
+STU0632,23,UG,Commerce,B.Com,2027,7.08,Both,Banking Associate,Kanchipuram,Problem-solving; Python; Accounting; SQL; Communication,No,0,21000,High,Medium,On-site,Developing,Python,Seeking Job
+STU0633,21,UG,Commerce,B.Com Corporate Secretaryship,2026,6.68,Private,Junior Assistant,Chengalpattu,Problem-solving; Power BI; Communication; Tally; Customer Support,No,0,21000,Low,Medium,On-site,Beginner,Excel,Seeking Job
+STU0634,22,UG,Engineering,B.E. ECE,2027,8.49,Private,Data Entry Operator,Other Tamil Nadu,Typing; Customer Support; Communication,No,0,30000,Medium,Medium,Remote,Beginner,Python,Preparing for Exams
+STU0635,24,PG,Commerce,B.Com Corporate Secretaryship,2027,8.16,Government,Data Entry Operator,Kanchipuram,Communication; Tally,No,0,21000,Low,Low,Hybrid,Job Ready,Excel,Seeking Job
+STU0636,21,UG,Management,BBA,2026,8.85,Both,Clerk,Chengalpattu,HTML/CSS; SQL; Problem-solving; Java; MS Excel; Python,No,0,34000,Medium,Medium,Remote,Job Ready,Python,Preparing for Exams
+STU0637,21,UG,Engineering,B.E. Mechanical,2027,7.8,Both,Graduate Trainee,Other Tamil Nadu,Power BI; Accounting; Problem-solving; Tally; MS Excel; Java,No,0,17000,High,Medium,Remote,Job Ready,SQL,Seeking Job
+STU0638,23,UG,Engineering,B.E. Mechanical,2025,6.32,Government,Clerk,Chengalpattu,Power BI; Accounting; HTML/CSS,Yes,9,31000,High,High,On-site,Beginner,Communication,Higher Studies
+STU0639,22,UG,Commerce,B.Com,2027,5.93,Government,Sales Executive,Chengalpattu,Tally; Customer Support,Yes,10,43000,Medium,Low,On-site,Job Ready,Power BI,Preparing for Exams
+STU0640,19,UG,Arts,B.A. Tamil,2027,7.62,Both,Data Entry Operator,Kanchipuram,Typing; Customer Support; Problem-solving,No,0,44000,Medium,Low,Hybrid,Job Ready,Excel,Seeking Job
+STU0641,21,PG,Commerce,B.Com Corporate Secretaryship,2027,6.2,Private,Clerk,Tiruvallur,Data Analysis; Communication; Customer Support; HTML/CSS; Python; SQL,No,0,31000,High,Medium,Hybrid,Job Ready,Aptitude,Seeking Job
+STU0642,25,UG,Science,B.Sc. Statistics,2027,9.49,Both,Data Analyst,Other Tamil Nadu,Power BI; Communication; Data Analysis,Yes,11,21000,Medium,High,On-site,Developing,Interview Skills,Seeking Job
+STU0643,25,UG,Arts,B.A. Economics,2028,7.53,Both,MIS Executive,Kanchipuram,Data Analysis; HTML/CSS; Customer Support; Typing,No,0,21000,Medium,Medium,Remote,Developing,Interview Skills,Higher Studies
+STU0644,21,UG,Science,B.Sc. Mathematics,2028,8.8,Private,Junior Assistant,Chengalpattu,Problem-solving; Java; MS Excel; Accounting; Customer Support,No,0,25000,Low,Low,Hybrid,Developing,Interview Skills,Seeking Job
+STU0645,22,UG,Science,B.Sc. Statistics,2025,6.19,Both,Graduate Trainee,Tiruvallur,Data Analysis; Problem-solving; Power BI; Customer Support,No,0,42000,High,Low,Hybrid,Job Ready,Aptitude,Seeking Job
+STU0646,22,PG,Science,B.Sc. Statistics,2027,9.29,Private,Clerk,Kanchipuram,MS Excel; Python; Problem-solving; Tally; Communication,No,0,38000,High,High,Remote,Developing,Communication,Seeking Job
+STU0647,20,UG,Arts,B.A. English,2028,8.51,Government,Graduate Trainee,Kanchipuram,Data Analysis; Customer Support; Communication; Problem-solving; Typing; Accounting,No,0,35000,Medium,Low,On-site,Beginner,Excel,Seeking Job
+STU0648,22,UG,Commerce,B.Com Accounting & Finance,2027,9.08,Private,Junior Assistant,Other Tamil Nadu,Communication; Typing; MS Excel; SQL,Yes,6,13000,Low,Medium,On-site,Job Ready,Interview Skills,Higher Studies
+STU0649,25,UG,Engineering,B.E. Computer Science,2027,7.51,Private,Banking Associate,Chengalpattu,Tally; Customer Support; Python; Accounting; Typing; Data Analysis,No,0,16000,Low,Medium,Hybrid,Developing,Power BI,Preparing for Exams
+STU0650,23,UG,Management,BCA,2028,7.23,Government,MIS Executive,Chennai,Python; SQL; Customer Support; Typing,No,0,36000,High,High,On-site,Developing,Power BI,Seeking Job
+STU0651,23,PG,Engineering,B.E. ECE,2026,6.14,Private,MIS Executive,Chengalpattu,Data Analysis; HTML/CSS; Customer Support; Power BI,No,0,18000,High,Low,Remote,Beginner,Interview Skills,Seeking Job
+STU0652,22,Diploma,Science,B.Sc. Mathematics,2028,6.43,Government,Software Developer,Chennai,Power BI; Customer Support; Problem-solving; Accounting,Yes,3,40000,High,Medium,On-site,Developing,Interview Skills,Higher Studies
+STU0653,19,UG,Engineering,B.E. ECE,2027,7.99,Private,HR Assistant,Chennai,HTML/CSS; Java; Power BI; Customer Support; Accounting,No,0,22000,High,High,Hybrid,Job Ready,Communication,Seeking Job
+STU0654,23,UG,Management,BCA,2025,7.13,Private,Accounts Assistant,Tiruvallur,Python; Data Analysis; Tally,No,0,18000,Medium,Medium,Hybrid,Beginner,Power BI,Preparing for Exams
+STU0655,22,UG,Commerce,B.Com Accounting & Finance,2027,9.36,Government,Junior Assistant,Chengalpattu,Customer Support; Problem-solving,No,0,27000,High,Low,On-site,Beginner,Communication,Seeking Job
+STU0656,24,UG,Commerce,B.Com Corporate Secretaryship,2027,6.18,Both,Data Entry Operator,Chengalpattu,Typing; Power BI,No,0,45000,High,Low,Remote,Beginner,Excel,Preparing for Exams
+STU0657,19,UG,Arts,B.A. History,2025,7.52,Government,Graduate Trainee,Chengalpattu,Power BI; Communication; Java; Tally; Accounting,No,0,38000,High,Low,Hybrid,Job Ready,Aptitude,Seeking Job
+STU0658,22,UG,Arts,B.A. Tamil,2028,7.81,Government,Data Entry Operator,Other Tamil Nadu,Python; Java; Problem-solving,Yes,11,12000,Medium,Medium,Hybrid,Developing,SQL,Seeking Job
+STU0659,25,UG,Commerce,B.Com,2026,6.06,Not decided,Data Entry Operator,Chengalpattu,HTML/CSS; Problem-solving,No,0,17000,Low,High,Remote,Developing,Excel,Preparing for Exams
+STU0660,22,UG,Arts,B.A. History,2027,6.07,Government,Accounts Assistant,Kanchipuram,Accounting; Customer Support; Communication,No,0,21000,Low,Low,On-site,Job Ready,Interview Skills,Seeking Job
+STU0661,25,UG,Arts,B.A. Tamil,2027,7.96,Government,Customer Support Executive,Kanchipuram,MS Excel; SQL; Customer Support,Yes,4,37000,Medium,High,Hybrid,Job Ready,Excel,Seeking Job
+STU0662,22,UG,Arts,B.A. History,2027,6.63,Government,Software Developer,Tiruvallur,Tally; Problem-solving; SQL; Communication; Accounting; HTML/CSS,No,0,13000,Low,High,On-site,Beginner,Power BI,Preparing for Exams
+STU0663,19,Diploma,Arts,B.A. Economics,2027,9.55,Both,HR Assistant,Chengalpattu,Tally; Communication; HTML/CSS,No,0,21000,Low,High,On-site,Beginner,Aptitude,Higher Studies
+STU0664,23,UG,Commerce,B.Com,2025,6.21,Both,Banking Associate,Other Tamil Nadu,Data Analysis; Problem-solving; MS Excel; Accounting; Tally; Power BI,No,0,26000,Low,High,Remote,Job Ready,Power BI,Preparing for Exams
+STU0665,20,UG,Science,B.Sc. Computer Science,2025,6.58,Not decided,HR Assistant,Kanchipuram,Communication; Java; Data Analysis; Accounting; HTML/CSS,No,0,25000,Low,Low,Remote,Beginner,Python,Higher Studies
+STU0666,24,UG,Arts,B.A. Economics,2026,7.01,Private,Data Analyst,Kanchipuram,Problem-solving; Power BI; Java,No,0,20000,Medium,High,Remote,Job Ready,Communication,Preparing for Exams
+STU0667,23,UG,Arts,B.A. Tamil,2026,7.38,Private,Clerk,Other Tamil Nadu,Problem-solving; Tally; MS Excel; Python,No,0,41000,High,High,Remote,Developing,Excel,Preparing for Exams
+STU0668,24,UG,Arts,B.A. Tamil,2027,6.47,Both,Clerk,Chennai,Python; Customer Support; HTML/CSS; Java,No,0,35000,High,Low,Hybrid,Job Ready,Power BI,Seeking Job
+STU0669,21,UG,Commerce,B.Com Accounting & Finance,2028,5.86,Both,Clerk,Tiruvallur,Accounting; Problem-solving; Communication; Customer Support,No,0,27000,Low,Medium,On-site,Job Ready,Power BI,Placed
+STU0670,24,UG,Arts,B.A. English,2027,8.91,Both,Clerk,Other Tamil Nadu,Data Analysis; Typing; Accounting; Java; Problem-solving,No,0,18000,High,High,Hybrid,Job Ready,Aptitude,Higher Studies
+STU0671,25,UG,Commerce,B.Com Corporate Secretaryship,2025,7.21,Both,Banking Associate,Tiruvallur,Tally; Customer Support,No,0,13000,High,Low,On-site,Beginner,Aptitude,Preparing for Exams
+STU0672,21,UG,Arts,B.A. History,2027,9.65,Not decided,MIS Executive,Tiruvallur,Accounting; HTML/CSS,No,0,15000,Medium,Medium,Remote,Job Ready,Excel,Higher Studies
+STU0673,21,UG,Arts,B.A. Economics,2026,6.82,Private,Graduate Trainee,Chennai,Customer Support; Tally; Java; Accounting; SQL; HTML/CSS,No,0,37000,Medium,Low,Hybrid,Job Ready,SQL,Higher Studies
+STU0674,21,UG,Science,B.Sc. Mathematics,2027,9.41,Both,Graduate Trainee,Other Tamil Nadu,Tally; Problem-solving; HTML/CSS; Accounting; SQL,No,0,30000,Low,Low,On-site,Developing,Communication,Placed
+STU0675,22,UG,Science,B.Sc. Computer Science,2027,9.67,Government,Software Developer,Chengalpattu,Customer Support; Java; Communication; SQL; Tally; Data Analysis,No,0,40000,High,High,Remote,Beginner,Aptitude,Preparing for Exams
+STU0676,20,UG,Arts,B.A. History,2026,5.59,Government,Sales Executive,Tiruvallur,Power BI; Problem-solving; HTML/CSS,No,0,40000,Medium,Low,Remote,Job Ready,SQL,Seeking Job
+STU0677,20,UG,Engineering,B.E. Mechanical,2025,8.48,Private,Software Developer,Chengalpattu,Java; Accounting; Communication; Tally; Customer Support; Problem-solving,No,0,20000,High,Low,Remote,Developing,Communication,Seeking Job
+STU0678,20,UG,Engineering,B.E. Computer Science,2027,7.38,Private,Sales Executive,Tiruvallur,Accounting; Problem-solving; Customer Support; Data Analysis,No,0,16000,High,High,Remote,Developing,Communication,Placed
+STU0679,24,UG,Engineering,B.E. Mechanical,2028,8.63,Private,Graduate Trainee,Other Tamil Nadu,Python; Customer Support; Tally,Yes,8,39000,Low,High,Hybrid,Beginner,Aptitude,Seeking Job
+STU0680,23,Diploma,Commerce,B.Com Corporate Secretaryship,2026,5.53,Both,Sales Executive,Chennai,Power BI; Typing; Data Analysis; Java,Yes,12,34000,Low,High,On-site,Job Ready,Python,Seeking Job
+STU0681,22,UG,Engineering,B.E. Mechanical,2025,9.57,Both,Sales Executive,Tiruvallur,Typing; SQL; Accounting,Yes,7,36000,Low,Medium,On-site,Developing,SQL,Seeking Job
+STU0682,20,UG,Science,B.Sc. Statistics,2027,8.73,Both,HR Assistant,Kanchipuram,HTML/CSS; Python; SQL; Communication,No,0,13000,Low,High,Remote,Beginner,Aptitude,Seeking Job
+STU0683,23,UG,Arts,B.A. English,2028,6.31,Not decided,Sales Executive,Tiruvallur,MS Excel; Problem-solving; Tally; Java; Communication; Accounting,No,0,23000,Low,High,Hybrid,Beginner,Interview Skills,Placed
+STU0684,25,UG,Arts,B.A. English,2027,9.52,Private,Clerk,Kanchipuram,HTML/CSS; Accounting; SQL,No,0,30000,High,Medium,Remote,Beginner,Communication,Seeking Job
+STU0685,19,UG,Management,BBA,2027,7.07,Private,Data Analyst,Tiruvallur,SQL; Typing; Tally; HTML/CSS; Data Analysis; Java,No,0,24000,Medium,High,Hybrid,Beginner,Power BI,Preparing for Exams
+STU0686,24,UG,Management,BCA,2026,8.78,Both,MIS Executive,Tiruvallur,Python; Data Analysis; Problem-solving; Tally; Accounting; Java,No,0,37000,Medium,Medium,On-site,Developing,Python,Seeking Job
+STU0687,20,PG,Science,B.Sc. Computer Science,2028,8.72,Private,Sales Executive,Other Tamil Nadu,Communication; HTML/CSS; Problem-solving; MS Excel; Data Analysis,No,0,23000,Low,Medium,Remote,Beginner,Communication,Seeking Job
+STU0688,23,UG,Management,BCA,2027,5.69,Private,Data Analyst,Chennai,Data Analysis; MS Excel; Customer Support; Java,No,0,41000,High,High,Remote,Developing,Python,Higher Studies
+STU0689,20,UG,Commerce,B.Com Accounting & Finance,2028,9.74,Private,Data Analyst,Kanchipuram,MS Excel; Problem-solving; Java; Power BI; Python; Communication,Yes,7,14000,High,High,Remote,Beginner,Communication,Placed
+STU0690,22,UG,Engineering,B.Tech IT,2026,9.37,Private,Customer Support Executive,Kanchipuram,Accounting; Customer Support; Communication; Power BI; Problem-solving; Java,No,0,12000,Low,Low,Hybrid,Beginner,Aptitude,Higher Studies
+STU0691,25,UG,Arts,B.A. Economics,2027,6.22,Both,Graduate Trainee,Kanchipuram,Customer Support; Python,Yes,11,37000,Medium,Low,Hybrid,Developing,Interview Skills,Seeking Job
+STU0692,23,Diploma,Arts,B.A. Tamil,2027,5.98,Government,Junior Assistant,Tiruvallur,Python; Data Analysis; HTML/CSS,Yes,3,17000,Low,High,On-site,Developing,Communication,Seeking Job
+STU0693,20,UG,Engineering,B.E. Mechanical,2025,5.56,Private,Data Entry Operator,Kanchipuram,Customer Support; Data Analysis,No,0,28000,High,Medium,Hybrid,Beginner,Aptitude,Seeking Job
+STU0694,22,UG,Science,B.Sc. Mathematics,2027,6.74,Not decided,Data Entry Operator,Chengalpattu,Python; Power BI; SQL; Accounting; Tally; HTML/CSS,Yes,9,32000,High,High,Remote,Beginner,Power BI,Seeking Job
+STU0695,19,UG,Arts,B.A. English,2028,8.81,Both,Clerk,Chengalpattu,Tally; MS Excel; SQL; Python,No,0,14000,Low,Low,On-site,Beginner,Aptitude,Preparing for Exams
+STU0696,20,UG,Commerce,B.Com Corporate Secretaryship,2026,9.71,Private,Banking Associate,Tiruvallur,Communication; Customer Support; Typing; Java; HTML/CSS,No,0,42000,High,Medium,Remote,Developing,SQL,Seeking Job
+STU0697,20,UG,Commerce,B.Com Accounting & Finance,2027,7.83,Government,Data Analyst,Tiruvallur,Communication; SQL; Tally; MS Excel; Java,No,0,20000,Low,Medium,On-site,Developing,Power BI,Preparing for Exams
+STU0698,23,UG,Commerce,B.Com,2027,7.94,Private,Graduate Trainee,Other Tamil Nadu,HTML/CSS; Tally; Accounting; Customer Support; Java,Yes,6,41000,Low,Medium,Hybrid,Job Ready,Excel,Seeking Job
+STU0699,23,PG,Arts,B.A. Tamil,2028,7.36,Government,Customer Support Executive,Chennai,Communication; Typing; Java; MS Excel; Power BI,Yes,12,25000,Medium,Low,Remote,Beginner,Excel,Preparing for Exams
+STU0700,25,UG,Commerce,B.Com Accounting & Finance,2026,9.51,Both,Sales Executive,Other Tamil Nadu,Typing; Power BI; SQL; Java; Tally,No,0,14000,Low,High,On-site,Beginner,Python,Seeking Job
+STU0701,20,PG,Engineering,B.E. Mechanical,2028,7.06,Government,Software Developer,Other Tamil Nadu,Tally; Problem-solving,Yes,8,42000,Medium,Low,On-site,Developing,Excel,Seeking Job
+STU0702,23,UG,Commerce,B.Com Corporate Secretaryship,2027,7.52,Both,MIS Executive,Chengalpattu,SQL; Java; Python,No,0,19000,Low,High,Hybrid,Beginner,Interview Skills,Seeking Job
+STU0703,20,UG,Engineering,B.E. Computer Science,2028,9.57,Private,Sales Executive,Kanchipuram,SQL; MS Excel; Typing; Tally; HTML/CSS,No,0,33000,High,Medium,On-site,Beginner,SQL,Placed
+STU0704,24,UG,Commerce,B.Com Corporate Secretaryship,2027,8.88,Both,Software Developer,Other Tamil Nadu,Problem-solving; Customer Support,Yes,8,13000,Low,Low,Hybrid,Beginner,Excel,Preparing for Exams
+STU0705,21,UG,Science,B.Sc. Physics,2027,6.67,Private,Banking Associate,Tiruvallur,MS Excel; HTML/CSS; Tally; SQL; Problem-solving; Power BI,No,0,17000,Medium,Low,On-site,Beginner,Interview Skills,Preparing for Exams
+STU0706,22,UG,Commerce,B.Com,2027,6.66,Both,Accounts Assistant,Kanchipuram,Communication; Java,Yes,6,44000,Medium,Medium,Remote,Developing,SQL,Preparing for Exams
+STU0707,21,PG,Engineering,B.E. Computer Science,2025,6.05,Private,Clerk,Chengalpattu,Communication; Problem-solving; Python; HTML/CSS; Customer Support,No,0,16000,High,Medium,On-site,Beginner,Communication,Preparing for Exams
+STU0708,21,PG,Engineering,B.E. Computer Science,2026,8.19,Both,Customer Support Executive,Kanchipuram,Accounting; MS Excel,No,0,18000,Low,High,On-site,Job Ready,SQL,Seeking Job
+STU0709,25,UG,Engineering,B.E. ECE,2025,5.84,Government,Software Developer,Other Tamil Nadu,Accounting; Python,Yes,4,42000,High,Low,Hybrid,Job Ready,Aptitude,Seeking Job
+STU0710,19,UG,Science,B.Sc. Mathematics,2026,9.28,Both,Sales Executive,Chengalpattu,HTML/CSS; SQL,No,0,19000,Low,High,On-site,Beginner,Interview Skills,Seeking Job
+STU0711,25,UG,Management,BBA,2027,8.32,Government,Banking Associate,Kanchipuram,Communication; Typing; Java; Data Analysis; Problem-solving; Power BI,No,0,30000,High,High,On-site,Beginner,Power BI,Seeking Job
+STU0712,25,PG,Engineering,B.E. Mechanical,2027,8.1,Private,Clerk,Other Tamil Nadu,Python; Customer Support; HTML/CSS; MS Excel; Problem-solving,Yes,5,32000,Medium,Medium,Remote,Developing,Excel,Seeking Job
+STU0713,21,UG,Engineering,B.Tech IT,2027,8.92,Private,Accounts Assistant,Tiruvallur,Power BI; Typing; SQL,Yes,8,40000,High,High,Remote,Developing,Power BI,Preparing for Exams
+STU0714,25,UG,Engineering,B.E. ECE,2026,9.57,Both,Data Analyst,Chennai,Customer Support; SQL; Java; Tally; MS Excel,No,0,13000,Medium,Medium,On-site,Developing,Excel,Seeking Job
+STU0715,25,UG,Commerce,B.Com Corporate Secretaryship,2025,9.63,Government,Clerk,Kanchipuram,Communication; Power BI; Accounting; HTML/CSS; Typing; Java,No,0,42000,Low,Medium,On-site,Beginner,Communication,Preparing for Exams
+STU0716,24,UG,Engineering,B.Tech IT,2027,8.08,Private,HR Assistant,Kanchipuram,Communication; Customer Support,Yes,6,35000,Low,High,Hybrid,Job Ready,Power BI,Seeking Job
+STU0717,21,UG,Science,B.Sc. Physics,2027,7.89,Private,Sales Executive,Kanchipuram,Tally; Accounting; Power BI,No,0,24000,High,Medium,Remote,Job Ready,SQL,Higher Studies
+STU0718,21,UG,Commerce,B.Com,2027,6.14,Both,Software Developer,Chennai,HTML/CSS; Typing; Problem-solving,No,0,45000,Medium,Medium,Remote,Job Ready,Excel,Seeking Job
+STU0719,20,UG,Science,B.Sc. Computer Science,2027,8.17,Government,HR Assistant,Chengalpattu,Accounting; SQL; Tally; MS Excel,No,0,29000,Medium,Medium,Hybrid,Job Ready,Communication,Seeking Job
+STU0720,22,UG,Engineering,B.E. Computer Science,2026,6.38,Government,MIS Executive,Chennai,Typing; Python; Communication; MS Excel; Power BI; Customer Support,Yes,1,38000,High,Medium,Hybrid,Beginner,Power BI,Placed
+STU0721,23,UG,Commerce,B.Com,2027,6.89,Private,Junior Assistant,Chennai,Python; Communication; HTML/CSS; Accounting,Yes,1,32000,Low,Medium,Hybrid,Beginner,Excel,Preparing for Exams
+STU0722,25,UG,Science,B.Sc. Computer Science,2027,8.75,Government,Junior Assistant,Other Tamil Nadu,Customer Support; Tally; Java; SQL; Accounting,No,0,15000,Low,Low,Remote,Beginner,Power BI,Seeking Job
+STU0723,22,UG,Arts,B.A. English,2027,7.84,Government,HR Assistant,Tiruvallur,SQL; Accounting; Power BI; Python; Tally; Data Analysis,No,0,37000,Low,High,Remote,Beginner,Interview Skills,Seeking Job
+STU0724,24,UG,Arts,B.A. Economics,2027,5.68,Both,Data Analyst,Chengalpattu,Power BI; Problem-solving; MS Excel; Data Analysis,Yes,3,44000,Medium,Medium,Hybrid,Job Ready,Aptitude,Seeking Job
+STU0725,23,UG,Commerce,B.Com,2027,6.4,Private,Sales Executive,Tiruvallur,Customer Support; Accounting,No,0,12000,Medium,Low,On-site,Job Ready,Excel,Seeking Job
+STU0726,21,UG,Engineering,B.E. Mechanical,2027,6.19,Private,Data Analyst,Other Tamil Nadu,Data Analysis; MS Excel; Customer Support,No,0,28000,Medium,High,Hybrid,Developing,Power BI,Seeking Job
+STU0727,22,UG,Science,B.Sc. Mathematics,2026,7.95,Government,Graduate Trainee,Kanchipuram,Customer Support; Problem-solving; Data Analysis; Java; Power BI; SQL,Yes,12,25000,Low,Medium,Hybrid,Developing,Python,Placed
+STU0728,25,UG,Science,B.Sc. Computer Science,2026,9.57,Both,Accounts Assistant,Kanchipuram,Power BI; Data Analysis; MS Excel; Communication,Yes,8,37000,Low,High,Hybrid,Developing,Communication,Placed
+STU0729,25,UG,Engineering,B.E. Computer Science,2028,9.57,Both,Junior Assistant,Kanchipuram,Python; Typing; Problem-solving,No,0,40000,Medium,Low,Remote,Beginner,Python,Seeking Job
+STU0730,21,UG,Science,B.Sc. Statistics,2026,6.63,Government,Data Analyst,Chennai,Accounting; Tally; Python; Communication; Java,No,0,13000,Medium,High,On-site,Beginner,Python,Higher Studies
+STU0731,20,UG,Science,B.Sc. Physics,2027,5.63,Both,Customer Support Executive,Tiruvallur,Communication; Problem-solving; MS Excel; Typing; HTML/CSS; Python,No,0,41000,Medium,High,On-site,Job Ready,Python,Placed
+STU0732,21,Diploma,Management,BBA,2026,7.43,Both,Junior Assistant,Chennai,Accounting; HTML/CSS; Power BI; Communication,Yes,10,39000,Low,Low,Hybrid,Beginner,Aptitude,Preparing for Exams
+STU0733,21,UG,Arts,B.A. Economics,2027,8.25,Private,Accounts Assistant,Chengalpattu,Tally; HTML/CSS; Accounting; Data Analysis; SQL; Problem-solving,No,0,37000,Medium,Medium,Hybrid,Developing,SQL,Preparing for Exams
+STU0734,21,UG,Engineering,B.Tech IT,2027,9.21,Private,Data Entry Operator,Chennai,Java; Tally; Problem-solving; Python; Communication; SQL,No,0,33000,Low,Low,On-site,Job Ready,Excel,Seeking Job
+STU0735,23,UG,Engineering,B.E. Computer Science,2027,6.6,Government,HR Assistant,Chengalpattu,SQL; Power BI; Java; Python; Customer Support; Typing,No,0,26000,Low,Low,Hybrid,Developing,Python,Seeking Job
+STU0736,24,UG,Engineering,B.E. Computer Science,2026,8.27,Private,Data Entry Operator,Chengalpattu,Data Analysis; Customer Support; Java; Power BI; Tally,No,0,12000,Low,High,Hybrid,Beginner,Python,Placed
+STU0737,20,UG,Science,B.Sc. Statistics,2026,6.39,Both,Banking Associate,Chennai,Power BI; Data Analysis; Customer Support; Python,No,0,16000,Medium,Medium,On-site,Developing,Excel,Placed
+STU0738,23,PG,Arts,B.A. English,2027,9.7,Private,Customer Support Executive,Kanchipuram,Java; Tally; Power BI; Communication,No,0,34000,High,Medium,Remote,Developing,Interview Skills,Higher Studies
+STU0739,22,UG,Engineering,B.Tech IT,2027,5.87,Both,MIS Executive,Other Tamil Nadu,Accounting; Typing; Problem-solving; Tally; HTML/CSS,No,0,17000,High,High,Remote,Job Ready,Aptitude,Preparing for Exams
+STU0740,23,UG,Science,B.Sc. Physics,2026,7.27,Both,Junior Assistant,Chengalpattu,Typing; HTML/CSS; MS Excel,No,0,13000,Low,Medium,On-site,Job Ready,SQL,Seeking Job
+STU0741,22,UG,Commerce,B.Com,2025,8.08,Private,Accounts Assistant,Chennai,Customer Support; Accounting; MS Excel; Communication; Python; HTML/CSS,Yes,11,21000,High,High,Hybrid,Developing,SQL,Seeking Job
+STU0742,20,UG,Engineering,B.Tech IT,2026,7.41,Both,Graduate Trainee,Chennai,Problem-solving; Java; MS Excel,Yes,2,22000,High,High,Remote,Job Ready,Communication,Seeking Job
+STU0743,22,UG,Commerce,B.Com Accounting & Finance,2027,7.32,Both,Clerk,Chennai,MS Excel; Accounting; Data Analysis; Tally; Customer Support,Yes,5,34000,Medium,Medium,Remote,Beginner,SQL,Seeking Job
+STU0744,21,UG,Arts,B.A. Economics,2027,6.0,Private,Junior Assistant,Chengalpattu,HTML/CSS; Customer Support; Data Analysis,No,0,24000,High,Medium,On-site,Job Ready,Aptitude,Seeking Job
+STU0745,23,UG,Science,B.Sc. Computer Science,2028,6.09,Private,Data Analyst,Tiruvallur,Python; Data Analysis,No,0,25000,High,Low,Hybrid,Developing,Power BI,Seeking Job
+STU0746,19,UG,Arts,B.A. English,2027,6.56,Private,Accounts Assistant,Kanchipuram,Problem-solving; Python; SQL; Customer Support; Data Analysis; Typing,No,0,26000,Medium,Medium,On-site,Developing,Python,Preparing for Exams
+STU0747,20,UG,Engineering,B.Tech IT,2027,8.75,Government,Data Entry Operator,Chengalpattu,Java; HTML/CSS; Typing; Power BI,No,0,45000,Medium,Medium,On-site,Developing,Communication,Seeking Job
+STU0748,22,UG,Arts,B.A. History,2026,7.8,Government,Software Developer,Kanchipuram,Problem-solving; Customer Support; MS Excel,No,0,42000,Low,Medium,Hybrid,Job Ready,Communication,Placed
+STU0749,23,UG,Management,BCA,2027,9.52,Private,MIS Executive,Other Tamil Nadu,SQL; HTML/CSS; Tally; Python; Accounting; Customer Support,No,0,44000,High,Medium,Hybrid,Beginner,Communication,Seeking Job
+STU0750,22,UG,Management,BBA,2027,9.33,Government,Data Entry Operator,Kanchipuram,Data Analysis; Customer Support; Java; Communication,Yes,4,35000,Low,Low,Remote,Developing,SQL,Higher Studies
+STU0751,25,UG,Commerce,B.Com Corporate Secretaryship,2028,7.11,Government,Accounts Assistant,Tiruvallur,Customer Support; Power BI; Accounting; Typing,No,0,29000,Low,Medium,Remote,Developing,SQL,Seeking Job
+STU0752,21,PG,Arts,B.A. Tamil,2028,7.87,Government,MIS Executive,Other Tamil Nadu,Data Analysis; Java; MS Excel; Python; Power BI,No,0,38000,High,Medium,On-site,Developing,Aptitude,Preparing for Exams
+STU0753,25,Diploma,Commerce,B.Com,2028,6.69,Private,HR Assistant,Other Tamil Nadu,Tally; Python; SQL; Customer Support; Accounting,No,0,29000,High,High,Remote,Job Ready,Power BI,Seeking Job
+STU0754,24,UG,Engineering,B.Tech IT,2026,6.45,Private,Sales Executive,Other Tamil Nadu,Python; Tally,No,0,29000,Low,Medium,On-site,Beginner,Python,Seeking Job
+STU0755,24,UG,Science,B.Sc. Computer Science,2028,6.04,Government,Data Analyst,Tiruvallur,Power BI; Data Analysis; Typing; MS Excel; SQL,Yes,4,27000,Medium,Low,On-site,Beginner,SQL,Seeking Job
+STU0756,25,UG,Arts,B.A. Tamil,2027,8.68,Both,Accounts Assistant,Other Tamil Nadu,Typing; Problem-solving; Java; HTML/CSS; Power BI,Yes,7,13000,Low,Medium,On-site,Job Ready,Power BI,Seeking Job
+STU0757,25,UG,Engineering,B.E. ECE,2027,8.52,Private,Sales Executive,Tiruvallur,HTML/CSS; Data Analysis,No,0,22000,Medium,High,On-site,Developing,Excel,Seeking Job
+STU0758,24,PG,Science,B.Sc. Mathematics,2027,5.78,Private,Graduate Trainee,Chennai,Java; Typing; HTML/CSS,No,0,36000,Low,Medium,Hybrid,Developing,Python,Seeking Job
+STU0759,21,UG,Engineering,B.E. Mechanical,2027,6.22,Both,Sales Executive,Other Tamil Nadu,Java; Communication,No,0,45000,High,High,Hybrid,Developing,Python,Higher Studies
+STU0760,21,UG,Arts,B.A. History,2027,6.76,Both,Accounts Assistant,Kanchipuram,Typing; Accounting,No,0,23000,High,Medium,Hybrid,Beginner,Communication,Seeking Job
+STU0761,20,UG,Engineering,B.E. ECE,2027,5.83,Both,Clerk,Kanchipuram,Customer Support; Accounting; SQL; Communication; Data Analysis; HTML/CSS,No,0,23000,Low,High,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0762,25,UG,Arts,B.A. English,2027,9.35,Private,Accounts Assistant,Chengalpattu,Power BI; MS Excel; Tally,No,0,22000,High,Medium,On-site,Beginner,SQL,Preparing for Exams
+STU0763,24,UG,Engineering,B.E. Computer Science,2025,7.12,Private,Junior Assistant,Kanchipuram,HTML/CSS; Power BI; Problem-solving; SQL,No,0,41000,Low,Medium,Remote,Developing,Communication,Seeking Job
+STU0764,25,UG,Science,B.Sc. Statistics,2026,8.08,Private,Software Developer,Kanchipuram,Tally; Typing; Accounting; Java; Communication; Customer Support,Yes,2,38000,Medium,Medium,Hybrid,Developing,Python,Seeking Job
+STU0765,21,UG,Science,B.Sc. Mathematics,2025,6.48,Government,Customer Support Executive,Kanchipuram,Problem-solving; Customer Support; SQL; HTML/CSS; Accounting,No,0,43000,Medium,Medium,Remote,Developing,Excel,Preparing for Exams
+STU0766,19,UG,Commerce,B.Com,2027,9.41,Private,Banking Associate,Tiruvallur,Power BI; SQL,No,0,16000,Low,Medium,Hybrid,Job Ready,Communication,Seeking Job
+STU0767,20,UG,Management,BBA,2026,8.56,Both,MIS Executive,Chennai,Python; Tally; Accounting; Power BI; Communication,No,0,13000,Low,High,Remote,Job Ready,Excel,Seeking Job
+STU0768,23,UG,Science,B.Sc. Physics,2027,7.36,Both,HR Assistant,Chennai,Tally; Typing; Problem-solving; Communication; Customer Support,Yes,11,44000,High,High,Hybrid,Developing,Aptitude,Higher Studies
+STU0769,21,UG,Engineering,B.E. Computer Science,2025,5.55,Both,Data Entry Operator,Chengalpattu,SQL; Power BI; Python,No,0,38000,Low,High,Hybrid,Beginner,Power BI,Seeking Job
+STU0770,21,UG,Science,B.Sc. Statistics,2026,9.44,Both,Data Entry Operator,Tiruvallur,Python; SQL,No,0,19000,High,Low,Hybrid,Developing,Communication,Higher Studies
+STU0771,21,UG,Science,B.Sc. Chemistry,2027,6.7,Private,Sales Executive,Chengalpattu,Typing; Data Analysis; Accounting; Tally,No,0,26000,High,Medium,Hybrid,Developing,Excel,Preparing for Exams
+STU0772,23,UG,Science,B.Sc. Mathematics,2028,6.57,Not decided,Data Entry Operator,Chennai,MS Excel; Typing; Communication; Customer Support; Python,No,0,44000,Medium,Medium,Remote,Developing,Power BI,Seeking Job
+STU0773,22,UG,Science,B.Sc. Physics,2028,6.94,Government,Software Developer,Chennai,HTML/CSS; Customer Support; Python; Tally; MS Excel; Java,No,0,31000,High,Medium,Hybrid,Developing,Communication,Seeking Job
+STU0774,21,UG,Science,B.Sc. Statistics,2025,5.85,Government,Graduate Trainee,Chennai,Typing; SQL; Tally,Yes,3,39000,Medium,High,Remote,Job Ready,SQL,Preparing for Exams
+STU0775,25,UG,Arts,B.A. English,2025,9.34,Government,Software Developer,Chennai,Communication; Tally; Customer Support,No,0,14000,Low,High,On-site,Job Ready,Python,Preparing for Exams
+STU0776,23,UG,Science,B.Sc. Chemistry,2026,5.78,Government,Sales Executive,Kanchipuram,HTML/CSS; Python; Communication; Typing; Customer Support,No,0,22000,Low,Low,Remote,Beginner,Power BI,Placed
+STU0777,23,UG,Commerce,B.Com Corporate Secretaryship,2027,7.22,Government,Data Analyst,Kanchipuram,Customer Support; SQL; HTML/CSS; Problem-solving,No,0,32000,High,High,Hybrid,Beginner,Aptitude,Seeking Job
+STU0778,20,UG,Arts,B.A. English,2026,6.93,Private,Software Developer,Other Tamil Nadu,SQL; Python,No,0,27000,Low,Medium,Hybrid,Developing,Python,Preparing for Exams
+STU0779,20,UG,Commerce,B.Com,2025,9.17,Both,MIS Executive,Tiruvallur,Communication; Accounting; Power BI; HTML/CSS; MS Excel; Tally,Yes,3,43000,Medium,Low,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0780,20,PG,Arts,B.A. Tamil,2025,9.26,Private,Software Developer,Chengalpattu,Customer Support; Tally; Typing; SQL; MS Excel,No,0,14000,High,High,Remote,Job Ready,Power BI,Preparing for Exams
+STU0781,21,UG,Management,BBA,2027,9.04,Both,HR Assistant,Chengalpattu,MS Excel; Problem-solving; Customer Support; Tally; Typing,No,0,25000,High,Medium,Remote,Job Ready,Interview Skills,Higher Studies
+STU0782,24,UG,Commerce,B.Com Accounting & Finance,2027,8.75,Private,Junior Assistant,Kanchipuram,Typing; Problem-solving; Accounting; Power BI; Java; MS Excel,No,0,33000,High,Medium,Remote,Job Ready,Interview Skills,Seeking Job
+STU0783,21,PG,Engineering,B.E. Computer Science,2028,8.37,Private,Sales Executive,Kanchipuram,Typing; Problem-solving; Power BI; Tally; Customer Support,No,0,37000,Medium,High,Remote,Beginner,Python,Seeking Job
+STU0784,25,UG,Engineering,B.Tech IT,2025,9.23,Government,Graduate Trainee,Kanchipuram,Java; MS Excel,No,0,15000,Medium,Low,On-site,Job Ready,Aptitude,Seeking Job
+STU0785,19,UG,Engineering,B.E. Computer Science,2027,6.56,Both,Customer Support Executive,Chennai,Data Analysis; Accounting; Tally; SQL; Problem-solving,No,0,18000,High,Low,Remote,Developing,SQL,Placed
+STU0786,21,UG,Commerce,B.Com Corporate Secretaryship,2027,8.25,Private,Clerk,Chengalpattu,Power BI; Accounting; SQL; Tally; Python,No,0,19000,High,High,On-site,Developing,SQL,Seeking Job
+STU0787,19,UG,Science,B.Sc. Physics,2028,7.84,Government,MIS Executive,Chennai,HTML/CSS; Data Analysis; Python; Problem-solving; Communication; Customer Support,No,0,17000,High,High,On-site,Developing,SQL,Seeking Job
+STU0788,23,UG,Commerce,B.Com Accounting & Finance,2026,6.32,Government,Banking Associate,Tiruvallur,MS Excel; Tally; Java; Customer Support,Yes,10,16000,Low,High,Remote,Developing,Communication,Higher Studies
+STU0789,23,UG,Science,B.Sc. Computer Science,2027,7.29,Both,Junior Assistant,Kanchipuram,MS Excel; Problem-solving; HTML/CSS,Yes,8,17000,High,High,Remote,Job Ready,Communication,Higher Studies
+STU0790,23,UG,Commerce,B.Com Accounting & Finance,2025,5.96,Private,MIS Executive,Chengalpattu,Data Analysis; Accounting; Tally; Python; MS Excel; Customer Support,Yes,12,28000,Medium,High,Hybrid,Developing,Interview Skills,Seeking Job
+STU0791,22,UG,Arts,B.A. History,2027,8.56,Private,Data Entry Operator,Other Tamil Nadu,HTML/CSS; Communication,No,0,18000,Medium,High,On-site,Developing,Interview Skills,Seeking Job
+STU0792,21,UG,Engineering,B.E. Computer Science,2028,7.86,Government,Sales Executive,Other Tamil Nadu,Typing; Python; Power BI,Yes,5,31000,High,Medium,On-site,Developing,Power BI,Seeking Job
+STU0793,22,UG,Science,B.Sc. Computer Science,2027,5.96,Both,Data Entry Operator,Other Tamil Nadu,Python; Problem-solving; Typing,Yes,9,27000,High,Medium,On-site,Beginner,Aptitude,Preparing for Exams
+STU0794,20,UG,Engineering,B.E. ECE,2028,5.52,Government,HR Assistant,Kanchipuram,HTML/CSS; Power BI,No,0,24000,Medium,Low,On-site,Beginner,Power BI,Seeking Job
+STU0795,23,UG,Commerce,B.Com,2027,6.6,Government,Sales Executive,Tiruvallur,Communication; Tally; SQL; Java; Typing; Problem-solving,Yes,1,19000,Medium,Low,On-site,Job Ready,Excel,Placed
+STU0796,24,UG,Commerce,B.Com,2027,6.07,Both,Data Analyst,Kanchipuram,Python; Customer Support; Power BI; SQL; MS Excel; Accounting,No,0,19000,Low,High,Remote,Beginner,Aptitude,Seeking Job
+STU0797,25,UG,Commerce,B.Com Accounting & Finance,2027,7.27,Private,Banking Associate,Other Tamil Nadu,Power BI; HTML/CSS; SQL; Customer Support,No,0,29000,Medium,Low,On-site,Job Ready,SQL,Seeking Job
+STU0798,21,UG,Science,B.Sc. Physics,2026,8.86,Both,Junior Assistant,Tiruvallur,HTML/CSS; Problem-solving; Communication,No,0,45000,Medium,High,Hybrid,Beginner,Excel,Seeking Job
+STU0799,22,UG,Science,B.Sc. Mathematics,2027,8.46,Private,MIS Executive,Tiruvallur,HTML/CSS; Data Analysis,Yes,7,29000,High,Medium,On-site,Developing,SQL,Seeking Job
+STU0800,19,UG,Science,B.Sc. Computer Science,2027,8.47,Private,MIS Executive,Other Tamil Nadu,Data Analysis; Problem-solving; Customer Support,No,0,31000,Low,Medium,On-site,Beginner,Communication,Preparing for Exams
+STU0801,23,UG,Arts,B.A. Economics,2027,9.7,Both,Junior Assistant,Chengalpattu,Problem-solving; Power BI; Customer Support; Data Analysis,No,0,13000,Medium,Low,Remote,Developing,Communication,Seeking Job
+STU0802,24,UG,Commerce,B.Com Corporate Secretaryship,2027,7.03,Government,Accounts Assistant,Tiruvallur,Accounting; Java; Communication; Customer Support,No,0,24000,High,Medium,On-site,Developing,Excel,Seeking Job
+STU0803,19,UG,Science,B.Sc. Mathematics,2026,9.23,Private,Data Analyst,Tiruvallur,Java; Data Analysis; MS Excel,No,0,38000,Low,Low,On-site,Beginner,Aptitude,Preparing for Exams
+STU0804,19,UG,Commerce,B.Com Corporate Secretaryship,2027,9.76,Both,Banking Associate,Other Tamil Nadu,Accounting; Power BI; Problem-solving,No,0,40000,High,High,Hybrid,Beginner,Communication,Seeking Job
+STU0805,24,UG,Engineering,B.E. Computer Science,2028,7.61,Both,Data Analyst,Tiruvallur,Accounting; Customer Support; Power BI; MS Excel; HTML/CSS; Communication,No,0,33000,High,High,Remote,Job Ready,SQL,Preparing for Exams
+STU0806,19,Diploma,Science,B.Sc. Chemistry,2025,6.68,Private,Data Entry Operator,Chengalpattu,Tally; HTML/CSS; Data Analysis; SQL,Yes,4,14000,Low,High,On-site,Beginner,SQL,Seeking Job
+STU0807,24,UG,Commerce,B.Com Corporate Secretaryship,2027,8.77,Both,Banking Associate,Tiruvallur,Typing; SQL; MS Excel,Yes,3,16000,High,Medium,Hybrid,Beginner,SQL,Seeking Job
+STU0808,19,UG,Commerce,B.Com Corporate Secretaryship,2028,6.64,Both,HR Assistant,Other Tamil Nadu,Python; Problem-solving; SQL; Power BI; Accounting,Yes,11,45000,Low,Low,Hybrid,Developing,SQL,Preparing for Exams
+STU0809,25,UG,Commerce,B.Com Accounting & Finance,2026,6.42,Both,Graduate Trainee,Chennai,HTML/CSS; Java; SQL,No,0,24000,Medium,Medium,Hybrid,Job Ready,Power BI,Preparing for Exams
+STU0810,19,UG,Engineering,B.Tech IT,2028,8.0,Government,Graduate Trainee,Chengalpattu,MS Excel; Power BI; Data Analysis,No,0,15000,Low,High,Remote,Beginner,Interview Skills,Seeking Job
+STU0811,23,UG,Management,BCA,2027,6.09,Private,Data Entry Operator,Chennai,Data Analysis; Python; Power BI; Problem-solving; Typing; Accounting,No,0,39000,Medium,High,On-site,Beginner,Aptitude,Placed
+STU0812,19,UG,Commerce,B.Com Accounting & Finance,2027,8.43,Both,Software Developer,Chennai,Java; Accounting,No,0,14000,High,High,Remote,Job Ready,Python,Preparing for Exams
+STU0813,19,UG,Engineering,B.Tech IT,2028,5.92,Government,HR Assistant,Kanchipuram,Problem-solving; Accounting; Customer Support,No,0,15000,Low,Low,Remote,Beginner,Aptitude,Seeking Job
+STU0814,25,UG,Science,B.Sc. Mathematics,2025,8.99,Private,Sales Executive,Other Tamil Nadu,Problem-solving; Data Analysis,No,0,42000,Medium,Medium,Remote,Beginner,SQL,Seeking Job
+STU0815,23,UG,Engineering,B.E. Computer Science,2025,5.71,Private,Banking Associate,Kanchipuram,Tally; Java,No,0,27000,Medium,Medium,Remote,Developing,Python,Seeking Job
+STU0816,21,UG,Commerce,B.Com Accounting & Finance,2027,5.71,Private,MIS Executive,Chengalpattu,Java; Typing; Python; Power BI; Problem-solving,Yes,10,36000,Low,High,Remote,Job Ready,Python,Placed
+STU0817,19,UG,Arts,B.A. Economics,2026,5.76,Government,Junior Assistant,Chennai,Typing; Problem-solving; Data Analysis; HTML/CSS; Tally,No,0,37000,Medium,Low,On-site,Job Ready,Communication,Higher Studies
+STU0818,20,UG,Science,B.Sc. Physics,2027,6.31,Both,Banking Associate,Chennai,Data Analysis; HTML/CSS; Accounting,No,0,37000,Medium,High,On-site,Job Ready,Python,Seeking Job
+STU0819,24,UG,Science,B.Sc. Computer Science,2026,6.54,Both,Accounts Assistant,Chengalpattu,Data Analysis; Typing; Customer Support,No,0,35000,Low,Low,Remote,Developing,SQL,Seeking Job
+STU0820,25,UG,Management,BCA,2028,5.68,Government,Accounts Assistant,Chengalpattu,MS Excel; Java; Communication; Accounting; SQL,No,0,35000,Medium,Low,Remote,Beginner,Excel,Seeking Job
+STU0821,25,UG,Engineering,B.E. Mechanical,2027,9.63,Both,HR Assistant,Other Tamil Nadu,HTML/CSS; Java,Yes,1,26000,Low,High,Hybrid,Beginner,Communication,Placed
+STU0822,24,UG,Commerce,B.Com Corporate Secretaryship,2027,6.75,Both,Banking Associate,Chennai,Tally; Accounting; SQL; HTML/CSS,No,0,30000,High,High,On-site,Beginner,Interview Skills,Preparing for Exams
+STU0823,19,UG,Science,B.Sc. Chemistry,2027,7.51,Private,Clerk,Other Tamil Nadu,Tally; Accounting; Python; Java; Power BI; SQL,No,0,15000,Low,High,On-site,Job Ready,Python,Placed
+STU0824,24,UG,Science,B.Sc. Statistics,2028,8.13,Government,HR Assistant,Tiruvallur,Customer Support; Tally; Power BI; MS Excel; Java,No,0,32000,Medium,High,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0825,19,Diploma,Commerce,B.Com,2027,6.94,Both,Accounts Assistant,Chennai,MS Excel; SQL,Yes,9,20000,Low,Low,On-site,Beginner,Aptitude,Seeking Job
+STU0826,22,PG,Commerce,B.Com Corporate Secretaryship,2027,7.18,Both,Sales Executive,Kanchipuram,Accounting; Communication; Typing; Python,No,0,20000,High,High,Hybrid,Job Ready,Python,Preparing for Exams
+STU0827,22,UG,Engineering,B.E. Computer Science,2027,8.75,Both,Accounts Assistant,Chengalpattu,Communication; Python; Data Analysis; Problem-solving; Power BI; Customer Support,No,0,22000,Low,High,On-site,Job Ready,Communication,Seeking Job
+STU0828,19,UG,Arts,B.A. History,2026,7.81,Private,Graduate Trainee,Chennai,Tally; Java; Python; Customer Support,Yes,6,13000,Medium,High,Hybrid,Developing,Power BI,Seeking Job
+STU0829,25,UG,Engineering,B.E. Computer Science,2028,9.26,Government,Junior Assistant,Other Tamil Nadu,Python; Accounting,Yes,4,35000,Medium,Medium,Remote,Beginner,Interview Skills,Preparing for Exams
+STU0830,21,PG,Arts,B.A. History,2025,7.35,Government,HR Assistant,Chengalpattu,Python; Tally; Power BI; Problem-solving; SQL,No,0,39000,Low,High,Hybrid,Job Ready,Interview Skills,Seeking Job
+STU0831,21,UG,Engineering,B.E. Computer Science,2025,6.81,Both,HR Assistant,Chennai,Typing; Power BI; Data Analysis,No,0,45000,Medium,High,Hybrid,Developing,SQL,Seeking Job
+STU0832,19,UG,Commerce,B.Com Corporate Secretaryship,2027,8.47,Private,Junior Assistant,Other Tamil Nadu,SQL; Java; MS Excel; Power BI; Typing; Tally,No,0,15000,Low,Medium,Remote,Job Ready,Aptitude,Seeking Job
+STU0833,23,UG,Science,B.Sc. Physics,2027,8.54,Private,Sales Executive,Tiruvallur,Accounting; HTML/CSS,No,0,36000,Low,Medium,Remote,Job Ready,Communication,Higher Studies
+STU0834,23,UG,Engineering,B.E. ECE,2026,7.93,Both,MIS Executive,Chennai,Python; Data Analysis; Communication; SQL; Accounting,No,0,44000,Medium,Low,Remote,Beginner,SQL,Preparing for Exams
+STU0835,23,Diploma,Arts,B.A. English,2027,8.51,Both,HR Assistant,Tiruvallur,Communication; SQL; Java,No,0,21000,Medium,Low,On-site,Developing,Interview Skills,Seeking Job
+STU0836,24,UG,Engineering,B.E. ECE,2027,8.35,Both,Software Developer,Chengalpattu,Accounting; Power BI; Communication,No,0,45000,High,Low,Remote,Beginner,Interview Skills,Preparing for Exams
+STU0837,23,UG,Science,B.Sc. Computer Science,2025,8.96,Government,Data Entry Operator,Tiruvallur,Java; Customer Support; Python; SQL,No,0,34000,Low,Low,On-site,Developing,Aptitude,Seeking Job
+STU0838,22,UG,Engineering,B.E. Computer Science,2027,8.45,Private,Data Entry Operator,Chengalpattu,Tally; Java; Customer Support; Python; Power BI,Yes,9,32000,Low,Medium,On-site,Developing,Interview Skills,Seeking Job
+STU0839,19,UG,Science,B.Sc. Mathematics,2027,6.46,Private,Junior Assistant,Other Tamil Nadu,Typing; Communication; Data Analysis,Yes,7,37000,Medium,High,On-site,Beginner,Interview Skills,Preparing for Exams
+STU0840,21,UG,Science,B.Sc. Statistics,2025,5.78,Government,HR Assistant,Chennai,Customer Support; Power BI,No,0,29000,High,Medium,Remote,Job Ready,Python,Preparing for Exams
+STU0841,22,UG,Science,B.Sc. Mathematics,2025,7.08,Private,Banking Associate,Kanchipuram,Customer Support; Data Analysis; Power BI,No,0,29000,High,Medium,Hybrid,Developing,Communication,Seeking Job
+STU0842,21,UG,Arts,B.A. English,2027,7.62,Both,Banking Associate,Tiruvallur,SQL; Accounting; Java; Customer Support; Problem-solving,No,0,36000,High,High,Remote,Job Ready,Communication,Seeking Job
+STU0843,20,UG,Engineering,B.E. ECE,2028,6.85,Government,Graduate Trainee,Chengalpattu,Customer Support; Data Analysis; Communication; Python; Power BI; Accounting,Yes,4,34000,Medium,High,Hybrid,Job Ready,Python,Seeking Job
+STU0844,19,UG,Science,B.Sc. Mathematics,2027,6.52,Not decided,HR Assistant,Kanchipuram,Customer Support; Python; Accounting,No,0,20000,Medium,Medium,Remote,Job Ready,Excel,Seeking Job
+STU0845,21,UG,Science,B.Sc. Physics,2026,5.68,Private,Clerk,Tiruvallur,Communication; Problem-solving; Accounting; Typing; MS Excel; SQL,No,0,29000,Medium,High,On-site,Developing,SQL,Placed
+STU0846,19,UG,Engineering,B.E. ECE,2027,9.28,Private,Sales Executive,Other Tamil Nadu,Python; SQL; HTML/CSS; Customer Support; Data Analysis; Accounting,No,0,23000,High,Low,On-site,Developing,Communication,Preparing for Exams
+STU0847,25,UG,Science,B.Sc. Mathematics,2028,7.82,Private,Clerk,Other Tamil Nadu,Accounting; HTML/CSS; Customer Support; Typing,No,0,23000,Low,Low,Hybrid,Developing,Python,Seeking Job
+STU0848,24,UG,Commerce,B.Com Accounting & Finance,2027,9.78,Private,Customer Support Executive,Tiruvallur,HTML/CSS; Accounting,No,0,15000,Medium,Medium,On-site,Developing,Communication,Higher Studies
+STU0849,24,UG,Arts,B.A. Economics,2026,7.0,Both,Banking Associate,Chengalpattu,Problem-solving; MS Excel; Java; Data Analysis,Yes,2,37000,Low,Low,Hybrid,Beginner,Interview Skills,Seeking Job
+STU0850,25,PG,Management,BBA,2028,6.1,Not decided,Sales Executive,Tiruvallur,Java; Typing; SQL; Python,No,0,41000,Low,High,Remote,Job Ready,Communication,Higher Studies
+STU0851,19,UG,Science,B.Sc. Statistics,2028,8.47,Private,Data Analyst,Other Tamil Nadu,Data Analysis; Communication; Problem-solving; MS Excel; SQL; Customer Support,No,0,39000,Low,Low,Remote,Job Ready,Excel,Seeking Job
+STU0852,21,UG,Science,B.Sc. Chemistry,2027,9.64,Government,Junior Assistant,Tiruvallur,Tally; Accounting; Typing; Data Analysis; Customer Support; Python,No,0,17000,Medium,High,On-site,Job Ready,Power BI,Seeking Job
+STU0853,25,UG,Commerce,B.Com Corporate Secretaryship,2025,8.2,Private,Customer Support Executive,Tiruvallur,MS Excel; Typing; HTML/CSS,Yes,10,43000,Medium,Low,On-site,Job Ready,Communication,Preparing for Exams
+STU0854,22,Diploma,Commerce,B.Com,2027,7.79,Both,Banking Associate,Other Tamil Nadu,SQL; Tally; Data Analysis,No,0,12000,Medium,Low,On-site,Job Ready,Aptitude,Higher Studies
+STU0855,22,UG,Science,B.Sc. Chemistry,2027,7.46,Both,Junior Assistant,Chennai,Customer Support; Tally,No,0,19000,High,Medium,Remote,Beginner,Interview Skills,Higher Studies
+STU0856,20,UG,Engineering,B.E. Mechanical,2026,6.56,Government,Data Entry Operator,Other Tamil Nadu,Data Analysis; Java; HTML/CSS,No,0,29000,Medium,High,On-site,Job Ready,Communication,Preparing for Exams
+STU0857,20,UG,Science,B.Sc. Computer Science,2027,9.51,Government,Data Entry Operator,Kanchipuram,Customer Support; Problem-solving,No,0,36000,High,Low,On-site,Developing,Communication,Seeking Job
+STU0858,22,UG,Commerce,B.Com,2028,7.61,Private,MIS Executive,Tiruvallur,Problem-solving; Customer Support; Tally; Python; Power BI; Typing,No,0,32000,High,Low,Hybrid,Developing,Interview Skills,Placed
+STU0859,24,PG,Engineering,B.E. Computer Science,2028,5.99,Government,Customer Support Executive,Other Tamil Nadu,Communication; Customer Support; Typing,Yes,8,22000,High,High,Remote,Job Ready,Excel,Placed
+STU0860,22,UG,Science,B.Sc. Computer Science,2026,6.43,Government,Data Entry Operator,Kanchipuram,Power BI; Java; Communication; Python,No,0,25000,Medium,Medium,Remote,Job Ready,Python,Seeking Job
+STU0861,25,UG,Science,B.Sc. Statistics,2026,8.81,Both,Clerk,Chennai,MS Excel; Typing,Yes,6,23000,Medium,Medium,Remote,Job Ready,Python,Placed
+STU0862,25,UG,Commerce,B.Com Corporate Secretaryship,2028,7.0,Private,Data Entry Operator,Chengalpattu,Accounting; SQL; HTML/CSS; MS Excel; Communication; Tally,Yes,6,39000,Medium,High,Hybrid,Job Ready,Communication,Seeking Job
+STU0863,23,UG,Engineering,B.E. Mechanical,2027,6.96,Private,Sales Executive,Tiruvallur,Communication; SQL; Accounting; HTML/CSS,No,0,35000,Medium,Low,Remote,Developing,SQL,Seeking Job
+STU0864,21,UG,Science,B.Sc. Statistics,2028,5.68,Private,MIS Executive,Kanchipuram,Python; Accounting,No,0,26000,Low,Low,On-site,Beginner,SQL,Seeking Job
+STU0865,19,UG,Engineering,B.E. Mechanical,2027,5.65,Both,Data Analyst,Tiruvallur,Problem-solving; Tally,No,0,23000,Low,High,Hybrid,Developing,Excel,Preparing for Exams
+STU0866,24,UG,Commerce,B.Com Corporate Secretaryship,2028,8.27,Private,Data Entry Operator,Chennai,Typing; Accounting; HTML/CSS; SQL; Customer Support; Power BI,No,0,20000,Medium,Low,Remote,Job Ready,SQL,Preparing for Exams
+STU0867,20,UG,Science,B.Sc. Statistics,2027,6.32,Not decided,Clerk,Chengalpattu,Data Analysis; Power BI,No,0,24000,Low,High,Remote,Beginner,Aptitude,Seeking Job
+STU0868,21,UG,Arts,B.A. Economics,2027,7.49,Private,Junior Assistant,Other Tamil Nadu,Python; Data Analysis,Yes,3,42000,Medium,Low,Remote,Beginner,Aptitude,Seeking Job
+STU0869,22,UG,Engineering,B.E. ECE,2028,9.55,Both,Software Developer,Chengalpattu,HTML/CSS; Tally; Communication; Accounting; Data Analysis,No,0,17000,Low,Low,Remote,Developing,Power BI,Preparing for Exams
+STU0870,20,UG,Commerce,B.Com Corporate Secretaryship,2026,7.4,Both,Graduate Trainee,Chengalpattu,MS Excel; Data Analysis; SQL; HTML/CSS; Python,No,0,23000,High,Medium,On-site,Beginner,SQL,Seeking Job
+STU0871,20,UG,Commerce,B.Com,2026,6.22,Private,Banking Associate,Kanchipuram,SQL; Python; Java; Tally; Accounting,No,0,27000,Low,Low,On-site,Developing,Communication,Preparing for Exams
+STU0872,21,UG,Science,B.Sc. Statistics,2027,6.62,Government,MIS Executive,Other Tamil Nadu,Accounting; Problem-solving; HTML/CSS; Power BI; SQL,No,0,43000,Low,Low,Remote,Beginner,SQL,Preparing for Exams
+STU0873,19,UG,Commerce,B.Com Corporate Secretaryship,2028,7.51,Both,HR Assistant,Tiruvallur,HTML/CSS; MS Excel; SQL; Typing; Customer Support; Problem-solving,Yes,12,19000,High,Medium,Remote,Developing,SQL,Seeking Job
+STU0874,25,Diploma,Commerce,B.Com,2027,7.21,Both,Graduate Trainee,Chennai,SQL; Problem-solving; MS Excel,No,0,24000,High,High,On-site,Developing,Interview Skills,Seeking Job
+STU0875,20,UG,Commerce,B.Com Corporate Secretaryship,2027,7.1,Not decided,HR Assistant,Kanchipuram,Data Analysis; Problem-solving; Accounting; Typing; HTML/CSS,No,0,23000,High,Low,Remote,Developing,Python,Higher Studies
+STU0876,21,UG,Management,BCA,2027,9.0,Both,Sales Executive,Kanchipuram,Power BI; MS Excel,Yes,2,41000,High,Medium,On-site,Beginner,Interview Skills,Higher Studies
+STU0877,20,UG,Engineering,B.E. Mechanical,2027,5.9,Both,Data Analyst,Tiruvallur,Problem-solving; SQL,No,0,29000,Low,Low,Remote,Beginner,Python,Placed
+STU0878,19,UG,Science,B.Sc. Statistics,2027,8.65,Government,Clerk,Chengalpattu,HTML/CSS; Python; Power BI; Typing; Problem-solving,Yes,3,19000,Low,Low,Hybrid,Developing,Power BI,Higher Studies
+STU0879,19,UG,Arts,B.A. Economics,2025,8.16,Government,Junior Assistant,Tiruvallur,Python; Problem-solving,No,0,20000,Low,Medium,Remote,Job Ready,Communication,Higher Studies
+STU0880,21,UG,Management,BBA,2027,7.46,Government,Banking Associate,Kanchipuram,Accounting; Problem-solving; Power BI; MS Excel; Communication; Customer Support,No,0,45000,High,High,Hybrid,Beginner,Python,Seeking Job
+STU0881,21,Diploma,Arts,B.A. Economics,2027,7.11,Private,Junior Assistant,Other Tamil Nadu,Customer Support; Data Analysis; SQL; Tally; MS Excel,No,0,24000,Low,Medium,Hybrid,Job Ready,Power BI,Preparing for Exams
+STU0882,23,UG,Arts,B.A. Economics,2027,8.01,Both,Junior Assistant,Chennai,Problem-solving; Power BI,No,0,26000,Medium,High,On-site,Developing,SQL,Seeking Job
+STU0883,21,PG,Science,B.Sc. Mathematics,2025,9.76,Private,Junior Assistant,Tiruvallur,Java; Communication; SQL; Power BI,No,0,19000,Medium,Low,On-site,Developing,SQL,Seeking Job
+STU0884,20,UG,Science,B.Sc. Computer Science,2027,9.56,Government,Clerk,Kanchipuram,MS Excel; HTML/CSS; Python; Java; Typing; Problem-solving,No,0,32000,Medium,High,Remote,Job Ready,Aptitude,Seeking Job
+STU0885,23,UG,Engineering,B.Tech IT,2028,7.93,Both,Banking Associate,Tiruvallur,Power BI; MS Excel,Yes,6,39000,Medium,Low,On-site,Developing,Power BI,Placed
+STU0886,19,UG,Engineering,B.E. Mechanical,2027,5.51,Private,Junior Assistant,Other Tamil Nadu,Java; SQL; Power BI; Communication,No,0,15000,High,Low,On-site,Beginner,SQL,Seeking Job
+STU0887,22,UG,Management,BBA,2027,8.99,Both,Banking Associate,Kanchipuram,Power BI; Python; HTML/CSS; Java; Communication; Accounting,No,0,40000,High,High,Remote,Beginner,Interview Skills,Higher Studies
+STU0888,20,UG,Management,BBA,2027,9.67,Both,MIS Executive,Kanchipuram,Python; Power BI; Data Analysis; MS Excel; Java,No,0,45000,Medium,Medium,Hybrid,Beginner,Interview Skills,Seeking Job
+STU0889,23,UG,Arts,B.A. History,2027,8.52,Government,Sales Executive,Kanchipuram,Typing; Java,Yes,8,13000,High,High,Remote,Beginner,Excel,Seeking Job
+STU0890,22,PG,Commerce,B.Com Accounting & Finance,2028,7.38,Both,Data Entry Operator,Chennai,Typing; Java; SQL,No,0,34000,Low,High,Remote,Beginner,Interview Skills,Seeking Job
+STU0891,19,UG,Engineering,B.E. Mechanical,2027,5.61,Government,Clerk,Chennai,Communication; Java,No,0,15000,Medium,Low,Hybrid,Job Ready,Power BI,Seeking Job
+STU0892,24,UG,Science,B.Sc. Computer Science,2027,6.85,Government,Banking Associate,Chennai,Typing; Power BI; Data Analysis; Customer Support,Yes,6,23000,High,Medium,Remote,Job Ready,Communication,Seeking Job
+STU0893,20,UG,Commerce,B.Com Accounting & Finance,2027,9.0,Both,Accounts Assistant,Other Tamil Nadu,HTML/CSS; Java; Typing; Data Analysis; Problem-solving; Power BI,No,0,30000,High,Medium,Hybrid,Beginner,SQL,Seeking Job
+STU0894,22,UG,Science,B.Sc. Chemistry,2027,8.06,Government,Sales Executive,Other Tamil Nadu,Typing; Communication; Power BI; Customer Support; SQL,No,0,19000,Low,Medium,On-site,Beginner,Aptitude,Preparing for Exams
+STU0895,22,UG,Science,B.Sc. Chemistry,2028,5.95,Both,Accounts Assistant,Chennai,MS Excel; Power BI; HTML/CSS,Yes,3,13000,Low,Low,Remote,Developing,Python,Preparing for Exams
+STU0896,25,UG,Management,BCA,2028,9.36,Private,Clerk,Tiruvallur,Power BI; Tally,No,0,13000,Low,Low,Remote,Job Ready,Communication,Preparing for Exams
+STU0897,21,UG,Management,BBA,2027,7.44,Private,Software Developer,Other Tamil Nadu,Data Analysis; Java,No,0,44000,Low,High,Remote,Developing,Communication,Seeking Job
+STU0898,19,UG,Management,BCA,2027,5.9,Private,Data Entry Operator,Chengalpattu,Problem-solving; MS Excel,Yes,7,17000,Medium,Low,Hybrid,Beginner,Interview Skills,Placed
+STU0899,23,UG,Arts,B.A. Tamil,2027,9.8,Government,Customer Support Executive,Chennai,Customer Support; Typing; Communication; SQL; Java,No,0,29000,High,Low,Hybrid,Beginner,Aptitude,Seeking Job
+STU0900,24,UG,Management,BCA,2026,9.34,Government,Graduate Trainee,Other Tamil Nadu,Java; Python; Tally; Problem-solving; MS Excel; HTML/CSS,No,0,26000,Medium,Low,Hybrid,Developing,Python,Higher Studies
+STU0901,21,UG,Commerce,B.Com Accounting & Finance,2027,6.57,Both,MIS Executive,Other Tamil Nadu,SQL; Communication; Customer Support; MS Excel; Java,No,0,39000,High,Medium,Hybrid,Job Ready,Excel,Seeking Job
+STU0902,21,UG,Science,B.Sc. Mathematics,2028,7.25,Government,HR Assistant,Other Tamil Nadu,Python; Java; SQL; Customer Support,No,0,20000,High,Low,Remote,Beginner,Excel,Seeking Job
+STU0903,25,UG,Commerce,B.Com Corporate Secretaryship,2027,7.33,Private,Sales Executive,Chennai,MS Excel; Java; SQL; Communication; Accounting; HTML/CSS,Yes,2,31000,High,High,On-site,Job Ready,Interview Skills,Preparing for Exams
+STU0904,24,UG,Science,B.Sc. Statistics,2027,9.72,Both,Junior Assistant,Kanchipuram,Customer Support; SQL; Power BI; Java; Python; Problem-solving,Yes,6,44000,High,Medium,Hybrid,Job Ready,Python,Preparing for Exams
+STU0905,22,UG,Science,B.Sc. Statistics,2028,8.5,Not decided,MIS Executive,Chennai,HTML/CSS; SQL; Communication; Python,No,0,38000,Medium,High,Hybrid,Job Ready,Power BI,Preparing for Exams
+STU0906,24,UG,Management,BCA,2027,7.87,Government,Clerk,Kanchipuram,SQL; Accounting; Communication; Typing; Data Analysis; MS Excel,No,0,17000,Medium,Medium,Hybrid,Job Ready,Interview Skills,Preparing for Exams
+STU0907,23,UG,Engineering,B.E. ECE,2027,8.0,Both,Graduate Trainee,Other Tamil Nadu,SQL; Java; Customer Support; Accounting; Communication; Typing,No,0,40000,Medium,Low,Hybrid,Job Ready,Excel,Placed
+STU0908,24,UG,Engineering,B.E. ECE,2025,8.46,Private,Customer Support Executive,Kanchipuram,Communication; Tally; Customer Support; MS Excel; Python; Data Analysis,No,0,27000,Low,Medium,Remote,Beginner,Excel,Seeking Job
+STU0909,25,UG,Commerce,B.Com Accounting & Finance,2026,6.85,Private,Accounts Assistant,Chengalpattu,Power BI; Typing,No,0,18000,Low,Low,Hybrid,Developing,Excel,Placed
+STU0910,21,UG,Science,B.Sc. Computer Science,2027,8.0,Government,Data Entry Operator,Chennai,Typing; Customer Support,No,0,30000,Medium,Medium,Remote,Developing,Interview Skills,Preparing for Exams
+STU0911,19,UG,Engineering,B.E. Mechanical,2026,9.22,Private,Customer Support Executive,Tiruvallur,HTML/CSS; Java; MS Excel; Tally; Accounting,Yes,6,13000,Low,Medium,Hybrid,Developing,SQL,Seeking Job
+STU0912,25,UG,Commerce,B.Com Corporate Secretaryship,2026,7.3,Private,Graduate Trainee,Kanchipuram,SQL; Power BI; Tally; Communication; Java,No,0,15000,High,Medium,Remote,Developing,Communication,Placed
+STU0913,25,UG,Science,B.Sc. Physics,2028,7.56,Government,Banking Associate,Tiruvallur,SQL; Problem-solving; Python; Accounting; Typing,Yes,5,37000,High,Medium,Remote,Beginner,Power BI,Seeking Job
+STU0914,25,UG,Arts,B.A. History,2027,7.72,Private,Accounts Assistant,Chennai,Python; Tally,No,0,12000,Low,High,On-site,Developing,Communication,Seeking Job
+STU0915,19,PG,Science,B.Sc. Computer Science,2027,9.78,Both,Accounts Assistant,Kanchipuram,SQL; Power BI; Python; Problem-solving; Tally; HTML/CSS,No,0,22000,Low,Medium,On-site,Beginner,Aptitude,Seeking Job
+STU0916,21,UG,Arts,B.A. Tamil,2028,7.79,Government,Customer Support Executive,Other Tamil Nadu,Power BI; Accounting; HTML/CSS; Tally,Yes,6,22000,Medium,Medium,Remote,Beginner,Excel,Seeking Job
+STU0917,25,Diploma,Commerce,B.Com Accounting & Finance,2025,8.41,Both,Accounts Assistant,Kanchipuram,Data Analysis; Tally; Communication,No,0,31000,Low,Medium,Hybrid,Job Ready,Power BI,Seeking Job
+STU0918,20,PG,Arts,B.A. Tamil,2026,7.81,Government,Graduate Trainee,Tiruvallur,Python; SQL,No,0,17000,Medium,Medium,Hybrid,Beginner,SQL,Placed
+STU0919,25,UG,Commerce,B.Com Accounting & Finance,2027,9.02,Both,Customer Support Executive,Kanchipuram,HTML/CSS; SQL; MS Excel,Yes,12,12000,Low,Low,On-site,Beginner,Communication,Higher Studies
+STU0920,23,Diploma,Management,BBA,2027,7.84,Both,Data Entry Operator,Kanchipuram,Tally; Accounting; Customer Support; Power BI,Yes,10,26000,Medium,High,Hybrid,Beginner,Python,Preparing for Exams
+STU0921,22,UG,Engineering,B.E. Mechanical,2027,5.79,Both,Accounts Assistant,Kanchipuram,Data Analysis; Python,No,0,23000,Medium,Medium,Hybrid,Job Ready,Excel,Seeking Job
+STU0922,23,UG,Science,B.Sc. Chemistry,2025,8.26,Both,Banking Associate,Kanchipuram,Data Analysis; Tally; Python,No,0,27000,Low,Low,On-site,Beginner,Communication,Seeking Job
+STU0923,25,UG,Commerce,B.Com,2026,9.74,Both,Customer Support Executive,Other Tamil Nadu,Accounting; Java; Typing; Customer Support; Problem-solving; SQL,No,0,20000,Medium,High,Hybrid,Developing,Aptitude,Seeking Job
+STU0924,22,UG,Science,B.Sc. Mathematics,2026,9.39,Government,HR Assistant,Chengalpattu,Accounting; Typing,No,0,40000,High,Low,On-site,Beginner,Communication,Higher Studies
+STU0925,23,PG,Arts,B.A. Economics,2026,6.02,Government,Clerk,Chennai,HTML/CSS; MS Excel; Java; SQL; Power BI; Typing,No,0,23000,High,High,On-site,Beginner,Python,Placed
+STU0926,24,UG,Science,B.Sc. Chemistry,2028,8.41,Private,Graduate Trainee,Tiruvallur,MS Excel; Problem-solving,No,0,19000,High,Low,On-site,Developing,SQL,Seeking Job
+STU0927,24,PG,Engineering,B.E. Computer Science,2027,6.69,Private,HR Assistant,Chengalpattu,Data Analysis; Communication; Tally,No,0,24000,Medium,Medium,Hybrid,Job Ready,Excel,Preparing for Exams
+STU0928,22,PG,Engineering,B.E. Computer Science,2027,9.01,Government,Software Developer,Other Tamil Nadu,Accounting; MS Excel; HTML/CSS,No,0,36000,Medium,High,Hybrid,Beginner,Aptitude,Seeking Job
+STU0929,22,PG,Science,B.Sc. Computer Science,2028,8.55,Both,Graduate Trainee,Chengalpattu,Java; Communication; Python; Customer Support; MS Excel,No,0,30000,High,Medium,Remote,Developing,Python,Seeking Job
+STU0930,19,UG,Engineering,B.E. ECE,2027,7.86,Both,MIS Executive,Other Tamil Nadu,Problem-solving; Typing; HTML/CSS; MS Excel,No,0,21000,Medium,Low,Remote,Job Ready,Communication,Placed
+STU0931,23,UG,Arts,B.A. English,2027,9.78,Private,Banking Associate,Tiruvallur,Data Analysis; Power BI,No,0,16000,Medium,High,Hybrid,Job Ready,Power BI,Seeking Job
+STU0932,19,UG,Science,B.Sc. Computer Science,2027,9.64,Government,HR Assistant,Other Tamil Nadu,Java; MS Excel; Typing; Power BI; SQL,Yes,9,23000,Medium,High,Hybrid,Beginner,Communication,Preparing for Exams
+STU0933,19,UG,Engineering,B.Tech IT,2026,5.89,Not decided,Graduate Trainee,Chengalpattu,Tally; SQL; Python; HTML/CSS; Problem-solving; Data Analysis,No,0,43000,Medium,Medium,Remote,Beginner,Interview Skills,Seeking Job
+STU0934,20,UG,Commerce,B.Com Corporate Secretaryship,2028,6.94,Both,Sales Executive,Chennai,SQL; Communication; Python; Typing; Java; Problem-solving,No,0,40000,High,Low,Hybrid,Job Ready,Aptitude,Seeking Job
+STU0935,25,UG,Management,BBA,2028,6.11,Government,Software Developer,Tiruvallur,Tally; Customer Support; Communication; Problem-solving; HTML/CSS; MS Excel,Yes,1,13000,Low,High,On-site,Job Ready,Power BI,Seeking Job
+STU0936,21,UG,Engineering,B.Tech IT,2028,7.66,Private,HR Assistant,Other Tamil Nadu,MS Excel; HTML/CSS; SQL; Power BI,No,0,32000,Low,Medium,On-site,Beginner,Python,Seeking Job
+STU0937,22,UG,Commerce,B.Com Corporate Secretaryship,2028,8.92,Both,Software Developer,Chennai,SQL; Problem-solving; Communication; HTML/CSS; Power BI; Python,Yes,8,16000,High,Medium,Remote,Job Ready,Aptitude,Higher Studies
+STU0938,19,Diploma,Arts,B.A. English,2026,7.34,Government,Graduate Trainee,Chennai,MS Excel; Typing; SQL; HTML/CSS,No,0,35000,High,Medium,On-site,Job Ready,SQL,Seeking Job
+STU0939,21,PG,Arts,B.A. English,2028,7.97,Government,MIS Executive,Other Tamil Nadu,Typing; Tally; Customer Support; MS Excel; Problem-solving,No,0,32000,Low,Medium,On-site,Job Ready,SQL,Higher Studies
+STU0940,22,UG,Commerce,B.Com Accounting & Finance,2028,5.88,Private,Sales Executive,Other Tamil Nadu,Typing; Power BI; Java; Tally; SQL; Communication,Yes,3,42000,High,Medium,Remote,Beginner,SQL,Preparing for Exams
+STU0941,24,UG,Engineering,B.E. ECE,2027,5.8,Government,MIS Executive,Chengalpattu,Tally; MS Excel; SQL; Problem-solving,No,0,35000,Medium,Medium,Remote,Beginner,Excel,Preparing for Exams
+STU0942,23,UG,Arts,B.A. History,2028,9.5,Private,HR Assistant,Chengalpattu,Communication; Data Analysis; Java; MS Excel; Customer Support,No,0,31000,High,Medium,On-site,Developing,Interview Skills,Preparing for Exams
+STU0943,22,UG,Management,BCA,2027,7.19,Private,Customer Support Executive,Other Tamil Nadu,Data Analysis; MS Excel; Tally,No,0,33000,Medium,High,Hybrid,Developing,SQL,Seeking Job
+STU0944,24,UG,Science,B.Sc. Statistics,2027,8.08,Both,Data Analyst,Chennai,MS Excel; Data Analysis; Tally; Customer Support; Python; Problem-solving,No,0,17000,High,Medium,Remote,Developing,Python,Placed
+STU0945,24,UG,Commerce,B.Com Corporate Secretaryship,2025,8.58,Government,Software Developer,Chengalpattu,Accounting; HTML/CSS; Customer Support; Java,Yes,6,29000,Low,High,Remote,Beginner,Python,Preparing for Exams
+STU0946,25,UG,Commerce,B.Com Corporate Secretaryship,2028,5.84,Government,Clerk,Kanchipuram,Problem-solving; Typing; Tally; MS Excel,Yes,4,23000,Medium,Low,Remote,Job Ready,Communication,Seeking Job
+STU0947,25,UG,Commerce,B.Com Accounting & Finance,2027,9.13,Private,Customer Support Executive,Other Tamil Nadu,HTML/CSS; Communication,Yes,9,15000,Medium,Low,Remote,Job Ready,Aptitude,Seeking Job
+STU0948,21,PG,Arts,B.A. Economics,2028,8.82,Government,Junior Assistant,Chengalpattu,MS Excel; Problem-solving,No,0,19000,High,Medium,Hybrid,Beginner,Python,Preparing for Exams
+STU0949,19,PG,Science,B.Sc. Computer Science,2028,8.15,Private,Data Entry Operator,Other Tamil Nadu,Python; Problem-solving; Data Analysis; Communication,No,0,34000,Medium,High,Hybrid,Job Ready,Communication,Seeking Job
+STU0950,23,PG,Arts,B.A. English,2027,7.21,Private,Accounts Assistant,Other Tamil Nadu,MS Excel; Java,No,0,15000,High,Low,Hybrid,Job Ready,Power BI,Seeking Job
+STU0951,20,UG,Arts,B.A. Economics,2027,7.95,Both,MIS Executive,Kanchipuram,HTML/CSS; Data Analysis; Communication,No,0,35000,High,High,On-site,Developing,Power BI,Seeking Job
+STU0952,25,UG,Engineering,B.Tech IT,2026,7.13,Both,MIS Executive,Chengalpattu,Tally; MS Excel; Power BI; SQL,No,0,37000,High,Medium,On-site,Developing,Communication,Seeking Job
+STU0953,19,UG,Commerce,B.Com,2027,8.27,Both,Accounts Assistant,Chennai,Accounting; SQL; Power BI; Customer Support; Communication; Tally,No,0,34000,High,High,Remote,Job Ready,Communication,Preparing for Exams
+STU0954,20,UG,Commerce,B.Com Corporate Secretaryship,2028,6.71,Government,Banking Associate,Kanchipuram,Python; Problem-solving; Java,No,0,41000,Medium,Low,Remote,Job Ready,Power BI,Seeking Job
+STU0955,21,UG,Commerce,B.Com,2026,9.13,Government,Accounts Assistant,Chengalpattu,Typing; Accounting; Problem-solving,No,0,12000,Low,High,Hybrid,Developing,Excel,Seeking Job
+STU0956,19,UG,Arts,B.A. History,2028,6.47,Private,HR Assistant,Chennai,MS Excel; Accounting; Typing; SQL; Problem-solving,No,0,23000,High,Medium,Remote,Beginner,Python,Placed
+STU0957,23,UG,Commerce,B.Com Accounting & Finance,2027,8.45,Both,Sales Executive,Chennai,Tally; Data Analysis,No,0,39000,High,High,Remote,Developing,SQL,Seeking Job
+STU0958,23,UG,Science,B.Sc. Statistics,2027,8.82,Private,Data Analyst,Tiruvallur,Tally; Typing; HTML/CSS; Customer Support; SQL; Python,No,0,25000,High,Low,Hybrid,Job Ready,SQL,Seeking Job
+STU0959,25,UG,Commerce,B.Com,2025,7.87,Both,Sales Executive,Kanchipuram,Communication; Tally; Problem-solving; MS Excel; Python; SQL,Yes,9,20000,Low,High,On-site,Job Ready,SQL,Seeking Job
+STU0960,19,UG,Arts,B.A. History,2027,8.56,Government,Graduate Trainee,Chennai,Customer Support; Power BI; SQL; Data Analysis,No,0,20000,Low,Low,Remote,Beginner,SQL,Seeking Job
+STU0961,22,UG,Science,B.Sc. Mathematics,2027,5.94,Government,Software Developer,Chengalpattu,Power BI; SQL; Accounting,No,0,14000,High,Low,On-site,Developing,Excel,Preparing for Exams
+STU0962,25,UG,Science,B.Sc. Physics,2027,7.03,Private,Sales Executive,Chennai,Customer Support; MS Excel,No,0,26000,High,High,Remote,Beginner,Aptitude,Seeking Job
+STU0963,23,UG,Commerce,B.Com,2027,9.61,Private,Data Analyst,Chennai,HTML/CSS; Communication,No,0,13000,Medium,High,Remote,Job Ready,Interview Skills,Seeking Job
+STU0964,22,UG,Commerce,B.Com Corporate Secretaryship,2025,7.25,Private,Software Developer,Tiruvallur,Typing; Python; Power BI,No,0,37000,Medium,High,Hybrid,Beginner,Aptitude,Seeking Job
+STU0965,25,UG,Arts,B.A. English,2027,7.36,Private,Data Analyst,Kanchipuram,Tally; Problem-solving; MS Excel; Communication; Typing,No,0,24000,Low,High,Remote,Developing,Excel,Seeking Job
+STU0966,25,UG,Commerce,B.Com Accounting & Finance,2028,6.6,Private,Accounts Assistant,Chengalpattu,Power BI; SQL; Accounting; Java; Customer Support,No,0,33000,Low,Low,Remote,Developing,Excel,Placed
+STU0967,20,UG,Arts,B.A. English,2027,7.95,Private,Accounts Assistant,Kanchipuram,Customer Support; MS Excel; Data Analysis; HTML/CSS; Python; Java,Yes,4,24000,Low,Medium,On-site,Beginner,Aptitude,Preparing for Exams
+STU0968,20,UG,Management,BCA,2028,9.58,Not decided,Junior Assistant,Chengalpattu,Tally; Customer Support; MS Excel,No,0,16000,High,Low,Hybrid,Job Ready,Communication,Seeking Job
+STU0969,22,UG,Arts,B.A. Tamil,2027,8.56,Not decided,Graduate Trainee,Kanchipuram,Tally; HTML/CSS; Java; Typing,No,0,33000,High,Medium,On-site,Developing,Excel,Seeking Job
+STU0970,21,UG,Management,BBA,2027,7.09,Government,HR Assistant,Chennai,Accounting; Typing; Data Analysis; Java; Python,No,0,33000,Low,Medium,Remote,Beginner,Interview Skills,Seeking Job
+STU0971,25,UG,Engineering,B.E. Computer Science,2028,6.53,Private,Customer Support Executive,Kanchipuram,Problem-solving; Tally; Typing; Java,No,0,20000,High,Medium,Remote,Job Ready,Python,Seeking Job
+STU0972,20,UG,Science,B.Sc. Mathematics,2028,9.01,Not decided,MIS Executive,Kanchipuram,MS Excel; Customer Support; Communication; Data Analysis,No,0,31000,High,Low,On-site,Developing,Communication,Seeking Job
+STU0973,24,UG,Commerce,B.Com,2027,7.78,Private,Software Developer,Chengalpattu,Customer Support; MS Excel,Yes,3,19000,High,Medium,Remote,Job Ready,Power BI,Seeking Job
+STU0974,20,UG,Management,BCA,2026,9.13,Private,Banking Associate,Tiruvallur,Power BI; Tally; Customer Support,Yes,1,19000,Medium,High,Remote,Beginner,Interview Skills,Placed
+STU0975,23,UG,Engineering,B.E. Mechanical,2027,6.34,Government,Junior Assistant,Chennai,Java; Tally; SQL; Power BI; HTML/CSS; Data Analysis,No,0,29000,High,Low,On-site,Job Ready,Aptitude,Seeking Job
+STU0976,20,UG,Arts,B.A. Economics,2027,5.78,Private,Data Entry Operator,Kanchipuram,Python; MS Excel; Tally; Customer Support; Data Analysis; Accounting,Yes,8,24000,High,Medium,On-site,Job Ready,Excel,Seeking Job
+STU0977,24,UG,Commerce,B.Com,2028,6.35,Both,Data Analyst,Tiruvallur,Problem-solving; Java; Data Analysis,No,0,34000,Medium,Low,On-site,Job Ready,Interview Skills,Seeking Job
+STU0978,25,UG,Management,BBA,2027,9.66,Government,Software Developer,Chengalpattu,Typing; Accounting; Customer Support,No,0,27000,High,High,On-site,Job Ready,Aptitude,Higher Studies
+STU0979,21,UG,Science,B.Sc. Physics,2027,9.06,Both,Data Analyst,Kanchipuram,Data Analysis; Typing; Accounting,Yes,4,20000,High,Medium,Hybrid,Beginner,Communication,Seeking Job
+STU0980,20,UG,Arts,B.A. Tamil,2027,6.02,Private,HR Assistant,Chengalpattu,Data Analysis; HTML/CSS,Yes,4,36000,High,High,On-site,Developing,Python,Seeking Job
+STU0981,22,UG,Arts,B.A. Tamil,2028,8.78,Both,HR Assistant,Kanchipuram,Power BI; Data Analysis; Customer Support; Accounting; SQL; Python,No,0,37000,Medium,High,Hybrid,Developing,Interview Skills,Seeking Job
+STU0982,24,UG,Arts,B.A. English,2027,6.76,Not decided,Data Entry Operator,Kanchipuram,Accounting; SQL; Problem-solving,No,0,21000,Low,Low,Remote,Job Ready,Interview Skills,Seeking Job
+STU0983,23,Diploma,Engineering,B.E. Mechanical,2026,8.32,Private,Accounts Assistant,Chengalpattu,Java; SQL,No,0,42000,High,High,Remote,Beginner,Communication,Seeking Job
+STU0984,20,UG,Science,B.Sc. Computer Science,2027,8.31,Both,Software Developer,Chengalpattu,Python; Power BI; MS Excel; HTML/CSS,No,0,12000,Low,High,On-site,Developing,SQL,Seeking Job
+STU0985,24,UG,Arts,B.A. Tamil,2025,6.87,Both,Sales Executive,Chennai,Power BI; Typing; HTML/CSS; Tally; Java,Yes,3,16000,Medium,High,Hybrid,Job Ready,Excel,Seeking Job
+STU0986,24,UG,Commerce,B.Com Corporate Secretaryship,2027,9.73,Both,Sales Executive,Kanchipuram,Tally; Java; Communication; MS Excel,No,0,40000,Low,Medium,Hybrid,Beginner,Python,Seeking Job
+STU0987,25,UG,Arts,B.A. English,2026,8.35,Government,Data Entry Operator,Kanchipuram,SQL; Java; Problem-solving; MS Excel,Yes,2,24000,Low,High,Remote,Developing,Communication,Seeking Job
+STU0988,22,UG,Commerce,B.Com Accounting & Finance,2026,8.93,Both,Data Entry Operator,Chengalpattu,MS Excel; Typing; Data Analysis; HTML/CSS; Power BI,Yes,8,36000,Low,High,Hybrid,Developing,Aptitude,Seeking Job
+STU0989,19,UG,Commerce,B.Com Accounting & Finance,2027,6.31,Both,HR Assistant,Other Tamil Nadu,Java; Tally; Power BI; Customer Support; Communication; Typing,Yes,11,33000,High,High,On-site,Beginner,Python,Seeking Job
+STU0990,22,UG,Commerce,B.Com Accounting & Finance,2027,7.46,Private,MIS Executive,Tiruvallur,Problem-solving; Tally,No,0,12000,Low,High,On-site,Beginner,Power BI,Preparing for Exams
+STU0991,21,PG,Commerce,B.Com,2027,6.37,Private,Software Developer,Tiruvallur,Customer Support; Java; HTML/CSS; Accounting; Communication; Problem-solving,No,0,14000,Medium,Medium,On-site,Beginner,Power BI,Seeking Job
+STU0992,23,UG,Science,B.Sc. Mathematics,2028,7.4,Government,Clerk,Other Tamil Nadu,MS Excel; Typing; Java,No,0,34000,High,Low,Remote,Developing,SQL,Seeking Job
+STU0993,23,UG,Arts,B.A. Tamil,2027,7.33,Private,Data Analyst,Chennai,Accounting; MS Excel; SQL; Tally; Typing,Yes,6,30000,Low,Low,Remote,Job Ready,Interview Skills,Seeking Job
+STU0994,25,PG,Science,B.Sc. Computer Science,2027,6.82,Not decided,MIS Executive,Chennai,Customer Support; Java; Power BI; Communication; Tally,No,0,31000,Low,High,Hybrid,Job Ready,Communication,Placed
+STU0995,21,PG,Engineering,B.E. Mechanical,2025,8.76,Government,Banking Associate,Other Tamil Nadu,Communication; Typing; HTML/CSS; Problem-solving,Yes,3,21000,High,High,Remote,Developing,Communication,Seeking Job
+STU0996,23,UG,Commerce,B.Com Accounting & Finance,2025,6.18,Private,Junior Assistant,Other Tamil Nadu,Typing; Customer Support; Data Analysis,No,0,40000,High,High,Remote,Beginner,Python,Preparing for Exams
+STU0997,25,UG,Engineering,B.E. Mechanical,2027,8.02,Private,Data Entry Operator,Chennai,Data Analysis; Tally; Power BI; Communication,No,0,27000,High,High,Hybrid,Developing,Communication,Seeking Job
+STU0998,25,UG,Science,B.Sc. Computer Science,2025,8.85,Not decided,Data Analyst,Tiruvallur,Accounting; Typing; Power BI,No,0,33000,Medium,Medium,Remote,Job Ready,Communication,Seeking Job
+STU0999,21,UG,Science,B.Sc. Chemistry,2026,6.62,Private,Software Developer,Tiruvallur,MS Excel; Data Analysis; Java; Python; Power BI,No,0,36000,High,High,On-site,Beginner,Communication,Seeking Job
+STU1000,24,UG,Arts,B.A. Economics,2026,7.47,Government,Data Entry Operator,Kanchipuram,Power BI; Java; SQL,No,0,38000,High,Low,On-site,Beginner,Excel,Seeking Job
