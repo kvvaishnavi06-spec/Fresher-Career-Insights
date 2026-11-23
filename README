@@ -64,6 +64,35 @@ The final dashboard summarizes:
 - Python – Python analysis scripts
 - Output – Generated charts and dashboard
 
+## Business Insights
+
+### 1. Overall Placement Performance
+Out of 1,000 students, 90 students were placed, resulting in an overall placement rate of 9%. This indicates that the majority of students in the dataset are still seeking employment, preparing for competitive exams, or pursuing higher studies.
+
+### 2. Placement by Degree Stream
+Management students recorded the highest placement rate at 11.24%, followed by Engineering at 10.65%. Science students had the lowest placement rate at 7.51%.
+
+### 3. Preferred Job Sector
+Students preferring private jobs had a placement rate of 9.54%, slightly higher than Government preference at 9.38%. Students undecided about their sector had a lower placement rate of 7.69%.
+
+### 4. Internship Experience
+Students with internship experience had a placement rate of 10.38%, compared with 8.44% for students without internship experience. This suggests internship experience may be associated with improved placement outcomes in this dataset.
+
+### 5. Skills and Training Needs
+Communication training had the highest placement rate among training categories at 11.69%, followed by Python at 11.20%. Aptitude training had the lowest placement rate at 3.55%. These results should be interpreted as descriptive comparisons, not proof that training causes placement.
+
+### 6. Job Role Analysis
+MIS Executive had the highest placement rate at 12.00%, followed by Sales Executive at 11.83% and Software Developer at 10.53%.
+
+## Recommendations
+
+- Encourage students to gain internship experience and practical exposure.
+- Prioritize communication, Python, SQL, Excel, and problem-solving skill development.
+- Provide career guidance to students who are undecided about job sectors.
+- Use degree-stream-specific training plans based on identified training requirements.
+- Help students align their skills with the roles they prefer.
+- Track placement outcomes periodically to evaluate career-readiness programs.
+
 ## Conclusion
 This project demonstrates data analysis skills using Python, including data grouping, aggregation, percentage calculations, comparison of categories, and visualization.
 
